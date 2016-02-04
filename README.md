@@ -20,5 +20,11 @@ Chapters:
 11. Philosophy engine supply Chain: Let’s build this!
  
 
+Elements of Trash Wizardry:
 
+1. Coils of wire and permanent magnets from found wire and magnets to make motors and pumps known as Philosophy Engine
+2. skeletron frame system from found sticks
+3. Fractal fluid sytem made from thermoplastics with Philosophy Engine pumps, with fluid transistors, fluid amplifiers, vacuum pumps, plasma, liquid chemical energy storage of the battery and capacitor types
+4. Rumbles of robots that can fabricate objects and scavenge for parts, some of them designed to move through the fractal fluid reactors to edit the shape and build new things into it as well as build more robots and other machines
+5. Trash Wizard stick that can grow the rest of the the stuff, connects to Capitalist world via any smart phone, with or without connection to the Capitalist INternet
 
