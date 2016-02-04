@@ -3,7 +3,7 @@ Post Capitalist Industrial Development Book
 
 Chapters:
 
-1. [Capitalism](https://github.com/LafeLabs/PostCapitalistIndustry/edit/master/Capitalism.md)
+1. [Capitalism](https://github.com/LafeLabs/PostCapitalistIndustry/edit/master/CapitalismChapter.md)
 2. [Fields](https://github.com/LafeLabs/PostCapitalistIndustry/edit/master/FileldsChapter2.md)
 3. [Philosophy Engine: Motors and Pumps](https://github.com/LafeLabs/PostCapitalistIndustry/edit/master/EngineChapter3.md)
 4. [Rumbles of Robots](https://github.com/LafeLabs/PostCapitalistIndustry/edit/master/RumblesChapter4.md)
