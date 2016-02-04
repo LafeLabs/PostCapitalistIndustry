@@ -3,7 +3,7 @@ Post Capitalist Industrial Development Book
 
 Chapters:
 
-1. [Capitalism](https://github.com/LafeLabs/PostCapitalistIndustry/edit/master/capitalism.md)
+1. [Capitalism](https://github.com/LafeLabs/PostCapitalistIndustry/edit/master/Capitalism.md)
 2. Fields of power: electric, magnetic, potential energy, velocity, force
 3. Motors and Pumps
 4. Rumbles of Robots
