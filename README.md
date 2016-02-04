@@ -5,8 +5,8 @@ Chapters:
 
 1. [Capitalism](https://github.com/LafeLabs/PostCapitalistIndustry/edit/master/Capitalism.md)
 2. [Fields](https://github.com/LafeLabs/PostCapitalistIndustry/edit/master/FileldsChapter2.md)
-3. Motors and Pumps
-4. Rumbles of Robots
+3. [Philosophy Engine: Motors and Pumps](https://github.com/LafeLabs/PostCapitalistIndustry/edit/master/EngineChapter3.md)
+4. [Rumbles of Robots](https://github.com/LafeLabs/PostCapitalistIndustry/edit/master/RumblesChapter4.md)
 5. Slimezistors and VSSI(Very Small Scale Integration)
 6. Fractal Reactors and living matter
 7. Trash Wizards and Value Circles
