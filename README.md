@@ -1,5 +1,7 @@
 # PostCapitalistIndustry
-Post Capitalist Industrial Development Book
+Post Capitalist Industrial Development
+or Technology for a Free Future
+or Trash Wizardry: The Stickening
 
 Chapters:
 
