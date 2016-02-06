@@ -1,3 +1,18 @@
+Three sections:
+
+1. Why
+2. The Machine
+3. Hope for the future
+
+section 1 starts like this:
+
+What is best in life?  To care for each other and to have adventures.  Technology can help us do both these things, building societies where all physical needs are taken care of as well as which perserve the adventure that makes life worth living.  However, as technology has advanced it has increasling served its own needs.  It has such a powerfuly overall positive effect on the human condition that we have let the rules of technical progress dicate the rest of our society.  As I discuss in the next section of this chapter, I have some theories I will present here about the nature of this technical progress structure and how it's falling apart.  
+
+This section outlines the goals of the overall work, the overall ideas, and how the work here will be structured.  It is an introduction which focuses on the purpose of the whole thing.  
+
+Section 2 is where all the rants get condensed about capitalism, under the heading The Machine, where I avoid launching a broadside on a tired word, and can define my own concept here(military, mining, money, machines, capital, monotheism).  Starts iwth "What is Capitalism?"
+
+Section 3 outlines the technical gaols more clearly as a counterpoint to capitalism or The Machine or whatever, making it clear that this is "post capitalist industry" without actually having to get all ranty as much.
 # On Capitalism
 
 What is capitalism?  This is something that critics of it weirdly avoid a lot of the time.  If you look up various definitions, it generally goes something like this: Capitalism is the economic system in which the means of production are privately owned."  I hate this definition.  
