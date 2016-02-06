@@ -19,7 +19,19 @@ Chapters:
 10. Problems to solve
 11. Philosophy engine supply Chain: Let’s build this!
  
-
+Chapters(v2)
+1. Capitalism and beyond
+2. Measures of the world
+3. Fields
+4. Philosophy Engine: Motors and Pumps
+5. Skeletron: Framing a New Technology
+6. Fractal Reactors, Living Matter, and the SlimeZistor
+7. Trash Wizards and Value Circles
+8. Post capitalist industrial production: The Junk Car Feed
+9. Visions of the Future(fiction snaptshot compilation)
+10. The Problem List
+11. The Supply Chain: Let's Build This!
+ 
 Elements of Trash Wizardry:
 
 1. Coils of wire and permanent magnets from found wire and magnets to make motors and pumps known as Philosophy Engine
@@ -28,3 +40,20 @@ Elements of Trash Wizardry:
 4. Rumbles of robots that can fabricate objects and scavenge for parts, some of them designed to move through the fractal fluid reactors to edit the shape and build new things into it as well as build more robots and other machines
 5. Trash Wizard stick that can grow the rest of the the stuff, connects to Capitalist world via any smart phone, with or without connection to the Capitalist INternet
 
+Demos:
+
+1. vibrator motor with smart board(done)
+2. vibrator motor with dumb board(done)
+3. rotating motor
+4. water pump on a 1/4 to 1 inch pipe
+5. water pump on  1mm or so 
+6. vacuum pump of any kind
+7. pressurized air pump
+8. hopper robot that hops around
+9. roller robot that rolls around, tumble weed style
+10. system to charge a 50 V capacitor with a turning magnet which can be driven with wind
+11. same with water
+12. same with 1000 V capacitor
+13. same with charging of LiPo battery over USB
+14. fractal reactor demo with small pumps, big pumps, valves, floating robots, chemical mixing, electrochemistry, ink output for display, touch inputs on surfaces, binary adder
+15. generic heater tools
