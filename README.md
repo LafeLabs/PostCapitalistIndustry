@@ -55,5 +55,5 @@ Demos:
 11. same with water
 12. same with 1000 V capacitor
 13. same with charging of LiPo battery over USB
-14. fractal reactor demo with small pumps, big pumps, valves, floating robots, chemical mixing, electrochemistry, ink output for display, touch inputs on surfaces, binary adder
-15. generic heater tools
+14. fractal reactor demo with small pumps, big pumps, valves, floating robots, chemical mixing, electrochemistry, ink output for display, touch inputs on surfaces, binary adder, electrolysis machine to get O2 and H2
+15. generic heater tools to reshape thermo plastics
