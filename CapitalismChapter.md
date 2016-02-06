@@ -13,6 +13,9 @@ This section outlines the goals of the overall work, the overall ideas, and how 
 Section 2 is where all the rants get condensed about capitalism, under the heading The Machine, where I avoid launching a broadside on a tired word, and can define my own concept here(military, mining, money, machines, capital, monotheism).  Starts iwth "What is Capitalism?"
 
 Section 3 outlines the technical gaols more clearly as a counterpoint to capitalism or The Machine or whatever, making it clear that this is "post capitalist industry" without actually having to get all ranty as much.
+
+Also second chapter, before Fields, should be Measures of the World, about units and quantities first, trying to avoid frightening language like "metrology" as much as possible.
+
 # On Capitalism
 
 What is capitalism?  This is something that critics of it weirdly avoid a lot of the time.  If you look up various definitions, it generally goes something like this: Capitalism is the economic system in which the means of production are privately owned."  I hate this definition.  
