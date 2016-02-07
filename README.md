@@ -22,7 +22,7 @@ Chapters:
 Chapters(v2)
 
 1. Capitalism and beyond
-2. Measures of the world
+2. [Measures of the world](https://github.com/LafeLabs/PostCapitalistIndustry/blob/master/Measures.md)
 3. Fields
 4. Philosophy Engine: Motors and Pumps
 5. Skeletron: Framing a New Technology
