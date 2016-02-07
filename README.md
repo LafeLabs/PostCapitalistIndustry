@@ -17,7 +17,7 @@ Chapters:
 8. [Post capitalist industrial R&D and production, the great Junk Car Feed](https://github.com/LafeLabs/PostCapitalistIndustry/blob/master/JunkCars.md)
 9. [Visions of the Future](https://github.com/LafeLabs/PostCapitalistIndustry/blob/master/visions.md)
 10. [Problems to solve](https://github.com/LafeLabs/PostCapitalistIndustry/blob/master/problems.md)
-11. Philosophy engine supply Chain: Let’s build this!
+11. [Philosophy engine supply Chain: Let’s build this!](https://github.com/LafeLabs/PostCapitalistIndustry/blob/master/lets_build.md)
  
 Chapters(v2)
 1. Capitalism and beyond
