@@ -20,6 +20,7 @@ Chapters:
 11. [Philosophy engine supply Chain: Let’s build this!](https://github.com/LafeLabs/PostCapitalistIndustry/blob/master/lets_build.md)
  
 Chapters(v2)
+
 1. Capitalism and beyond
 2. Measures of the world
 3. Fields
