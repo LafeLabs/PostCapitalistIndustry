@@ -16,7 +16,7 @@ Chapters:
 7. [Trash Wizards and Value Circles](https://github.com/LafeLabs/PostCapitalistIndustry/blob/master/TrashWizards.md)
 8. [Post capitalist industrial R&D and production, the great Junk Car Feed](https://github.com/LafeLabs/PostCapitalistIndustry/blob/master/JunkCars.md)
 9. [Visions of the Future](https://github.com/LafeLabs/PostCapitalistIndustry/blob/master/visions.md)
-10. Problems to solve
+10. [Problems to solve](https://github.com/LafeLabs/PostCapitalistIndustry/blob/master/problems.md)
 11. Philosophy engine supply Chain: Let’s build this!
  
 Chapters(v2)
