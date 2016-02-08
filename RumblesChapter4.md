@@ -2,7 +2,7 @@
 
 # Rumbles of Robots
 
-Add: littoral robot rumbles which can use tides and river currents to generate electricity to propel themselves upstream.  Can be amphimious, use water to charge but land to move, can move with hopping, jumping, walking, rolling, and slithering.
+Add: littoral robot rumbles which can use tides and river currents to generate electricity to propel themselves upstream.  Can be amphimious, use water to charge but land to move, can move with hopping, jumping, walking, rolling, and slithering.  Littoral trash cleanup robots are fundable, can make a huge difference in cleanup of a waterway, and also give us free source material for more building.  
 
 # Hopping, rolling, walking, running, jumping, driving
 
