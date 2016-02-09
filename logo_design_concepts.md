@@ -14,6 +14,18 @@
 - inductors and capacitors and resistors
 - circle A
 - squat sign
+- double black flag
+- atomic orbitals
+- nanoscale
+- water molecules
+- magnetic fields
+- electric fields
+- jolly roger
+
+
+
+
+
 
 
 
