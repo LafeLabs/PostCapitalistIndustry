@@ -1,3 +1,6 @@
+
+![image](images/Anarchist_back_cat.jpg)
+
 Three sections:
 
 1. Why

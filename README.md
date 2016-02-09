@@ -19,7 +19,8 @@ Chapters:
 10. [Problems to solve](https://github.com/LafeLabs/PostCapitalistIndustry/blob/master/problems.md)
 11. [Philosophy engine supply Chain: Let’s build this!](https://github.com/LafeLabs/PostCapitalistIndustry/blob/master/lets_build.md)
  
-Chapters(v2)
+### Chapters(v2)
+where does energy generation and storage go? does that need its own chapter?  Maybe that's part of the motor chapter.  That makes it a long but coherent chapter, break it up into sections and it's ok.
 
 1. Capitalism and beyond
 2. [Measures of the world](https://github.com/LafeLabs/PostCapitalistIndustry/blob/master/Measures.md)
@@ -58,3 +59,5 @@ Demos:
 13. same with charging of LiPo battery over USB
 14. fractal reactor demo with small pumps, big pumps, valves, floating robots, chemical mixing, electrochemistry, ink output for display, touch inputs on surfaces, binary adder, electrolysis machine to get O2 and H2
 15. generic heater tools to reshape thermo plastics
+
+
