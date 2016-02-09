@@ -1,3 +1,6 @@
+![image](fractal_reactor_cartoon2.png =300x)
+
+
 Fractal Reactors starts the whole thing, moving fluids around, actually make pumps at different sizes, make a fractal setup
 
 finding your thermo plastics, working them, being safe
@@ -35,5 +38,3 @@ Everything can be pumped with fluids, vacuum, air, other gasses, hot or cold flu
 HIgh voltages can drive electrostatic actuators anywhere and high currents can drive coils to drive magnets anywhere.  
 
 Basic test systems can be made by cutting with heated tools into soft thermo plastics like vinyl to create channels, then pressing Saran wrap(half mil film of PVC or LDPE) or silicone or PMMA across the top with adhesive to make a flexible or rigid top. 
-
-

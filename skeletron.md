@@ -6,6 +6,8 @@ Skeletron is the skeletal system of the technology.  There are many ways for a p
 
 use of direct drive and motors to build power tools to shape it, how to scale, how to do various simple things like bearings, how to connect to other stuff
 
+# Specification, medium of Exchange
+
 # Examples
 
 - motor

@@ -25,4 +25,3 @@ use of smarth phone to see the fields, use of pickup coil to see changing flux
 # Temperature
 
 do experiments, show platinum thermometer usage, smart phone usage
-

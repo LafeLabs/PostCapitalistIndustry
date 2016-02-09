@@ -30,3 +30,11 @@ What is mass?  How do we measure it? Why do we care?  Mass represents how much o
 
 If we ignore the electrons it always make a much smaller than 0.1% difference and they can be ignored.  
 
+watt balance and also the silicon ball
+
+### Dimensional analysis and Factor Label Method gets whole section
+
+Google calculator with units
+Ipython with units
+BIPM, the NMI system, and metrology
+constants vs. units and the quantum SI
