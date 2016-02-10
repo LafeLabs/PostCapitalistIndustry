@@ -1,4 +1,4 @@
-1. Fields, give examples, draw piectures, density revisited
+1. Fields, give examples, draw piectures, mass-density revisited
 2. the electric field: go through physics texts and make sure we cover it all, build van der graaf generator using rotational motor, create plans to build it
 3. electric field theory: lots of images with fields shown, units used, examples with lightning and capacitors
 4. electric field experiments: use the van der graaf and the trash wizard stick to measure E, q, C, F etc.  Fields in matter with Leiden Jar demo
@@ -12,9 +12,13 @@
 12. temperature fields, images with phone, measurement with phone, thermal conductance measuremnt with phone, ipython notebooks for all the different types of field
 13. lots of physics tie ins with the phone
 14. build physical field calculators for dipole, study the dropoff in ways that make sense without a ton of math
+15. draw out cartoons showing how E and B fields relate to each other
 
 
+![image](images/betterFieldSquatIdeagraph.png =400x) 
 
+![image](images/FieldCircleA2.png
+ =400x) 
 
 # Force and mass
 
@@ -33,11 +37,13 @@ More applications of electric field,
 
 # Magnetic field 
 
-![image](images/SQUATFIELD2.png =200x) 
 
 vector potential may be useful for our graphical approac, go back through the whole vector potential thing for magnetic dipoles
 
 use of smarth phone to see the fields, use of pickup coil to see changing flux
+
+![image](images/magneticdipole1.png =300x) 
+
 
 # Pressure and velocity of fluids
 

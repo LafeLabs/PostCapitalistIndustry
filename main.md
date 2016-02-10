@@ -6,7 +6,6 @@
 
 ![image](images/Anarchist_back_cat.jpg =400x) 
 
-
 Table of Contents:
 
 1. [Capitalism and Beyond](capitalism.md)

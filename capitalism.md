@@ -56,6 +56,18 @@ To repeat: to attempt to reform capitalism while continuing to use any of our cu
 
 Every atom.  Every atom changes in how it relates to the whole.  Same physics, same atoms, but new ordering principles, breaking out of the military design concepts.  No more are the ideal shapes always planes, circles, and perfect grid arrays of objects. No more are tech artifacts locked into a centrally controlling clock that tells them when to work and what to do.  No more is there a wall between engineer and customer, where some things are known and some are secret: all information on construction is physically encoded in the artifact, and updated as more edits are made, even if the user does not document(data stream into the dataverse).
 
+## Capitalism as Religion
+
+Beliefs of Capitalism:
+
+1. Private property is sacred
+2. All value can be added up using numbers
+3. All value must be extracted from the Earth or from human misery
+4. Human society is described by something called an "economy", which is a system for laundering mine products and human misery into numerical media of exchange
+5. Hard work is an intrisic good
+6. Our world can all be described by a giant heierarchy, people, animals, objects, gods, ideas, all are always ranked and this ranking is ordained by the highest authority, whatever that is 
+
+Expand on this, loop it back to what is best in life(which capitalism does not bother to address at all)
 
 ## Section III: Hope For the Future
 
