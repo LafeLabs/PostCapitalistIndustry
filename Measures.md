@@ -43,6 +43,7 @@ masses of:
 4. a blood cell
 5. an atom
 6. a hemoglobin molecule
+7. an electron compared to an atom, mass energy equivalents again
 
 
 add mass flow here, talk about mass flow controllers, how mass flow is like electricity, set some markers here to return on on electricity

@@ -11,6 +11,7 @@
 11. fluid flow at low length scales
 12. temperature fields, images with phone, measurement with phone, thermal conductance measuremnt with phone, ipython notebooks for all the different types of field
 13. lots of physics tie ins with the phone
+14. build physical field calculators for dipole, study the dropoff in ways that make sense without a ton of math
 
 
 

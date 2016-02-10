@@ -7,6 +7,7 @@
 - steam
 - oil and the petrocarbon energy cycle and system
 
+\$x = {-b \pm \sqrt{b^2-4ac} \over 2a}]\$
 
 ipython notebooks:
 
