@@ -1,8 +1,10 @@
 # Trash Wizardry: The Stickening
+## or: Post Capitalist Industry
+
+### Lafe Spietz 2016
 
 
-
-![image](images/Anarchist_back_cat.jpg =500x) 
+![image](images/Anarchist_back_cat.jpg =400x) 
 
 
 Table of Contents:
@@ -12,12 +14,13 @@ Table of Contents:
 3. [Fields](Fields.md)
 4. [Wires and Magnets](WiresMagnets.md)
 5. [Motors and Pumps](MotorsPumps.md)
-6. [Energy](Energy.md)
-7. [Resonance](Resonance.md)
-8. [Skeletron](skeletron.md)
-9. [Fractal Reactors and the SlimeZistor](FractalReactorSlimeZistor.md)
-10. [Trash Wizards and Value Circles](TrashWizards.md)
-11. [The Great Junk Car Feed](JunkCars.md)
-12. [Visions of a Better Tomorrow](visions.md)
-13. [What is to be Done?](problems.md)
-14. [Let's Build This!](lets_build.md)
+6. [Rumbles of Robots](RumblesRobots.md) 
+7. [Energy](Energy.md)
+8. [Resonance](Resonance.md)
+9. [Skeletron](skeletron.md)
+10. [Fractal Reactors and the SlimeZistor](FractalReactorSlimeZistor.md)
+11. [Trash Wizards and Value Circles](TrashWizards.md)
+12. [The Great Junk Car Feed](JunkCars.md)
+13. [Visions of a Better Tomorrow](visions.md)
+14. [What is to be Done?](problems.md)
+15. [Let's Build This!](lets_build.md)

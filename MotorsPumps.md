@@ -1,3 +1,27 @@
+1. build the latest versions of the various boards and test them
+2. build the generic new version of the driver on a stick, really go to town with it, make more youtubes of that
+3. build rotational motor with new driver board and 4 coils set up in 2 circuits, making a crude stepper motor configuration, with duct tape and sticks
+4. build a cart made from sticks, get it to roll around
+5. drive the cart with the rotational motor
+6. steer the cart with a vibrational resonant motor
+7. connect left, right, and forward motors on the cart to the pi via the control boards, prove that can control it all
+8. remote login to the pi over local network from laptop and from command line tell the robot how to move, whole thing run off of 4 rechargable AA's
+9. get the pi to be controlled over network using a smart phone, control the robot with a phone, document on youtube
+10. use rotational motor to make coil winding machine
+11. go out on a bike hunting for trash electronics, find coils, make adapter clamp for coil winder to unwind salvaged coils
+12. make a coil winding supply chain video
+13. find an amp from a car radio that can work for the dummy board control, figure out how to hack it to control the coil, put it all in a tutorial
+14. build a dummy pump motion thing without fluids
+15. build actual fluid pump, test it
+16. document all this, use phone to analyze data on it, ipythons for all of it
+17. more data documentation and ipytyons and howtos
+18. make hopping and walking and running little bopper robots, control with phone, get them to talk to each other, control the RUMBLE with the phone
+19. make the cheapest simplest swimming robot ever
+20. build up a set of everything motor related, big stock, spimes
+21. build up a set of generators to charge AA batteries and capacitors, and capacitors to smooth the charging of AAs
+22. scale down the pumps, start working toward fractal reactors
+
+
 
 # What is a Motor?
 

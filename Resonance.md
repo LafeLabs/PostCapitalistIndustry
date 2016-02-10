@@ -28,3 +28,4 @@ List of resonators:
 - Bose Einstein Condensate
 
 
+For all of the above, look at Q or continuous equivalent, impedance, frequencies, what the conjugate variables are, and how to measure, and why we care, dig up the berkeley physics course waves book and get this all right at a scholarly level.  Give examples you can do with stuff around you.

@@ -1,3 +1,13 @@
+1. go read all about copper and wires, write it up with references and notes
+2. make a set of super dooper python notebooks for all cases of wire calls
+3. go around by bike and find trash and experiment with what has good magnet wire, measure the gauge
+4. using the trash wire, derive and document careful post apocalyptic method of measuring AWG, make ample links 
+5. more clear standards and nomenclature for coils of various kinds made, FULLY DOCUMENTED, and also self-documented with data physically on/in the artifact that points to the repository with the standard as well as the specific story of fabrication.  This is where coil making really gets serious!!! With the coil winder this can get even more serious. make reference to Bruce Sterling's "spime" concept.
+6. go find books on the history and vital statistics of ferrite magnets, iron, etc, cite and write
+7. same with rare earth, look up trade journals etc, ask around, get the full global amount, understand where it all comes from, maybe talk to experts
+8. transformers: build big step ups, make mechanically driven high voltage zapper with some transformers, take apart and photograph transformers from trash, measure them, find information on global transformer production, analyze a car for transformers that are available
+9. More documentation on drive coil circuit, full explanation, a tour of how to drive a coil
+
 
 ## Section I: Wires 
 

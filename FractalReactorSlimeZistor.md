@@ -1,4 +1,20 @@
+Near term projects to DO:
+
+1. test SlimeZistor some more, observe and record data again, try different time scales
+2. test same with gate attempt on different materials of slime
+3. build pump enclosure
+4. once pump works, build a fractal pump system where one pump drives large volume through many small area channels, with electrical access
+5. do experiments trying to use heat and pressure to make channels in thermo plastics of various shapes and sizes, try different tools and molds and temperatures and methods
+6. Try simple biological detector experiments, buying enzymes and testing saliva and stuff electrically. If this works, work on design of fractal trash bio metrology tool with high throughput
+7. if the electrical transport of tiny channels is working nicely, try different layers of n and p type liquids, try making a pn junction and testing it in the normal slimeZistor way with pulse and response.  If that works, try NPN, see if it's a transistor
+8. build a simple electrolysis reactor to make H2 and O2
+9. build O2 plasma machine, play with patterns, make tiny plasma tubes with high voltage generators
+
+
 ![image](fractal_reactor_cartoon2.png =300x)
+
+![Fractal Reactor Cartoon](images/fractal_reactor_cartoon1.png "Fractal Reactor Cartoon")
+
 
 
 Fractal Reactors starts the whole thing, moving fluids around, actually make pumps at different sizes, make a fractal setup
