@@ -23,6 +23,22 @@
 
 ![image](images/FieldCircleA2.png) 
 
+more figures:
+
+1. cross product cartoons showing how current and field and force work
+2. field from a loop of wire
+3. field from a single wire
+4. field from a van der graaf generator
+5. field from a realistic disc of magnet
+6. field of velocity of water flow through a pipe
+7. field of non laminar and laminar flow, at different scales
+8. graphs of dropoff of field from dipole
+9. graphs of fields in various waves
+10. gravitational field cartoons
+11. stress and strain field cartoons
+
+each of these also gets a ipython notebook with the full calculation and units
+
 # Force and mass
 
 Density field most tangible, the only field here with mass
@@ -46,6 +62,8 @@ vector potential may be useful for our graphical approac, go back through the wh
 use of smarth phone to see the fields, use of pickup coil to see changing flux
 
 ![image](images/magneticdipole1.png =300x) 
+
+![image](images/generic_dipole_cartoon2.png =400x) 
 
 
 # Pressure and velocity of fluids
