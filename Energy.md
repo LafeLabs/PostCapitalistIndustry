@@ -1,3 +1,13 @@
+
+Plan:
+
+1. Library research with notes to create a accurate introduction, base ipython notebooks on that as I go
+2. build the range of energy storage and generation systems
+3. imagine and create image of what an ambient energy world looks like
+4. go bonkers with heat engines, solar heat, steam etc
+
+
+
 # Energy
 
 - mass equivalent
@@ -7,7 +17,7 @@
 - steam
 - oil and the petrocarbon energy cycle and system
 
-\$x = {-b \pm \sqrt{b^2-4ac} \over 2a}]\$
+is it possible to do a simple nuclear transformation to see energy mass equiv?  Or maybe photo electric effect
 
 ipython notebooks:
 

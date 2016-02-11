@@ -17,8 +17,11 @@
 
 ![image](images/betterFieldSquatIdeagraph.png =400x) 
 
+
 ![image](images/FieldCircleA2.png
  =400x) 
+
+![image](images/FieldCircleA2.png) 
 
 # Force and mass
 

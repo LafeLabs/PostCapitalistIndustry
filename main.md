@@ -14,7 +14,7 @@ Table of Contents:
 4. [Wires and Magnets](WiresMagnets.md)
 5. [Motors and Pumps](MotorsPumps.md)
 6. [Rumbles of Robots](RumblesRobots.md) 
-7. [Energy](Energy.md)
+7. [Energy](Energy.md) 
 8. [Resonance](Resonance.md)
 9. [Skeletron](skeletron.md)
 10. [Fractal Reactors and the SlimeZistor](FractalReactorSlimeZistor.md)
