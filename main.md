@@ -5,6 +5,7 @@
 
 
 ![image](images/Anarchist_back_cat.jpg =400x) 
+![image](images/Anarchist_back_cat.jpg) 
 
 Table of Contents:
 
