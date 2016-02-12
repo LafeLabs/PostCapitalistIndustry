@@ -8,6 +8,17 @@
 8. transformers: build big step ups, make mechanically driven high voltage zapper with some transformers, take apart and photograph transformers from trash, measure them, find information on global transformer production, analyze a car for transformers that are available
 9. More documentation on drive coil circuit, full explanation, a tour of how to drive a coil
 
+figures:
+
+1. photos of copper wire in trash
+2. photos of different kinds of copper wires
+3. photos of method for measuring AWG size directly
+4. photos of coil winding machine
+5. diagram of global copper supply chain and energy budget, money budget, mass in atoms
+6. transformer cartoons and photos
+7. magnet photos and cartoons, refernce back to fields
+8. lots of detailed diagrams on coil specs of various kinds
+
 
 ## Section I: Wires 
 

@@ -1,4 +1,4 @@
-
+	
 I want to say a few words about the way we will measure the world around us while building this technology.
 
 for each of these, talk about units used, orders of magnitude, conversions, meaning, and how to measure, typical values of things.  Also post apocalyptic metrology, metrology from cars, piggyback metrology on existing nation states and corporations. Each unit gets a ipython notebook.  Each unit has a simple measurement.
@@ -50,6 +50,25 @@ add mass flow here, talk about mass flow controllers, how mass flow is like elec
 
 momentum, momentum of water in a pipe, toilet circuit, compute R, L, C of the flush and refill. 
 
+little g and big g
+
+figures: 
+
+1. scales
+2. watt balance
+3. silicon sphere image
+4. kilogram in france
+5. spring scale
+
+
+![image](images/big-M-little-m.png =400x)
+
+ 
+![image](images/little-g-fig.png =400x) 
+
+
+
+atoms and mols
 
 ### Distance, Position, Displacement, time, speed
 
@@ -61,6 +80,8 @@ Measure distance with some form of electromagnetic wavelength measurement
 
 how to use vernier calipers, how to make a set from scratch and calibrate it, make a giant vernier caliper out of sticks, post apocalyptic tape measure
 
+pictures of measurement tools
+pictures of calipers
 
 ### Force and Acceleration
 
@@ -105,12 +126,27 @@ more about charge, real units, ipython notebook for that, also ipython notebooks
 5. specific component value units, examples
 6. build an LRC meter with the trash wizard stick--this should have a gui that lives in the browser of a smart phone, talking to the pi zero, which talks to the coil drive board, which measures voltages
 
+figures:
+
+1. images of components
+2. schematics of experiments
+3. graphs from experiments with explanations of units
+4. photos of experiments
+
+
 ### springs
 
 wood, steel, hooke's law, mechanical impedance, examples, measuring k, units, ipytyhon notebook with unit examples, damping constant
 
-### Dimensional analysis and Factor Label Method gets whole section
 
+1. cartoons of springs
+2. photos of springs
+
+### impedance units
+
+### energy and power units
+
+### Dimensional analysis and Factor Label Method gets whole section
 
 
 Google calculator with units

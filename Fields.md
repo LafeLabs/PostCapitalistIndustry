@@ -36,6 +36,8 @@ more figures:
 9. graphs of fields in various waves
 10. gravitational field cartoons
 11. stress and strain field cartoons
+12. Maxwell's equations cartoons showing how fields relate
+13. dipole radiation cartoon
 
 each of these also gets a ipython notebook with the full calculation and units
 
