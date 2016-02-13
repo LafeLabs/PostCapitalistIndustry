@@ -15,6 +15,8 @@
 15. draw out cartoons showing how E and B fields relate to each other
 
 
+$$ \theta \nabla^2 $$
+
 ![image](images/betterFieldSquatIdeagraph.png =400x) 
 
 
@@ -64,6 +66,14 @@ vector potential may be useful for our graphical approac, go back through the wh
 use of smarth phone to see the fields, use of pickup coil to see changing flux
 
 ![image](images/magneticdipole1.png =300x) 
+
+![image](images/fields/earth-gauss-tesla.png) 
+
+![image](images/fields/dipole_dropoff.png) 
+
+![image](images/fields/several-scales-dipole.png) 
+
+
 
 ![image](images/generic_dipole_cartoon2.png =400x) 
 
