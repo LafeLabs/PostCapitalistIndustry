@@ -11,11 +11,17 @@ Near term projects to DO:
 9. build O2 plasma machine, play with patterns, make tiny plasma tubes with high voltage generators
 
 
-![image](fractal_reactor_cartoon2.png =300x)
+![image](fractal_reactor_cartoon2.png)
 
 ![Fractal Reactor Cartoon](images/fractal_reactor_cartoon1.png "Fractal Reactor Cartoon")
 
 
+
+![image](images/slimezistors/clay_mold_pump_cartoon1.pdf)
+
+![image](images/slimezistors/assembled_pump_proto_cartoon.pdf)
+
+# boba straws can be the standard input!!!!!!
 
 Fractal Reactors starts the whole thing, moving fluids around, actually make pumps at different sizes, make a fractal setup
 

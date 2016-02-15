@@ -5,8 +5,8 @@ note: need to add a drawing from a photo of a hand for right and left hand rules
 experiment: need to use the trash wizard controller to make magnetic hysteresis plots for various materials around the junk yard.  
 
 ![image](betterFieldSquatIdeagraph.png) 
-
-
+![image](lefthandrulecartoon.pdf) 
+![image](righthandcartoon.pdf) 
 ![image](magneticdipole1.png) 
 ![image](little-g-fig.pdf) 
 ![image](big-M-little-m.pdf) 
