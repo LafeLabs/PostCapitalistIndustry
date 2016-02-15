@@ -61,10 +61,10 @@ figures:
 5. spring scale
 
 
-![image](images/big-M-little-m.png =400x)
+![image](images/big-M-little-m.png)
 
  
-![image](images/little-g-fig.png =400x) 
+![image](images/little-g-fig.png) 
 
 
 
@@ -102,10 +102,10 @@ start with angles, introduce radians, give examples in ipython of radian units, 
 
 simple trig cartoon 
 
-![image](images/sine_triangle_cartoon.png =300x) 
+![image](images/sine_triangle_cartoon.png) 
 
 
-F = ma again, but in rotation: torque, angular momentum
+F u ma again, but in rotation: torque, angular momentum
 
 
 sin, cos, period, frequency, angular frequency, generic nature of resonance, forshadowing of things to come in resonance, mini rant about importance of themes like resonance threading throughout your physics education curriculum.  

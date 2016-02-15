@@ -1,0 +1,5 @@
+#!/bin/sh
+
+pandoc capitalism.md -o capitalism.pdf
+pandoc Measures.md -o Measures.pdf 
+pandoc Fields.md -o Fields.pdf

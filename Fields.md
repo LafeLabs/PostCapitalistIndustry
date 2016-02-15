@@ -17,11 +17,10 @@
 
 $$ \theta \nabla^2 $$
 
-![image](images/betterFieldSquatIdeagraph.png =400x) 
+![image](images/betterFieldSquatIdeagraph.png) 
 
 
-![image](images/FieldCircleA2.png
- =400x) 
+![image](images/FieldCircleA2.png) 
 
 ![image](images/FieldCircleA2.png) 
 
@@ -65,17 +64,23 @@ vector potential may be useful for our graphical approac, go back through the wh
 
 use of smarth phone to see the fields, use of pickup coil to see changing flux
 
-![image](images/magneticdipole1.png =300x) 
+![image](images/magneticdipole1.png) 
 
 ![image](images/fields/earth-gauss-tesla.png) 
+
+![image](images/fields/GaussTeslaEquation.pdf) 
+
 
 ![image](images/fields/dipole_dropoff.png) 
 
 ![image](images/fields/several-scales-dipole.png) 
 
+![image](images/fields/lefthandrulecartoon.pdf) 
+![image](images/fields/righthandcartoon.pdf)
+![image](images/fields/DefineBequation.pdf) 
 
 
-![image](images/generic_dipole_cartoon2.png =400x) 
+![image](images/generic_dipole_cartoon2.png) 
 
 
 # Pressure and velocity of fluids
