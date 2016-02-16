@@ -3,7 +3,7 @@
 
 ### Lafe Spietz 2016
 
-![image](images/Anarchist_back_cat.jpg) 
+![image](cover2.png) 
 
 Table of Contents:
 
