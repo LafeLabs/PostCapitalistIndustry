@@ -21,6 +21,13 @@ Near term projects to DO:
 
 ![image](images/slimezistors/assembled_pump_proto_cartoon.pdf)
 
+![image](images/slimezistors/microfluidicChannelWhole.pdf) 
+![image](images/slimezistors/fluidic_straw_port1.pdf) 
+
+![image](images/slimezistors/ballvalve.pdf) 
+![image](images/slimezistors/ballvalve2.pdf) 
+
+
 # boba straws can be the standard input!!!!!!
 
 Fractal Reactors starts the whole thing, moving fluids around, actually make pumps at different sizes, make a fractal setup
@@ -60,3 +67,7 @@ Everything can be pumped with fluids, vacuum, air, other gasses, hot or cold flu
 HIgh voltages can drive electrostatic actuators anywhere and high currents can drive coils to drive magnets anywhere.  
 
 Basic test systems can be made by cutting with heated tools into soft thermo plastics like vinyl to create channels, then pressing Saran wrap(half mil film of PVC or LDPE) or silicone or PMMA across the top with adhesive to make a flexible or rigid top. 
+
+# The Shit Reactor
+
+THis is how the shit is processed.  A turd drops into a large end of a fractal structure.  it's partially immersed in water which has slow flow, and the air over the top has a constant flow rate also out to the branches from the trunks.  Robots of varying sizes cut up the turd parts and distribute them down tubes, then cut them up more with smaller robots and drag them down more tubes, all with fluid and air flow.  Another set of tubes moves heat along to control temperature in reactor chambers, on the smallest scale, with largest posible surface area to connect to dirt based bio reactor.  
