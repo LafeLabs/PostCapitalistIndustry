@@ -71,3 +71,19 @@ Basic test systems can be made by cutting with heated tools into soft thermo pla
 # The Shit Reactor
 
 THis is how the shit is processed.  A turd drops into a large end of a fractal structure.  it's partially immersed in water which has slow flow, and the air over the top has a constant flow rate also out to the branches from the trunks.  Robots of varying sizes cut up the turd parts and distribute them down tubes, then cut them up more with smaller robots and drag them down more tubes, all with fluid and air flow.  Another set of tubes moves heat along to control temperature in reactor chambers, on the smallest scale, with largest posible surface area to connect to dirt based bio reactor.  
+
+## last section:
+
+ could be the full nano synthesis method, with the ideas shown below and crude proof of principle for some of these, but this can be speculative, have lots of art.  Art here can show POV nano robots, doing all sorts of things, blasting with plasma, using catalytic particles to make nano wires etc. the turd reactor, food reactors, robot fabrication reactors, living things inside the reactors, breeding bacteria to do work, brewing chemicals as needed.
+
+## Ideas From Feb 16, 2016:
+
+1. Chemical potential gradients and electrochemistry should be usable to move atoms around in the network through the liquids with just mu gradient, no water mass flow needed
+2. one layer of the fractal reactor should be optical, with light microscopes everywhere, groups of users can monitor different cameras to work together to rumble the nano and micro and meso robots
+3. wire puller robots can pull different diameters of copper wire around by swimming through the liquid tunnels or hopping or dragging around through the tunnels
+4. atomically sharp metal tips on robots can create atomic scale nano fabrication by swimming around and engaging electirclaly, chemcially and mechanically with objects in the liquid
+5. Motion for floating neutrally bouyant robots can be almost entirely from outside water pressure from various directional pumps in the walls of passages, which act as very focused pumps to move objects, including but not exclusively robots, around.  
+6. Robots sholud be able to cut or blast or melt their way around through thermoplastics.  Or maybe a plasma etch could be made directional with some sort of external E and B fields
+7. my ball valve design should be able to be controlled using coils and the philosophy engine control, and valves should go from one to many, making very complex networks of many sizes and directions.
+8. From a couple days ago: electrochemistry and surface chemistry and chemical potential gradients should be usable to increase or decrease the size of channels in controlled ways
+9. a power source for robots could be energy delivered through the fluids in the form of ion current
