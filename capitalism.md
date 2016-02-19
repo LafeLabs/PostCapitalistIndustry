@@ -1,4 +1,4 @@
-## Section I: Why?
+## I. Section Why?
 
 What is best in life?  
 To care for one another, and to have adventures.
@@ -11,9 +11,11 @@ elaborate on adventure, counter example of star trek
 
 elaborate on caring for one another and include caring for ourselves
 
-at least mention the Trash Wizard, hint at what is to come, discuss the influences, and hopes for the project.
 
-## Section II: The Machine
+
+# II. What is Capitalism?
+
+grab all the articles on this, sort them, boil them down, keep it focused.
 
 What is Capitalism?  
 
@@ -37,7 +39,7 @@ Indeed in some of the definitions I've found online they even add phrases like "
 So if we really want to move beyond capitalism, criticisms of it need to start trying to really see it for what it is, and see just how far the viral ideas about God that underly it have wormed their ways into the very language we use to describe it. 
 
 
-## The Nature of Capitalist Money
+### The Nature of Capitalist Money
 
 
 Our currency is based on two things:
@@ -56,7 +58,7 @@ To repeat: to attempt to reform capitalism while continuing to use any of our cu
 
 Every atom.  Every atom changes in how it relates to the whole.  Same physics, same atoms, but new ordering principles, breaking out of the military design concepts.  No more are the ideal shapes always planes, circles, and perfect grid arrays of objects. No more are tech artifacts locked into a centrally controlling clock that tells them when to work and what to do.  No more is there a wall between engineer and customer, where some things are known and some are secret: all information on construction is physically encoded in the artifact, and updated as more edits are made, even if the user does not document(data stream into the dataverse).
 
-## Capitalism as Religion
+### Capitalism as Religion
 
 Beliefs of Capitalism:
 
@@ -69,12 +71,12 @@ Beliefs of Capitalism:
 
 Expand on this, loop it back to what is best in life(which capitalism does not bother to address at all)
 
-## Section III: Hope For the Future
-
-Really free hardware.  
 
 
-## Hope for the Future: Free Hardware
+
+# III. What is Free Technology?
+
+copy pasted from free hardware article, then edited heavily
 
 Anarchist technology is always free.  It is owned by no one.  Not only is there no intellectual property, there is no physical property, except for the Trash Wizard stick, which might effectively be a part of a Trash Wizards person.  The act of creation of an anarchist artifact is a gift to society of that artifact.  A trash wizard might grab any technology lying around and re purpose it at any time.  Anarchist technology does not recognize the concept of assigning value to things numerically in any way.  Anarchist technology may get involved in various value circles, having various types of abstract relationships with various value circles, as codified in the Data Feed.  Anarchist technology is also energy free in the sense that it always uses ambient energy, be it a set of pedals, a hand crank, a wind turbine, a steam turbine, a tidal generator, a lightning accumulator, or a solar concentrator.  Anarchist technology is designed to be as modular as possible, being as friendly with other unrelated technology as possible.  Anarchist technology does not distinguish between information, energy, and materials--all three are processed as equal participants in the various flow through the system.  Technology is not to be considered free unless it can be constructed by a small band of trash wizards using their trash wizard sticks using common source materials from the waste stream of the old extractionist economy.  The ideology of trash wizardry is that capitalist industry sacrificed itself for the bounty of our new free world.  Mining is dangerous and destructive and suicidal, but it's done, and we thank our ancestors, thank their sacrifice and their hard work and the creation of so much material wealth so evenly distributed(you can find a mineral from anywhere pretty much everywhere thanks to the spread of capitalist industrial technology).  We give thanks for this great gift from our ancestors and build a society based on free living on the bones of the old world. We accept that things will never go back to how they were before industrial capitalism but that we can live better because of our mineral inheritance.  We accept that the ways of the old world were a suicide pact, but also that even in a more free world, we can never be free from change and uncertainty.  Ways of life, empires, whole worlds, climates, continents, will rise and fall, and we cannot stop that level of cataclysmic change from happening.  But we can build an adaptable and sustainable future based on free values that moves forward into a future actually worth seeing.  We can bring adventure back into the human condition, as well as acceptance of a huge and uncertain world, and our role as passengers on it.   
 
@@ -147,7 +149,19 @@ But this technology will be alive, will exist as animals and plants do, without 
 
 
 
-## The Trash Wizard Alternative: Adventure!
+
+# IV. Why now?
+
+BOth the positive and negative sides: danger to humanity is imminent, but also opportunity is greater than ever before because of the vast mineral wealth that is everywhere and a critical mass of processing and communication technology.  Marx was about 100 years early, and didn't have access to the information or materials we do today.  Globalization and Capitalism really have literally sewn the seeds of their own destruction, by creating seeds for millions of new societies by spreading mineral wealth everywhere around the globe.  
+
+# V. Layout of this Book
+
+outline, goals, trash wizardry, summary of philosphy
+
+
+
+
+### The Trash Wizard Alternative: Adventure!
 
 An essential part of any manufacturing operation is “supply chains”.  For reasons that are not clear to me military people use the term “supply line” at least historically.  I shall now ramble about both in the context of things I’ve been reading recently.  First of all, I just finished a book about US involvement in Asia from the turn of the last century through the end of WWII, which was fascinating, called Empires on the Pacific.  Also, unrelated, I saw a news story about the owner of a plumbing shop in Texas who’s suing a car dealer because he saw his logo on a truck used by ISIS on the TV.  Apparently the truck somehow made it from Texas to the middle east and was acquired by ISIS.
 
@@ -170,6 +184,9 @@ I am against professionalism in all forms.  I’m against engineering and design
 We need to start over from scratch and build a technology without the existing techno priests which can be built and maintained by anyone with the desire to do so, using waste streams of the old system.  This has to happen in thousands of parallel tracks in many different fields of applied science and technology.  My goal here is to start a couple of those tracks which fall in my area of expertise: namely electromechanical devices for practical consumer products and some electronic devices.
 
 At the center of this is The Motor, or The Philosophy Engine, or whatever it ends up getting called.  But I also want to build up a way of studying and deploying new electronic materials that breaks the chains of the old system.  This means cheaper and simpler experiments, all done on available waste materials.
+
+
+
 
 
 
