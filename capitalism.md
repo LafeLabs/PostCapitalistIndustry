@@ -15,18 +15,9 @@ elaborate on caring for one another and include caring for ourselves
 
 # II. What is Capitalism?
 
-grab all the articles on this, sort them, boil them down, keep it focused.
-
 What is Capitalism?  
 
 What is capitalism?  This is something that critics of it weirdly avoid a lot of the time.  If you look up various definitions, it generally goes something like this: "Capitalism is the economic system in which the means of production are privately owned."  I hate this definition.  
-
-
-* mining
-* military 
-* monotheism
-* misery
-
 
 What this definition implies is that the opposite of capitalism is someone other than "the private owners" or "the capitalists" owning the "means of production", and "economics" being based on something other than private capital.  I put all these things in scare quotes because I see them all as subtle weapons to inject hidden ideology into peoples minds by the very wording of the definition.  First of all, the anarchist rejection of capitalism rejects ownership of minerals, land, and machines.  So any definition that talks about "who owns what" should already be rejected by the anarchist, and we have already ceded a major point by allowing this definition to stand at all unexamined. Capitalism is a system in which some people, called "owners", claim to have power over certain things which they claim the right to carry out by force if needed.  Capitalism is a system in which a military state exists which both feeds of the system of privately owned extraction and enforces the power structure that governs it.  
 
@@ -37,6 +28,20 @@ Another problem with the notion of "economic system".  I would argue that econom
 Indeed in some of the definitions I've found online they even add phrases like "as opposed to State ownership of the means of production".  In other words the supposed definition of capitalism used by most people is not a definition of capitalism at all, but a clever propaganda piece that creates a world in which the alternative to capitalism is another type of capitalism which is re-cast as the Socialist Enemy.  Since I consider all the Soviet style "communist" countries to be capitalist in their philosophical worldview, I find it not surprising that they hold the same warped view of this false dichotomy.  The communists can point to "capitalism" as their enemy, where "the ruling class" "own" the "means of production", rather than "the dictatorship of the proletariat".  When this goes to shit like it always does and destroys the environment even worse than "capitalism", people on the right say "I told you so" and people on the left say "it will be different next time! it's all Stalin's fault!".  
 
 So if we really want to move beyond capitalism, criticisms of it need to start trying to really see it for what it is, and see just how far the viral ideas about God that underly it have wormed their ways into the very language we use to describe it. 
+
+I will give capitalism the following simple definition:
+
+**Capitalism is a system of belief in which numbers are used to denote all value.**
+
+That, I believe, is the heart of the matter.  And it points to why experiments like the USSR have ended up having problems so similar to those in the western capitalist world.  In a word, money.  Money is not just metal or paper or faith in a government, it is the idea that a number, specifically an integer number(money can usually be subdivided but only up to a point) can be used to denote all human values.  This is why I believe the concept is so slippery, and so hard to break out of.  You can replace dollars with time dollars bit coin, gold, silver, bags of salt or gold backed e-dinar and it's really all the same thing: numbers.  Integer numbers.  As long as there is an exchange rate between a system of value and an existing currency you have not really broken free of the current system.  
+
+And what is money?  The purity of numbers has proven to be incredibly powerful. Users of the number based values have literally moved mountains with the power they have been able to deploy using money.  In particular money based values have been excellent at several things, some of which are good but most of which are bad.  In a nutshell the main mind viruses that are along for the ride on capitalism are, in no particular order:
+
+* mining
+* militarism 
+* hierarchy
+* misery
+* property 
 
 
 ### The Nature of Capitalist Money
@@ -139,13 +144,13 @@ No, we are told, energy is not "free".  It has to COME from somewhere.  But this
 
 But if free energy is energy that can be useful but is not derived from mining and labor, then free energy can and does exist.  Energy not spent on air conditioning when you build under a shade tree is free energy.  Energy from the sun that warms through your front window is free energy.  And the electrical energy stored in salvaged rebuildable capacitors from salvaged rebuildable robots storing ambient energy is free. 
 
-Capitalist logic always looks for ways to show that things are not really free, because capitalism is based on the ideas that value comes from labor and mined minerals.  If we approach industrial development from an anarchist perspective, however, we seek to build technology which is truly free, where no mineral extradction is implied in its construction.  
+Capitalist logic always looks for ways to show that things are not really free, because capitalism is based on the ideas that value comes from labor and mined minerals.  If we approach industrial development from an anarchist perspective, however, we seek to build technology which is truly free, where no mineral extraction is implied in its construction.  
 
-A technlogy is free when it gives more than it takes.  For instance a robot might require a few hours of service from human labor once a year.  But if it does the equivalent of even just a few hundred hours of human labor it has a net negative cost in labor-value.  In terms of minerals if it is built from minerals that were polluting the world around us, the mineral cost is negative: as opposed to subtracting value from the land as mining does it adds value to the land.  And finally the energy of the technology must be free in the sense that it absorbs from something unwanted elsewhere.  
+A technology is free when it gives more than it takes.  For instance a robot might require a few hours of service from human labor once a year.  But if it does the equivalent of even just a few hundred hours of human labor it has a net negative cost in labor-value.  In terms of minerals if it is built from minerals that were polluting the world around us, the mineral cost is negative: as opposed to subtracting value from the land as mining does it adds value to the land.  And finally the energy of the technology must be free in the sense that it absorbs from something unwanted elsewhere.  
 
-Ultimately what is being built here is a form of artificial life.  Life takes only what can be given from somewhere else.  Our technology exists in a world where humanity is God.  This all goes back to the notion that the structure of our technology is based on the monotheism of its initial architects.  We have built a technilogical world where Man is God and only God is above Man(to use biblical sounding gibberish).  
+Ultimately what is being built here is a form of artificial life.  Life takes only what can be given from somewhere else.  Our technology exists in a world where humanity is God.  This all goes back to the notion that the structure of our technology is based on the monotheism of its initial architects.  We have built a technological world where Man is God and only God is above Man(to use biblical sounding gibberish).  
 
-But this technology will be alive, will exist as animals and plants do, without a God.  This means that while it needs humanity to help it survive at all stages and can easily be controlled by humanity it will exist on its own and can funtion to a large extent on its own, following it's hardware-progammed logic to find what it needs in the environment to keep living and carying out its mission.  
+But this technology will be alive, will exist as animals and plants do, without a God.  This means that while it needs humanity to help it survive at all stages and can easily be controlled by humanity it will exist on its own and can funtion to a large extent on its own, following it's hardware-progammed logic to find what it needs in the environment to keep living and carrying out its mission.  
 
 
 
