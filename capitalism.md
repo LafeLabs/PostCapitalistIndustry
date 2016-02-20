@@ -41,7 +41,8 @@ And what is money?  The purity of numbers has proven to be incredibly powerful. 
 * militarism 
 * hierarchy
 * misery
-* property 
+* property (all private property is laundered misery, including money)
+* intellectual "property" is pure evil
 
 
 ### The Nature of Capitalist Money
