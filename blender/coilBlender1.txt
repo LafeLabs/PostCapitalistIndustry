@@ -1,0 +1,11 @@
+import bpy
+import bmesh
+
+for index in range(10):
+    bpy.ops.mesh.primitive_torus_add(location = (0,0,0), major_radius = 2.5 + index*0.06,minor_radius = 0.03)
+    foo =  bpy.data.objects.data.objects.values()[-1].name
+    bpy.ops.object.modifier_add(type = 'ARRAY')
+    bpy.data.objects[foo].modifiers["Array"].use_constant_offset = True
+    bpy.data.objects[foo].modifiers["Array"].use_relative_offset = False
+    bpy.data.objects[foo].modifiers["Array"].count = 20
+    bpy.data.objects[foo].modifiers["Array"].constant_offset_displace = (0,0,0.06)
