@@ -1,4 +1,4 @@
-	
+ 	
 I want to say a few words about the way we will measure the world around us while building this technology.
 
 for each of these, talk about units used, orders of magnitude, conversions, meaning, and how to measure, typical values of things.  Also post apocalyptic metrology, metrology from cars, piggyback metrology on existing nation states and corporations. Each unit gets a ipython notebook.  Each unit has a simple measurement.
