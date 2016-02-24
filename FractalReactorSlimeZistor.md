@@ -87,3 +87,16 @@ THis is how the shit is processed.  A turd drops into a large end of a fractal s
 7. my ball valve design should be able to be controlled using coils and the philosophy engine control, and valves should go from one to many, making very complex networks of many sizes and directions.
 8. From a couple days ago: electrochemistry and surface chemistry and chemical potential gradients should be usable to increase or decrease the size of channels in controlled ways
 9. a power source for robots could be energy delivered through the fluids in the form of ion current
+
+
+
+## Another fabrication idea: PET bottle fab
+
+INstead of 3d printers which take a uniform spool, 3d fabricators should use existing forms from bottles etc to build arbitrary shapes, usion a plastic fusion machine with heat to make plastic heat and pressure welds.  This can be done with a robotic arm that has human supervision but which is quasi automated.  I could build this now.  Bottle fusion based technology combined with skeletron could be very universal, do plumbing, ultra light flying drones.  This technology can be great for plumbing of all sizes. 
+
+HDPE!!  
+
+ALso note that in terms of means of production this is why blender is important.  Someoen with no resources but a computer can use blender to design a thing, then someone else with no machines can use a VR rig to hand assemble stuff from HDPE bottles using a hand heater tool with trash wizard electric heating.  
+
+  
+
