@@ -8,7 +8,9 @@ Start by building and documenting some actual robots, make a rumble, rumble the 
 6. make a mobile robot that can use a hot tool to rework thermo plastics
 7. floating robot that can re work thermo plastic(loop back to these on fractal reactor chapter)
 
+# add a whole section on the plastic bottle welding fabrication process
 
+Robots will be built that can cut plastic bottles, as well as weld plastic bottles together.  These robots will be made from the same process. ALso there will be flying robots that soar based on gossamer bottle wing construction with a ability to flap.  Also rolling robots will be bottle based. Very simple!  
 
 
 # Free Robots for Free Hardware
