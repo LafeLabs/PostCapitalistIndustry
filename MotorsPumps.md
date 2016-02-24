@@ -58,3 +58,6 @@ Rail against gears here, why gears are used everywhere and how it's part of a mi
 3. add membrane, build driver stick and magnet unit
 4. build fully working water pump, run around and pump water
 
+
+ pump and tubes can all be from plastic bottle parts cut and then welded back together.  magnets fully inside the plastic tube, tethered to the sides but free to move, driving plastic pushers to make peristaltic pumping action.  All the different kinds of vibrational motion can be done with plastic mechanical oscillators, which could drive air very fast with plastic bottle hing resonators.  vacuum pumps, air pumps, water pumps, all can be built from plastic bottles.  I have been thinking way too much about how to deal with solid blocks of poured or molded thermo plastic when there are existing materials in the form of bottles that are EVERYWHERE and which can make good plumbing and mechanical parts at absurdly low weightes.  A universal pump that can be built from pop bottles, coils of wire and magnets would be huge, definitely should be a component of basic trash wizard kit.  
+
