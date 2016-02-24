@@ -21,7 +21,7 @@
 21. build up a set of generators to charge AA batteries and capacitors, and capacitors to smooth the charging of AAs
 22. scale down the pumps, start working toward fractal reactors
 
-
+Definitly if plastic bottles are going to be a huge part of the tehcnology, include the electrostatic motor and generators that can be built easily using a plastic bottle rotor.
 
 # What is a Motor?
 
