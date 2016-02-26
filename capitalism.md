@@ -168,6 +168,7 @@ Also be sure to add a note here on novelty: it is not my goal.  I believe that t
 
 Against professionalism, against specialization.  SPecialization is fine up to about 100 people then it is a luxury for special projects.  If you need someone who makes up less than 1% of the population to do something your technology needs a reset and it sucks.  Our goal is total freedom for 100 people.  
 
+Also a major point to make sure is in here is about ownership, and how the concept of ownership is not just IP but novelty and getting stuff named after you and all that.  We need to change how we think of achievement and eliminate the concept of ownership if we are to get the full befenit of ideas. I aim to prove in these pages that capitalism in addition to a moral failure is a technical failure, that the underlying philosophical ideals of capitalism have prevented technical progress in all of our lives.  Ownership is always wrong. All property is immoral and holds back progress.
 
 
 ### The Trash Wizard Alternative: Adventure!
