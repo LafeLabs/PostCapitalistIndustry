@@ -2,6 +2,9 @@
 
 Skeletron is the skeletal system of the technology.  There are many ways for a physical technology to have a skeletal system, but the one I choose for this work is based primarily off wooden sticks.  Finding a wooden stick and very similar bits of usable finished wood for free can be accomplished almost anywhere humans live.  
 
+
+Skeletron should not just be wood: it is clear that plastic, salvaged from containers and heat and pressure welded, should be part of this.  How to build standard structural elements of plastic, how to weld it, how to build the weld tool.  
+
 # How to Build
 
 use of direct drive and motors to build power tools to shape it, how to scale, how to do 

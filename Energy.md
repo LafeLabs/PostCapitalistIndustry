@@ -58,3 +58,7 @@ build:
 ## Concept of Ambient Energy gets whole Section(of this chapter)
 
 draw the road map from very practical energy harvestors for my robots now to much more grand visions including robots that can go by themselves for hundreds of years, forraging for trash and processing it.  
+
+## How my power system works
+
+I think my power system of choice will be bipolar DC, where unregulated random frequency AC from the environment generally charges a + cap and a - cap, and they alternate driving high R coils from high voltage, with big step up transformer to get 100's of mV up to 10's of V, so like 100:1 step up, maybe 1000 turns and 10 turns.  With a center tap, and one diode on each side, to charge the two caps on alternating halves of the current cycle.  

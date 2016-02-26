@@ -95,6 +95,7 @@ ipython notebook to make the phone do all the things listed above and graph them
 
 get a phone to act as fit bit or whatever to track sports bullshit and graph it all using your mass
 
+the smart phone must be able to quickly get data into a iphython notebook for plotting and analysis, there should be a full set of experiments for mass and acceleration by swinging and throwing phones around.  The calculus lives here. 
 
 ### rotational motion
 
@@ -107,6 +108,7 @@ simple trig cartoon
 
 F u ma again, but in rotation: torque, angular momentum
 
+Again, must have entire suite of smart phone experiments to test this.
 
 sin, cos, period, frequency, angular frequency, generic nature of resonance, forshadowing of things to come in resonance, mini rant about importance of themes like resonance threading throughout your physics education curriculum.  
 
@@ -126,12 +128,22 @@ more about charge, real units, ipython notebook for that, also ipython notebooks
 5. specific component value units, examples
 6. build an LRC meter with the trash wizard stick--this should have a gui that lives in the browser of a smart phone, talking to the pi zero, which talks to the coil drive board, which measures voltages
 
+
+ need to build a van der graaf generator using the Motor and a mechanical electrometer to do E field measurements of space around the 
+
+also an electrostatic motor with pop bottles!  All pop bottle technology!  
+
 figures:
 
 1. images of components
 2. schematics of experiments
 3. graphs from experiments with explanations of units
 4. photos of experiments
+
+
+### magnetic units
+
+Magnetic units are explored using wires, magnets, various household items, and smart phones to measure the field.  Go out and measure power lines, compute current, measure AC magnetic fields.  
 
 
 ### springs
@@ -142,7 +154,11 @@ wood, steel, hooke's law, mechanical impedance, examples, measuring k, units, ip
 1. cartoons of springs
 2. photos of springs
 
+again with the smart phone
+
 ### impedance units
+
+my whole impedance discussion goes here ,connecting electrical and mechanical, leading into more detail later with the waves
 
 ### energy and power units
 

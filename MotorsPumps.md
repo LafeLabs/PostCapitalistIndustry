@@ -31,6 +31,12 @@ Rail against gears here, why gears are used everywhere and how it's part of a mi
 
 # Linear Driver: The building block
 
+Need to get this simpler.  Class D amplifiers salvaged from car radios.  Also simpler system that can be hand soldered from parts without a board.  Need to model this in 3d, then lay it out on a rock with epoxy, then solder, then use a lower temp heat gun to wrap in plastic.  
+
+THIS IS A GREAT ARCHITECTURE!!!!  rocks, JB weld, solder paste, samtec connectors to connect to the world, and wrapped in plastic!!!!!!!!!!!!!!1111111111
+
+BUILD this now!!!!!!! JB Weld goes to 260 C so if that goes on first, then I use 230 C to melt the solder paste, then 130 C to melt on the plastic.  
+
 # Resonance and Feedback
 
 1. Fire up the resonator and resonate everything

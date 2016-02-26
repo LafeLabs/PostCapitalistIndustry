@@ -164,6 +164,9 @@ BOth the positive and negative sides: danger to humanity is imminent, but also o
 
 outline, goals, trash wizardry, summary of philosphy
 
+Also be sure to add a note here on novelty: it is not my goal.  I believe that the obsession with novelty in applied science is a toxin of capitalism and that by ignoring where ideas come from and using them as needed, with no expectation of novelty that much faster and better progress can be made.  
+
+Against professionalism, against specialization.  SPecialization is fine up to about 100 people then it is a luxury for special projects.  If you need someone who makes up less than 1% of the population to do something your technology needs a reset and it sucks.  Our goal is total freedom for 100 people.  
 
 
 
