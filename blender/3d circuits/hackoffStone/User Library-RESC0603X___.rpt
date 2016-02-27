@@ -1,0 +1,89 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : 25A87F52-6F6B-42BE-8C20-0092DB887724
+Receiving System Product I.D.: 25A87F52-6F6B-42BE-8C20-0092DB887724
+File Name                    : \\PSSILO\catalogs\ContentCentral\RESC0603X___\Cache\P.42B0.tmp\94B7C0DC-DB7A-4F97-B97F-15E8A5E2CFCC.IGS
+Sending System               : SolidWorks 2016
+Preprocessor Version         : SolidWorks 2016
+File Creation Date           : 160226.110516
+Model Creation Date          : 160226.110516
+Units                        : MM
+Model Space Scale            : 1
+Author                       : partstream
+Organization                 : 
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+ERROR:   DE#   861, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE#   861, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE#   889, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE#   889, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE#   917, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE#   917, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE#   945, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE#   945, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE#  1001, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE#  1001, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE#  1029, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE#  1029, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE#  1555, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE#  1555, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE#  1583, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE#  1583, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE#  1687, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE#  1687, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE#  1715, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE#  1715, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE#  2217, TYPE   144: Problem encountered in outer trimming loop.
+ERROR:   DE#  2261, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE#  2261, TYPE   128: Unable to create a bspline surface.
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:               2
+  Highest number of significant digits:                      9
+  Average number of significant digits:                4.44395
+  Maximum distance to origin:                          1732.34
+  Minimum distance to origin:                                0
+  Effective number of significant digits:                    9
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+100  Arc                                             80        80
+102  Composite curve                                230       230
+110  Line                                           446       446
+120  Surface of revolution                           26        26
+124  Transformation matrix                           72        72
+126  Rational B-spline curve                        638       638
+128  Rational B-spline surface                       85        63
+142  Curve on a parametric surface                  115       115
+144  Trimmed parametric surface                     111       100
+314  Color definition                               111       111
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       2
+Surface feature(s)                     0
+Curve/Sketch feature(s)                0
+--------------------------------------------
+Start time: Friday, February 26, 2016 09:05:56
+Finish time: Friday, February 26, 2016 09:05:59
+Processing time: 0 days, 00 hours, 00 mins, 03 secs
