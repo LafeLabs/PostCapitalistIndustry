@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.01" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
@@ -6101,7 +6101,7 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
 <instance part="P+4" gate="VCC" x="101.6" y="44.958"/>
-<instance part="JP4" gate="G$1" x="148.336" y="48.26" rot="R180"/>
+<instance part="JP4" gate="G$1" x="150.876" y="50.8" rot="R180"/>
 <instance part="Q2" gate="G$1" x="96.52" y="15.24"/>
 <instance part="D2" gate="G$1" x="101.6" y="15.24" rot="R90"/>
 <instance part="GND16" gate="1" x="99.06" y="10.16"/>
@@ -6207,7 +6207,7 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <label x="99.06" y="22.86" size="1.778" layer="95"/>
 </segment>
 <segment>
-<wire x1="140.716" y1="48.26" x2="134.366" y2="48.26" width="0.1524" layer="91"/>
+<wire x1="143.256" y1="50.8" x2="134.366" y2="48.26" width="0.1524" layer="91"/>
 <pinref part="JP4" gate="G$1" pin="1"/>
 <label x="139.7" y="50.546" size="1.778" layer="95" rot="R180"/>
 </segment>
@@ -6226,7 +6226,7 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <label x="116.84" y="22.86" size="1.778" layer="95"/>
 </segment>
 <segment>
-<wire x1="134.366" y1="45.72" x2="140.716" y2="45.72" width="0.1524" layer="91"/>
+<wire x1="131.826" y1="43.18" x2="143.256" y2="48.26" width="0.1524" layer="91"/>
 <pinref part="JP4" gate="G$1" pin="2"/>
 <label x="140.462" y="45.466" size="1.778" layer="95" rot="R180"/>
 </segment>
