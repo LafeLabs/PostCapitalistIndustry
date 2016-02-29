@@ -152,6 +152,11 @@
 </layers>
 <board>
 <plain>
+<text x="49.784" y="19.304" size="1.778" layer="21">driveA2</text>
+<text x="47.879" y="27.305" size="1.778" layer="21">driveA1</text>
+<text x="83.566" y="29.845" size="1.778" layer="21" rot="R90">coil</text>
+<text x="64.389" y="27.686" size="1.778" layer="21" rot="R90">+</text>
+<text x="68.58" y="25.654" size="1.778" layer="21" rot="R180">GND</text>
 </plain>
 <libraries>
 <library name="resistor">
