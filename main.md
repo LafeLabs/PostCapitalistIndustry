@@ -12,6 +12,7 @@ Table of Contents:
 3. [Fields](Fields.md)
 4. [Wires and Magnets](WiresMagnets.md)
 5. [Motors and Pumps](MotorsPumps.md)
+6. [3d Circuit Fabrication Technology from Trash](circuit_fabrication_technology.md)
 6. [Rumbles of Robots](RumblesRobots.md) 
 7. [Energy](Energy.md) 
 8. [Resonance](Resonance.md)
