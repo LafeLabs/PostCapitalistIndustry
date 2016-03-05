@@ -83,6 +83,26 @@ how to use vernier calipers, how to make a set from scratch and calibrate it, ma
 pictures of measurement tools
 pictures of calipers
 
+need a table with various units of velocity and speed compared, and distance:
+
+* mph
+* knots
+* kph, "clicks"
+* m/s
+* mm/s
+* cm/s
+* speed of light
+* speed of sound in air
+* speed of sound in steel
+* 
+
+
+First Header                | Second Header
+----------------------------|--------------
+Content from cell 1         | Content from cell 2
+Content in the first column | Content in the second column
+
+
 ### Force and Acceleration
 
 Gravity as force and acceleration, units, ipython gravity notebook
