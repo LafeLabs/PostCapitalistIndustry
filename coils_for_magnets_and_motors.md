@@ -1,5 +1,6 @@
 # Coils for magnets and motors
 
+
 ## 1. Wire type
 
 What kind of wire do you have?  Does it have a thick, opaque rubbery insulation or something closer to a varnish that allows you to see the copper color through it?  You want the latter.  Anything with thick insulation will cut down on your number of turns you can have for a given size coil, which is a serious drawback for magnet coils. 
@@ -63,6 +64,23 @@ Now suppose each turn of the coil is on a circle of diameter about 3 cm.  The ci
 We can repeat this for several values to see what is optimal.  There are more design considerations for a drive coil.  The *force* is what we care about here.  And the force depends on essentially three things for a given permanent magnet: how well you get your wires into the highest field magnitude zone, how much current there is in the total coil, and how many turns.  I will assume we always design for about 1 amp of current in motor drive coils.  If we have a 1 Tesla magnet and are far enough away to get about 1/10th of that, that's 0.1 Tesla.  You can measure field using your smart phone and it will usually be in microtesla, so this is 100,000 microtesla.  Your phone probably does not go that high but you can extrapolate from field measurements outside and from the spec on the magnet to guess what the field is at a given spot.  If we multiply 1 amp by 0.1 Tesla and multiply that by the total length of 37 meters we get about 0.8 pounds of force, which is the ball park of what I want for motor stuff.  
 
 So this is the ball park target for drive coils: about 200-400 turns, about 3 cm across with a 1 cm area, length a few dozen meters, resistance a few Ohms, permanent magnet fields a fraction of a Tesla, and forces a fraction of a pound(a few Newtons).
+
+
+## 2. How to find wires
+
+ what appliances will have them, how to extract easily and safely.  
+
+## 3. How to Wind a coil
+
+Add methods for coil winding by hand, with reference to automated coil winder to be built in section after motor design documentation. 
+
+## different section in same chapter will cover motor construction
+
+## detailed documentation of drive and sense circuit
+
+## force on a wire must be studied with examples
+
+## inductance studied with examples
 
 
 
