@@ -6,7 +6,7 @@
 1. What is capitalism?
 2. statement of principles 
 3. What is free technology?
-4. What is a Trash wizard/witch?
+4. [What is a Trash wizard/witch?](what_is_the_trash_wizard.md)
 5. taking over the universities
 6. rumbles of robots
 7. fluidics, slimezistors, free drugs
@@ -41,17 +41,17 @@ none
 
 ### Book 2. Applied Physics for Post Capitalist Industry
 
-1. Capitalism and Beyond, statement of goals
+1. [Capitalism and Beyond](capitalism.md)
 2. Measures of our post capitalist world
-3. Fear and loathing in the vector fields 
-4. Wires, coils and magnets  [another newer version](coils_for_magnets_and_motors.md)
-5. Motors and Pumps
-6. 3d fabrication systems, blender integration
-7. rumbles of robots
-8. energy
-9. resonance
-10. skeletron
-11. fractal reactors and the Slimezistor
+3. [Fear and loathing in the vector fields](Fields.md)
+4. [Coils for Magnets and Motors](coils_for_magnets_and_motors.md)
+5. [Motors and Pumps](MotorsPumps.md)
+6. [3d Circuit Fabrication Technology from Trash](circuit_fabrication_technology.md)
+7. [Rumbles of Robots](RumblesRobots.md)
+8. [Energy](Energy.md) 
+9. [Resonance](Resonance.md)
+10. [Skeletron](skeletron.md)
+11.  [Fractal Reactors and the SlimeZistor](FractalReactorSlimeZistor.md)
 12. Supply chain data structures, call to action
 
 
