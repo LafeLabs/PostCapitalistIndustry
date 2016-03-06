@@ -44,7 +44,7 @@ none
 1. Capitalism and Beyond, statement of goals
 2. Measures of our post capitalist world
 3. Fear and loathing in the vector fields 
-4. Wires, coils and magnets
+4. Wires, coils and magnets  [another newer version](coils_for_magnets_and_motors.md)
 5. Motors and Pumps
 6. 3d fabrication systems, blender integration
 7. rumbles of robots
