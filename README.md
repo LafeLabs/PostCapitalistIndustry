@@ -8,7 +8,7 @@
 
 
 1. [What is capitalism?](capitalism.md)
-2. What is free technology? 
+2. [What is free technology?](free_technology.md) 
 3. [Statement of Principles](Principles.md)
 4. [What is a Trash wizard/witch?](what_is_the_trash_wizard.md)
 5. taking over the universities
