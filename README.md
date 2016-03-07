@@ -7,9 +7,9 @@
 ### Book 1. Trash Wizardry and Witchery: The Stickening
 
 
-1. What is capitalism?
-2. statement of principles 
-3. What is free technology?
+1. [What is capitalism?](capitalism.md)
+2. What is free technology? 
+3. [Statement of Principles](Principles.md)
 4. [What is a Trash wizard/witch?](what_is_the_trash_wizard.md)
 5. taking over the universities
 6. [Rumbles of Robots](RumblesRobots.md)
