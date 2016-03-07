@@ -1,4 +1,7 @@
 
+also this:
+[Trash Wizards and Value Circles](TrashWizards.md)
+
 What is a Trash Witch?  What is a Trash Wizard?  
 
 Witches and Wizards have for centuries been symbols of humans' ability to wield various magic powers.  I draw on many traditions for this concept, from pagan lore through Tolkien and Harry Potter.  The traditions built up from fiction, culture, and religions of various kinds give us a picture to draw on for the archetype of the Trash Magician.  I don't want to use the term "magician" too much though because it can be mistaken for the person who puts on a magic show.  Perhaps that is not all bad, though!  The magic show can both teach and inspire wonder and that is certainly one goal of Trash Magic.  
@@ -24,3 +27,5 @@ So a Trash Magician uses a combination of Wizardry and Witchery to amuse and pro
 A society of free stuff is not one with "zero cost".  It's one where cost is infinite but value is also infinite.  We are moving to a value system that works mostly with infinities.  That is part of what makes Trash Magic actually magical.  And if you're a Trash Witch or Wizard, that's your stuff!  You wield the magic that moves the trash around!  
 
 In addition to Trash Wizardry and Witchery one might be a Trash Daemon or Trash Imp.  Trash Goblins can have a place in our community but not Trolls.   
+
+Trash Wizards are always there for everyone.  We welcome the refugees of capitalism and it's evil twin, war.  WE do not recognize the validity of borders and are here to help subvert them as needed to help the down trodden.  
