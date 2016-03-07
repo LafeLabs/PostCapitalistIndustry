@@ -42,7 +42,7 @@ none
 ### Book 2. Applied Physics for Post Capitalist Industry
 
 1. [Capitalism and Beyond](capitalism.md)
-2. Measures of our post capitalist world
+2. [Measures of our post capitalist world](Measures.md)
 3. [Fear and loathing in the vector fields](Fields.md)
 4. [Coils for Magnets and Motors](coils_for_magnets_and_motors.md)
 5. [Motors and Pumps](MotorsPumps.md)
