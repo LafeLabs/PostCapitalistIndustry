@@ -1,4 +1,5 @@
 
+### introduction
 
 In order to wield the magic of Trash, we must be able to measure the world around us, and all the beautiful trash we find there.  This is the Trash Magic version of what is normally called "metrology", the science of measurement.  Just as capitalist metrology is often built on the needs of business for measurement and the ability of private business to be able to  build the tools needed, our metrology will be based on our ability to use Trash Magic to do it, and to do the things that Trash Wizards and Trash Witches will need in order to wield their magic.  This means that while our units will be based on theirs initially, we might end up with our own global infrastructure for construction and preservation of units, which could well lead to new definitions.  
 
@@ -10,6 +11,8 @@ I don't mean to denigrate the great work done by those who have built up the SI 
 
 Today we live in a world where just about everyone on Earth is connected to a cellular data network that is synchronized off of atomic time such that we all are connected on the same exact time to a few parts per billion of accuracy.  But how horrible is that?!  What monstrous inhumanity we force on our fellow people by forcing workers to stop work to eat at exactly the same time across many days' journey from each other!  And yet, while time is regimented to 8 digits across our whole species, our medical tests remain some of those with the worst metrology.  When life and death literally hang in the balance, as your blood is measured in various ways that need to be responded to quickly by medical personnel, we get crappy for profit companies charging too much money for slow, inaccurate tests.  Could large numbers of infinite-zero cost fluidics systems not just make medical tests fast and free, but make them better?  I believe so.  And should we build that before we figure out how to build a cesium atomic clock out of trash?  Probably, yes.  
 
+### distance, and time
+
 The first thing to talk about is distance.  I believe that it makes sense to use several units for this, both SI(metric) and English.  The base SI unit is the meter, which is a little over 3 feet.  The official SI definition is based on the speed of light and the definition of a second.  So a meter is how far light goes in one light second.  Which is a circular definition, but not a useless one.  Light goes at about 1 foot per nanosecond(a billionth of a second), so 1 meter is how far it goes in about 3 nanoseconds.  
 
 This immediately can be considered in the context of Trash Wizard technology.  We will use various smart phone related technologies in our stuff which have computers with clocks that run at 1 GHz or above.  At that speed, each clock cycle only takes a nanosecond or less.  So if your phone puts out a signal that bounces across the room to some robot and back, say about 30 feet, a whole 30 clock cycles can run on your computer while the signal is out bouncing around!  Note also that this speed will be slower if your "light" is in some material, such as radio signals going down a coaxial cable with teflon in it.  The factor is usually about 40% lower than the normal speed, so rather than going a foot in a nanosecond your signal in coax might go about 8 inches.  
@@ -20,17 +23,87 @@ For parts where inches and mm are relevant, I favor using all the metric units f
 
 Note also that the original legal definition of the meter that came out of the French Revolution was "1 ten millionth of the distance from the equator to the North Pole".  Or something to that effect.  So the Earth was the universal measuring stick, and to calibrate that, epic adventures were had to go do trigonometry over many degrees of latitude change, mostly in the middle of a war zone.   Awesome.  
 
+What about time? A teacher I had in school used to say that the kings and queens of units were time, frequency, and distance.  Time is almost absurdly well measured at every possible level.  The accuracy of the atomic clock is beyond any other measurement we can make, and the global telecommunications network distributes that accuracy better than any other unit.  It's amazing!  And basically free, as long as the existing infrastructure continues to exist.  As I said above, we'll have to eventually duplicate that system as the existing system inevitably crumbles but that day is far enough off to not cover the technology here!  For the sake of this work, I consider time to be something we can measure to arbitrarily high accuracy using cell phones and arbitrarily high precision and speed using fast computers and data acquisition.  
+
+### Speed
+
+And finally, with distance and time I must consider speed.  You already know speed is how many units of distance a thing moves in a given unit of time.  But I want to mention what units we'll be using and why, and some key speeds.  
+
+The SI unit of speed is of course the m/s as the meter and second are the SI units of distance and time.  The most popular speed units for most people, however, are the mile per hour and the kilometer per hour, depending on where you live.  So I think it is important to compare various speeds in these three systems.  Also I think it's useful to do this for various specific speeds we should be familiar with:
+
+
+phenomenon					   | mph		 | kph | m/s
+------------------------------|-------------|-----|----
+brisk walking pace			   | 4          | 6.4 |1.8
+fast run					   | 10			| 16  | 4.5
+car on a high speed freeway   | 60         | 97  | 27
+commercial jet				   | 570 		| 917 | 254
+speed of sound in air		   | 770     | 1240 | 340  
+speed of sound in steel		   | 13,200 | 21,200 |5900
+speed of light				   | 7E8 | 1E9 | 3E8
+
+The rule of thumb for going from mph to m/s is that the m/s number is about half.  So for example, how man m/s is a 50 mph wind?  about 25 m/s.  
+
+One more speed unit that must be addressed is the "knot".  This is a unit that comes up in nautical, aeronautical, and meteorological applications.  The knot is confusingly short for nautical mile per hour, even though the spelling is different.  So while it appears to be short for "nautical", it is in fact a unit that comes from the way speed used to be measured at sea: observing flow relative to a rope with a bunch of knots tied in it.  So the term knot is in reference to how it used to be measured.  Another annoying thing about this unit is that the nautical mile is about 1.14 "statutory miles", what you know as a mile if you're from a country that uses them.  So it's very close but not quite the same as just using mph.  So for *very* rough calculations to get from knots to mph just add 10%, or just ignore the difference if your uncertainties are already huge compared to 10%, which they often will be for Trash Magic methods.  
+
+The last thing to say about speed, is that it's not the same as velocity.  They are measured in the same units, but technically velocity is speed *and* direction.  So while wind speed might be 5 mph, the wind *velocity* would have to be 5 mph southerly or northerly etc wind.  Speeds are always positive, but velocities can be positive or negative along any of several axes. I'll be talking more about vectors(things with both magnitude and direction) in the fields chapter.  
+
+### mass, volume and density
+
 The next quantity I want to talk about is mass.  Mass is the property an object has that gives it momentum and responds to gravitational force.  When a force is applied to an object, mass is what determines how fast it accelerates(how much the speed speeds up, the speed of the speed).  The way I most want to deal with mass in Trash Magic is by converting from volume using densities.  Density is the amount of mass an object has per unit of volume.  Volume has units of distance cubed, or distance times distance time distance.  
 
 The most commonly useful volume units to the trash witch are the milliliter and liter.  The thing that's so great about these is that they're a cubic centimeter and cubic deciliter, respectively.  So that makes it easy to convert between volume and distance units.  You can easily imagine a bunch of cubes, 1 cm on a side, being stacked up to make some object, and the number of those blocks is the volume in ml.  If a thing fits in about a 10 cm on a side cube, it's about a liter.  
 
-Now for densities, there are roughly 4 I will reference the most.  At the lightest end is air, which has about 1 kg mass of air per cubic meter.  A cubic meter is 1000 liters.  Next up is water, which has a density of about 1000 times that of air.  So about 1 gram per ml, as opposed to 1 mg per ml for air.  A lot of things are the same as water! Most parts of most organisms' bodies, both animal and plant, including us, are similar in density to water.  So for estimating physics with your own body, assuming it's about 1 g/ml is pretty good for getting started.  
+Now for densities, there are roughly 4 I will reference the most.  At the lightest end is air, which has about 1 kg mass of air per cubic meter.  A cubic meter is 1000 liters.  Next up is water, which has a density of about 1000 times that of air.  So about 1 gram per ml, as opposed to 1 mg per ml for air.  A lot of things are the same as water! Most parts of most organisms' bodies, both animal and plant, including us, are similar in density to water.  So for estimating physics with your own body, assuming it's about 1 g/ml is pretty good for getting started.  Most of the plastics and rubber materials we will use for Trash Magic also have a density of about a gram per cubic centimeter.  Hence some plastic floating and some sinking--it's pretty close to water.  Wood, which generally floats, tends to be in the range of half the density of water.  Some hardwoods are exceptions that get to close to water, and can sink.  
+
+Next up in density from water, plastic, rubber and wood is things in the range of rock, glass, aluminum and silicon.  These materials are generally in the range of 2-3 g/ml, so about 2-3 times the first list of solids and liquids.  We will be working a lot with stones and found aluminum parts, as well as glass, and various semiconductor devices.  All these things will be in this range of density.  
+
+The last set of densities that will come up repeatedly in this work are things in the range of steel.  Steel is about 8 g/ml, so about 8 times denser than water.  Rare earth magnets, which play a central role in all Trash Magic, have a similar density to steel, as well as everyones second favorite superconductor, niobium.  Also, copper, which is central to this work, has a density similar to steel.  There are other heavy metals like lead and gold which are much heavier but we will not be using them much.  The list of basic materials that are in the range of 0.001, 1, 3, and 8 g/ml is so much more central to this work than anything else that I call them out here, and intend to come back to them in future calculations frequently.  
+
+### Force and Acceleration
+
+First of all, I'm going to say what acceleration is.  Acceleration is the change of velocity with time, just as velocity is the change of distance with time.  So while velocity is measured in m/s, acceleration is measured in m/s per second, which is $$$m/s^2$$$.  While there are perverse American physics texts that use feet per second per second, there is no very good excuse for this, and I use $$$m/s^2$$$ exclusively here, which is the SI unit of acceleration.  This unit does not have a special name.  However when you multiply it by a kilogram to get $$$kg m/s^2$$$, that *does* have a special name, and it's the newton(unit names are always lowercase even if they're a person's name).  The symbol for a newton is N.  The unit many American's are most used to is the pound.  This gets into a very confusing aspect of these measurements.  In common language, kilograms and pounds are both used to measure how much something "weighs", meaning how much gravitational force is exerted on it by the Earth at the surface of the planet.  But they measure different things! The SI unit of force is the newton, while the unit of mass that goes along with the pound is called the "slug" and in my experience is only used for jokes and laughs.  
+
+So for symmetry, I'll compare the two directly and say that 1 newton is equal to $$$1 kgm/s^2$$$ and one pound force is 1 slug times 1 ft/s^2.  What a mess!  I'll get to the equations and physics behind this in a minute, but first I want to compare weights of masses on Earth to get all these units compared to each other:
+
+quantity | pounds | kg | N  | slugs
+---------|------- |----|----|------
+1 pound  |   1    |0.45|4.45| 0.031
+1 kg     |  2.2   |  1 |9.8 | 0.069
+1 N      |  0.22  |0.10| 1  | 0.007
+1 slugs  |  32.2  |14.6|143 | 1
 
 
+I'm going to jump right in with an equation here, it's called Newton's Second Law, here it is:
+
+$$$
+\vec{F} = m\vec{a}.
+$$$
+
+This just says that when you push on a mass m with a force F you get an acceleration a.  Specifically in the case of an object on the surface of the Earth, with no forces other than gravity, the acceleration is always what's called "little g".  Little g is a combination of "big G" and the mass of the Earth.  Big G relates all the massive objects in the Universe.  As I will discuss in the fields chapter, this is one of the magical force fields that flow through All Things That Exist.  Little g is about 9.8 m/s, which we will round to 10 in almost all cases in this work.  
 
 
+![image](images/big-M-little-m.png)
 
-MAKE 3D MODEL OF THIS WHOLE SYSTEM IN BLENDER, WITH VR FLYTHRU!! 
+ 
+![image](images/little-g-fig.png) 
+
+
+I will use the above table as an excuse to jump into an important tool for trash magic: google calculator.  In google calculator you can change any unit into any other unit by putting in something like this: "10 pounds in kilos" or "convert 10 lbs to kg".  In either case google will convert for you and show the final units.  So for instance you can also say something like "1 slug * 1 foot/1 second^2" and it will give you 4.45 N, which is what's in the table above(rounding appropriately).  Very useful!  It has lots of obscure units like the cubit, fathoms, etc.  Another example would be "1 slug\*1 mile\*1 rod/(1 fortnight* 1 week)", and google will automatically convert to the SI unit this represents, and since it's energy that will be joules.  Amazing!!  I hate to advocate using an evil corporation's tool like Google but it is really free using our tech so let's use it.  There is also a method for using units in Python with various packages, which I'll cover in the iPython notebooks associated with this chapter.  
+
+Gravity as force and acceleration, units, ipython gravity notebook
+
+measure acceleration on a smart phone
+
+use integrals to get from acceleration to speed and from speed to position
+
+ipython notebook to make the phone do all the things listed above and graph them
+
+get a phone to act as fit bit or whatever to track sports bullshit and graph it all using your mass
+
+the smart phone must be able to quickly get data into a iphython notebook for plotting and analysis, there should be a full set of experiments for mass and acceleration by swinging and throwing phones around.  The calculus lives here. 
+
+
 
 for each of these, talk about units used, orders of magnitude, conversions, meaning, and how to measure, typical values of things.  Also post apocalyptic metrology, metrology from cars, piggyback metrology on existing nation states and corporations. Each unit gets a ipython notebook.  Each unit has a simple measurement.
 
@@ -103,61 +176,17 @@ figures:
 5. spring scale
 
 
-![image](images/big-M-little-m.png)
-
- 
-![image](images/little-g-fig.png) 
 
 
 
 atoms and mols
 
-### Distance, Position, Displacement, time, speed
-
-Miles, inches, feet, meters, cm, mm, microns, mils/thousanths, yards, km, original meter, circumpherence of Earth, wavelength, frequency, time, speed of light, speed of sound
-
-loop back to volume in relation to mass, hit on resonators
-
-Measure distance with some form of electromagnetic wavelength measurement
-
-how to use vernier calipers, how to make a set from scratch and calibrate it, make a giant vernier caliper out of sticks, post apocalyptic tape measure
-
-pictures of measurement tools
-pictures of calipers
-
-need a table with various units of velocity and speed compared, and distance:
-
-* mph
-* knots
-* kph, "clicks"
-* m/s
-* mm/s
-* cm/s
-* speed of light
-* speed of sound in air
-* speed of sound in steel
-* 
 
 
-First Header                | Second Header
-----------------------------|--------------
-Content from cell 1         | Content from cell 2
-Content in the first column | Content in the second column
 
 
-### Force and Acceleration
 
-Gravity as force and acceleration, units, ipython gravity notebook
 
-measure acceleration on a smart phone
-
-use integrals to get from acceleration to speed and from speed to position
-
-ipython notebook to make the phone do all the things listed above and graph them
-
-get a phone to act as fit bit or whatever to track sports bullshit and graph it all using your mass
-
-the smart phone must be able to quickly get data into a iphython notebook for plotting and analysis, there should be a full set of experiments for mass and acceleration by swinging and throwing phones around.  The calculus lives here. 
 
 ### rotational motion
 

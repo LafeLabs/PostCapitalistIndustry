@@ -83,8 +83,14 @@ use of smarth phone to see the fields, use of pickup coil to see changing flux
 ![image](images/generic_dipole_cartoon2.png) 
 
 
+
+
 # Pressure and velocity of fluids
 
 # Temperature
 
 do experiments, show platinum thermometer usage, smart phone usage
+
+# vector calculus
+
+real examples with measurements of the vector calculus operators, gradient, divergence, curl, laplacian.  vector and scalar potential, gauge transformations.  
