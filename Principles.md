@@ -12,3 +12,6 @@
 * It is not our role to debate capitalism with its defenders.  Every possible basic argument for or against capitalism already exists on the Internet.  Our job is to build a set of moral axioms, a set of technical skills and knowledge and build up a practical society from that.  It is not our job to waste time repeating the same arguments with capitalist apologists and time wasters. 
 * No technology should be made from mass mined materials
 * The sum total of all money that exists in the world is a small fraction of what would be needed to compensate the victims of capitalism from its crimes, thus there can be no justice within that system
+
+
+This chapter might want to get absorbed into the Free Technology chapter.
