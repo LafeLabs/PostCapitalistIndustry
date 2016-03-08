@@ -1,3 +1,7 @@
+
+The fields I will talk about here are truly like the Force in Star Wars.  
+
+
 1. Fields, give examples, draw piectures, mass-density revisited
 2. the electric field: go through physics texts and make sure we cover it all, build van der graaf generator using rotational motor, create plans to build it
 3. electric field theory: lots of images with fields shown, units used, examples with lightning and capacitors

@@ -10,5 +10,13 @@ Thus as I write down a set of beliefs and assumptions and even definitions, I ha
 
 I frequently say a thing is either moral or immoral.  What I mean by that is that it is consistent or not with the set of beliefs about right and wrong which I consider to be axiomatic.  If you do not like these axioms, go write your own manifesto, build your own structure.  It is my intention that future thinkers extending this work do just that.  You will likely create things I disagree with that go in many other directions.  This is good and right. 
 
-The first volume of this work goes into far more detail than this.  
+The first volume of this work goes into far more detail than I will here about the evils of capitalism or what to do to build industry outside of it.  Here I deal with the topic of capitalism briefly to outline a set of axioms on which the technical work will be based. 
+
+### Definition 1. Capitalism is a belief system in which the integer numbers can be used to denote all human value.  
+
+#### Axioms of Capitalism:
+
+* The sum total of all existing "money" and equivalent numerical values tabulated by the capitalists is insufficient to ever compensate the victims of capitalism.  
+* All contract law is based on exploitation and violence.  All laws going all the way  back to the beginning of our written civilization are based on upholding that violence and hold no moral validity.
+* Private property is a system by which violence and oppression are laundered to allow people to conceal the true nature of what they "own".  The very existence of all private property in existence today is the product of violence, oppression and evil.  Justice will never exist by moving private property around, the only hope is eliminating the concept of private property.  
 
