@@ -14,9 +14,9 @@
 5. [taking over the universities](universities.md)
 6. [Rumbles of Robots](RumblesRobots.md)`
 7. [Fluidics, Slimezistors, and Free Drugs](slimeTechPolitical.md)
-8. value circles and value stories, trash wizard economics
+8. [value circles and value stories, trash wizard economics](value_circles_economics.md)
 9. [The Great Junk Car Feed](JunkCars.md)
-10. Factories that are everywhere and nowhere, industry in the autonomous zone 
+10. [Factories that are everywhere and nowhere, industry in the autonomous zone](means_of_production.md) 
 11. [Visions of a Better Tomorrow](visions.md)
 12. [Open problems](problems.md)
 13. [Let's Build This!](lets_build.md)
@@ -35,7 +35,7 @@
 9. [Resonance](Resonance.md)
 10. [Skeletron](skeletron.md)
 11.  [Fractal Reactors and the SlimeZistor](FractalReactorSlimeZistor.md)
-12. Supply chain data structures, call to action
+12. [Supply chain data structures, call to action](data_structures.md)
 
 
 ### Other Media:
