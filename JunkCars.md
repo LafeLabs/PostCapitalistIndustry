@@ -20,3 +20,11 @@ ancient car remains and crushed cars
 end game: end all cars
 
 
+## all cars must be destroyed
+
+## Cars are CENTRAL to our enemies
+
+## As long as capitalism exists, cars will provide infinite free resources to us
+
+SO many minerals!  Go over the whole list.  Destroy a car in Nikiski, document it. 
+
