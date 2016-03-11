@@ -9,4 +9,7 @@
 7. instructions for building it yourself
 8. story threads
 9. value circle data specific to various circles
-10. 
+10. atomic content estimates
+11. information on where measurements came from
+12. how to build another one
+13. things that should be fixed in future generations
