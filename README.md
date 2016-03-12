@@ -12,7 +12,7 @@
 3. [Statement of Principles](Principles.md)
 4. [What is a Trash wizard/witch?](what_is_the_trash_wizard.md)
 5. [taking over the universities](universities.md)
-6. [Rumbles of Robots](RumblesRobots.md)`
+6. [Rumbles of Robots](RumblesRobots.md)
 7. [Fluidics, Slimezistors, and Free Drugs](slimeTechPolitical.md)
 8. [value circles and value stories, trash wizard economics](value_circles_economics.md)
 9. [The Great Junk Car Feed](JunkCars.md)
