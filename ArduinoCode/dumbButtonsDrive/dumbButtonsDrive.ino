@@ -11,9 +11,9 @@ int y = 0;
 
 void setup() {
   int x0 = analogRead(A4);
-  int y0 = analogRead(A5);  
+  int y0 = analogRead(A5); 
   pinMode(buttonPinA,INPUT);
-  pinMode(buttonPinB,INPUT);
+  pinMode(buttonPinB,INPUT); 
 }
 
 void loop() {

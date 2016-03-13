@@ -11,22 +11,25 @@ int y = 0;
 
 void setup() {
   int x0 = analogRead(A4);
-  int y0 = analogRead(A5);  
+  int y0 = analogRead(A5);    
   pinMode(buttonPinA,INPUT);
   pinMode(buttonPinB,INPUT);
+  Serial.begin(115200);
 }
 
 void loop() {
+
   buttonStateA = digitalRead(buttonPinA);
   buttonStateB = digitalRead(buttonPinB);
-  if(buttonStateA && !buttonStateB){
-    analogWrite(pinArray[0], 255);
+  if(buttonStateA && ! buttonStateB){
+    x = analogRead(A4) - x0;
+    Serial.println(x);
+    delay(1);
   }
-  if(buttonStateB && !buttonStateA){
-    analogWrite(pinArray[1], 255);
+  if(buttonStateA && ! buttonStateB){
+    y = analogRead(A5) - y0;
+    Serial.println(y);
+    delay(1);
   }
-  else{
-    analogWrite(pinArray[0], 0);
-    analogWrite(pinArray[1], 0);
-  }
+  
 }
