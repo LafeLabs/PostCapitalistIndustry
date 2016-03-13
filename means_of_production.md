@@ -7,3 +7,9 @@ Most communists and anarchists direct us to turn the factory into a place of pol
 ### Production in Autonamous zones
 
 practical considerations, examples, actually go do it and record it and put it on youtube
+
+### fucking shit up through "selling" stuff
+
+build artistic pieces that do useful stuff out of trash, sell for a few hundred dollars each at underground popup stores, keep none of the money, all cash only, distribute it physically as cash in most disruptive possible way to undermine money system.  
+
+Build and use cash "gun"

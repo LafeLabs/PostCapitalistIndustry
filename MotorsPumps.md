@@ -66,4 +66,6 @@ BUILD this now!!!!!!! JB Weld goes to 260 C so if that goes on first, then I use
 
 
  pump and tubes can all be from plastic bottle parts cut and then welded back together.  magnets fully inside the plastic tube, tethered to the sides but free to move, driving plastic pushers to make peristaltic pumping action.  All the different kinds of vibrational motion can be done with plastic mechanical oscillators, which could drive air very fast with plastic bottle hing resonators.  vacuum pumps, air pumps, water pumps, all can be built from plastic bottles.  I have been thinking way too much about how to deal with solid blocks of poured or molded thermo plastic when there are existing materials in the form of bottles that are EVERYWHERE and which can make good plumbing and mechanical parts at absurdly low weightes.  A universal pump that can be built from pop bottles, coils of wire and magnets would be huge, definitely should be a component of basic trash wizard kit.  
+ 
+ floating rotors, both floating in water and floating in air with magnetic levitation, tiny turbo pumps, juts a few mm across. Maybe electrostatic motors make sense for tiny turbo pumps. Must have sub mm scale UHV technology.
 
