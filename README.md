@@ -4,6 +4,8 @@
 
 ![image](cover2.png) 
 
+[Intellectual Property Notice("license")](intellectual_property_notice.md)
+
 ### Book 1. Trash Wizardry and Witchery: The Stickening
 
 
