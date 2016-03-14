@@ -42,4 +42,13 @@ We roll in, we build and distribute, set up infrastructure easter eggs, and move
 
 How different this would be! We could all be participating in various insurrections, art communes, famous science experiments, and huge parties at the same time, endlessly remixing artifacts that carry all that culture with them.  
 
-I need to find the Sacrifice Zones that exist in the coastal waters of the East coast.  
+I need to find the Sacrifice Zones that exist in the coastal waters of the East coast. 
+
+Searching my memories of such places in Souther Connecticut and also looking at maps and charts of coastal DE and MD, I'm reminded that simply finding the "free" material input in such a place is non trivial.  What i think I propose instead is the same courier system used to distribute artifacts is used to acquire raw materials from the trash of mainstream society.  
+
+Also, if production happens in such coast waterways but materials come from elsewhere it should be possible to disappear. A combination of counter-surveillance to always monitor the monitors and camouflage and totally mobile amphibious infrastructure should make it possible to avoid detection in un-used land indefinitely.  This should be possible all over the world, anywhere there is a fractal water system.  The areas around Boston, NYC, DC, the SF Bay Area and Seattle are all like this, as well as many of the great cities around the world. 
+
+Trash Pirates.  Southeast Asia has marine sacrifice zones where ghost ships with slave crews fish for the grocery stores of the rich world.  If a guerrilla industrial movement were to appear in this environment with vastly superior technology to the capitalists, we'll see very rapid change with no physical opposition from the nation-states.  Why? Because they have built a system where they have a vested interest in these lawless zones existing.  They have to either impose the rule of law on these places and lose their slave-caught industrial fish slaughter or they have to accept that our pirates can operate outside their "laws" just as readily as our capitalist enemies.  
+
+What if Somali pirates could offer legitimately better employment than the European companies the crews of the hijacked boats work for?  it's hard to negotiate for "hostages" who don't want to return, and dangerous to negotiate for them if when they return they all just quit and disappear into some swamp.  Let's fill in all the spaces the capitalists have chosen to neglect with new industries that combine art and culture and science and technology as one thing!  
+
