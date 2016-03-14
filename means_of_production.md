@@ -4,7 +4,6 @@
 
 Most communists and anarchists direct us to turn the factory into a place of political action.  I propose to do the opposite: to bring the means of production to the action.  Where there are protests or occupations or refugee camps or war or poverty, Trash Magic can shine a light in the darkness.
 
-### Production in Autonamous zones
 
 practical considerations, examples, actually go do it and record it and put it on youtube
 
@@ -13,6 +12,8 @@ practical considerations, examples, actually go do it and record it and put it o
 build artistic pieces that do useful stuff out of trash, sell for a few hundred dollars each at underground popup stores, keep none of the money, all cash only, distribute it physically as cash in most disruptive possible way to undermine money system.  
 
 Build and use cash "gun"
+
+### Production in Autonamous zones
 
 One of our goals is to erase arbitrary lines between things that are currently separated.  Just as some people have tried to erase lines between protest, occupation and party. I want to erase lines between industry and art, between protests and factories and workshops and squats.  Anywhere there are people and materials there can be industry. 
 
