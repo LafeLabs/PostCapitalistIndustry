@@ -1,5 +1,5 @@
 
-### introduction
+### Introduction
 
 In order to wield the magic of Trash, we must be able to measure the world around us, and all the beautiful trash we find there.  This is the Trash Magic version of what is normally called "metrology", the science of measurement.  Just as capitalist metrology is often built on the needs of business for measurement and the ability of private business to be able to  build the tools needed, our metrology will be based on our ability to use Trash Magic to do it, and to do the things that Trash Wizards and Trash Witches will need in order to wield their magic.  This means that while our units will be based on theirs initially, we might end up with our own global infrastructure for construction and preservation of units, which could well lead to new definitions.  
 
@@ -7,13 +7,13 @@ The metrological structures we deal with in today's capitalist world are a direc
 
 So Trash Magic Metrology is partly a revolt against the dehumanizing ideals of the French Revolution.  We revel in the fact that the basic time unit, the second, is comparable to a normal human heart beat.  We like that a meter is about half as tall as a tall person.  The French pushed very hard the other way, in the peak of revolutionary fervor trying to go to a decimal day, trying to force humans into what I view as a more machine-driven mode of existence.  It is interesting that so many of the loudest and most articulate critics of our modern mechanized capitalist order have always been French.  Could it be that this is because of the dynamics of that revolution they've been faced with a monstrous machine the longest?  
 
-I don't mean to denigrate the great work done by those who have built up the SI over the lest few centuries.  It's amazing!  I believe that there is a place for duplicating the atomic clock, the Watt balance, and various other amazing feats of measurement science in the post apocalyptic waste land that future Trash Magicians will live in.  However, as we re-build all that from Trash, there will inevitably be a lot of changes that are made in approach.  
+I don't mean to denigrate the great work done by those who have built up the SI over the last few centuries.  It's amazing!  I believe that there is a place for duplicating the atomic clock, the watt balance, and various other amazing feats of measurement science in the post apocalyptic waste land that future Trash Magicians will live in.  However, as we re-build all that from Trash, there will inevitably be a lot of changes that are made in approach.  
 
 Today we live in a world where just about everyone on Earth is connected to a cellular data network that is synchronized off of atomic time such that we all are connected on the same exact time to a few parts per billion of accuracy.  But how horrible is that?!  What monstrous inhumanity we force on our fellow people by forcing workers to stop work to eat at exactly the same time across many days' journey from each other!  And yet, while time is regimented to 8 digits across our whole species, our medical tests remain some of those with the worst metrology.  When life and death literally hang in the balance, as your blood is measured in various ways that need to be responded to quickly by medical personnel, we get crappy for profit companies charging too much money for slow, inaccurate tests.  Could large numbers of infinite-zero cost fluidics systems not just make medical tests fast and free, but make them better?  I believe so.  And should we build that before we figure out how to build a cesium atomic clock out of trash?  Probably, yes.  
 
-### distance, and time
+### Distance and Time
 
-The first thing to talk about is distance.  I believe that it makes sense to use several units for this, both SI(metric) and English.  The base SI unit is the meter, which is a little over 3 feet.  The official SI definition is based on the speed of light and the definition of a second.  So a meter is how far light goes in one light second.  Which is a circular definition, but not a useless one.  Light goes at about 1 foot per nanosecond(a billionth of a second), so 1 meter is how far it goes in about 3 nanoseconds.  
+The first quantity to talk about measuring is distance.  I believe that it makes sense to use several units for this, both SI(metric) and English.  The base SI unit is the meter, which is a little over 3 feet.  The official SI definition is based on the speed of light and the definition of a second.  So a meter is how far light goes in one light second.  Which is a circular definition, but not a useless one.  Light goes at about 1 foot per nanosecond(a billionth of a second), so 1 meter is how far it goes in about 3 nanoseconds.  
 
 This immediately can be considered in the context of Trash Wizard technology.  We will use various smart phone related technologies in our stuff which have computers with clocks that run at 1 GHz or above.  At that speed, each clock cycle only takes a nanosecond or less.  So if your phone puts out a signal that bounces across the room to some robot and back, say about 30 feet, a whole 30 clock cycles can run on your computer while the signal is out bouncing around!  Note also that this speed will be slower if your "light" is in some material, such as radio signals going down a coaxial cable with teflon in it.  The factor is usually about 40% lower than the normal speed, so rather than going a foot in a nanosecond your signal in coax might go about 8 inches.  
 
@@ -38,11 +38,11 @@ brisk walking pace			   | 4          | 6.4 |1.8
 fast run					   | 10			| 16  | 4.5
 car on a high speed freeway   | 60         | 97  | 27
 commercial jet				   | 570 		| 917 | 254
-speed of sound in air		   | 770     | 1240 | 340  
-speed of sound in steel		   | 13,200 | 21,200 |5900
+speed of sound in air		   | 770     | 1,240 | 340  
+speed of sound in steel		   | 13,200 | 21,200 |5,900
 speed of light				   | 7E8 | 1E9 | 3E8
 
-The rule of thumb for going from mph to m/s is that the m/s number is about half.  So for example, how man m/s is a 50 mph wind?  about 25 m/s.  
+The rule of thumb for going from mph to m/s is that the m/s number is about half.  So for example, how many m/s is a 50 mph wind?  about 25 m/s.  
 
 One more speed unit that must be addressed is the "knot".  This is a unit that comes up in nautical, aeronautical, and meteorological applications.  The knot is confusingly short for nautical mile per hour, even though the spelling is different.  So while it appears to be short for "nautical", it is in fact a unit that comes from the way speed used to be measured at sea: observing flow relative to a rope with a bunch of knots tied in it.  So the term knot is in reference to how it used to be measured.  Another annoying thing about this unit is that the nautical mile is about 1.14 "statutory miles", what you know as a mile if you're from a country that uses them.  So it's very close but not quite the same as just using mph.  So for *very* rough calculations to get from knots to mph just add 10%, or just ignore the difference if your uncertainties are already huge compared to 10%, which they often will be for Trash Magic methods.  
 
@@ -260,3 +260,51 @@ Google calculator with units
 Ipython with units
 BIPM, the NMI system, and metrology
 constants vs. units and the quantum SI
+
+### Temperature
+
+
+We need temperature measurement and control for a variety of industrial Trash Magic process controls.  Probably the most immediate need is for regulating various heat tools for plastic rework, as well as temperature regulation of tools for metal soldering.  Any chemical and biological processes will also need in some cases very accurate and repeatable temperature measurements as well as rapid controls.  
+
+I believe that the way this will work in Trash Magic is with a three tier system, similar to what is often used today in capitalist industry.  The first tier is not yet our problem, and is the process of linking various thermometers with actual physical temperature.  This, like the atomic clock built from trash, can wait for later.  The second tier will be accurately calibrated platinum thermometers, the so-called SPRT thermometer. This consists of a platinum wire of well described characteristics wound and packaged in a well described way.  The documentation for this is over 100 years old now and is thus fully in the public domain and repeatable without proprietary technology[include link to original paper here].  Also these thermometers are commonly used in cars, and thus can be salvaged by the billions as cars are absorbed into the Trash Magic junk car feed(see later chapter on the Great Junk Car Feed).  
+
+The third tier will be something literally dirt cheap, probably a thermocouple or resistive thermometer, which can be both salvaged and also built from scratch from a wide variety of found metal parts.  These can be very inaccurate, because they will be calibrated as needed in any given fabrication scenario.  
+
+Outside of these tiers of measurement for process control is the built in thermometry of your smart phone, which should be the go-to thermometer for weather. The problem with those is that they're stuck inside your phone so it's hard to thermalize them for process control, and they have very limited range relative to the processes we need to run.  
+
+At this point I need to say some words about units.  Personally I favor using all three unit systems: kelvin, celsius, and fahrenheit.  I realize this is in many ways an annoying choice.  However as I mentioned above I think the degree fahrenheit is great for weather and it's so standard in the US that for those of us living in that area it makes sense to keep it for weather.  I also think that for chemistry and biology the degree C is the best choice because it is standard, and everyone knows 100 C is the boiling point of water at atmospheric pressure.  For anything involving physics calculations, however, the kelvin is still the unit of choice, which also happens to be the SI temperature unit.    I advocate all temperature calibrations for new thermometers be in kelvin, and all calibration data be in kelvin, with conversions done after calibration as needed.  
+
+What are some temperatures we care about?
+
+phenomenon   | kelvin | celcius |fahrenheit
+-------------|--------|----------|----------------
+liquid helium under rough vacuum | 1.4 |  |
+liquid helium at atmospheric pressure | 4.2 | |
+liquid nitrogen at atmospheric | 77 | |
+liquid hydrogen at atmospheric pressure |||
+liquid oxygen at atmospheric pressure |||
+ammonia liquifies|||
+ethanol freezes|||
+water freezes|||
+
+
+water boils
+human body temperature
+average earth temperature 100 m down
+average earth temperature 1000 m down
+average earth temperature 10,000 m down
+melting point of aluminum, copper, steel
+glass temperature of various polymers
+PCR reaction range, for biological work
+blood storage
+soldering temperature
+plastic weld temperature
+peak flame temperature of H2 O2 flame
+
+At this point we can tie temperature together with energy, introduce specific heat, and describe the post apocalyptic calorimeter.  Water, thermometry, and mass and time.  
+
+
+
+
+
+

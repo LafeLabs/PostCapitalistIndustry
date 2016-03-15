@@ -20,3 +20,6 @@ The first volume of this work goes into far more detail than I will here about t
 * All contract law is based on exploitation and violence.  All laws going all the way  back to the beginning of our written civilization are based on upholding that violence and hold no moral validity.
 * Private property is a system by which violence and oppression are laundered to allow people to conceal the true nature of what they "own".  The very existence of all private property in existence today is the product of violence, oppression and evil.  Justice will never exist by moving private property around, the only hope is eliminating the concept of private property.  
 
+From these axioms we arrive at a set of design rules which will be applied to all technology development within the Trash Magic system.  
+
+
