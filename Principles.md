@@ -16,3 +16,15 @@
 
 
 This chapter might want to get absorbed into the Free Technology chapter.
+
+## More specific technical design rules:
+
+these are the design rules where we deviate from capitalism to end up with technically different results.
+
+1. The more general solution is always better
+2. The Most readily amiable materials are always the first choice to use
+3. the most obvious solution is the best, although what is obvious may not be obvious
+4. Self similarity is a desirable property, and by default it will be built in for several zoom factors to all technical systems
+5. all technology is art, all art is technology
+6. all technology contains its own data, is linked to itself on the web, self documents how to make more, where it came from, where it is going
+7. technology is not really deployed until you can create it with zero federal reserve debt or consumption of mined or extracted material.  To deploy a technology is simply to make it and have it get used, and you must spend zero money to make that happen.  Selling it after that is optional, and can be done for workers to get fed debt but can also not be, and all parts can float in and out of different value circles
