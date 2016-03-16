@@ -14,6 +14,16 @@ various simple things like bearings, how to connect to other stuff
 ![image](images/skeletron-cone-hole.png =300x)
 
 
+# Fasteners
+
+I have started with quarter-20 bolts, but these need to be replaced by things that obey our design rules, i.e. are more versatile, easier to get, and exhibit more self similarity in their geometry.  I think this will be wood and metal pegs with conical shapes in a clever combination, and with melted plastic to hold it all in place.  Essentially this will be like cement with the wood, steel, or aluminum having the structural strength and the plastic holding it in place, just like rebar in concrete.  
+
+
+perhaps there will be layers of self-similarity, with smaller skeletron parts fitting in larger ones, and smaller and smaller units acting as "pins" holding the larger ones in place: fractal fasteners.  This is based on designing fasters from scratch as a concept.  
+
+![image](images/skeletron-cone-holeFractal.png =300x)
+
+several holes in different places, similar angles but don't have to exactly match, different materials can be used interchangeably: wood, plastic, metal, composites of plastic wood and metal all together.  Some fasteners will combine materials. Composite fasteners can also have decoration and data storage. 
 
 # Specification, medium of Exchange
 
