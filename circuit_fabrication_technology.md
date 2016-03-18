@@ -14,3 +14,7 @@ Also add microwave network analyzer technology from Trash Wizard Stick, where St
 I propose using digital fast pulses as both RF and LO into a mixer which goes to a SLOW ADC input, possibly in one of the Arduino boards. As with my other technology, it's about transients and solving the right equations.  So this way there is no fast analog at all, just fast digital mixing with fast digital, and slow analog readout, which makes way more sense than modern NWAs.  If we can get fast digital drives and mixers from trash, and can read analog slowly with micro controllers also from trash we should be able to get broad band network analysis to work from trash up to quite a few GHz.  
 
 This product alone blows capitalist technology out of the water.  Maybe the same rig can be used for some RF based medical imaging?  Use pulses of RF and DC magnets with steep gradients using rare earth permanent magnets.  
+
+### Piezos from trash
+
+Piezoelectricity, contrary to what capitalists might want you to believe, is extremely common.  layers a few hundred microns thick of common materials at 100 V can be useful with micron scale manipulation.  This is how the nano end of the 3d manipulator tool works, and it should be compatible with plasma processing, for fully controlled nano synthesis.  

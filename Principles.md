@@ -26,13 +26,14 @@ Or maybe this gets much more specifically technical, with a lot of details about
 these are the design rules where we deviate from capitalism to end up with technically different results.
 
 1. The more general solution is always better
-2. The Most readily amiable materials are always the first choice to use
+2. The Most readily available materials are always the first choice to use
 3. the most obvious solution is the best, although what is obvious may not be obvious
 4. Self similarity is a desirable property, and by default it will be built in for several zoom factors to all technical systems
 5. all technology is art, all art is technology
 6. all technology contains its own data, is linked to itself on the web, self documents how to make more, where it came from, where it is going
-7. technology is not really deployed until you can create it with zero federal reserve debt or consumption of mined or extracted material.  To deploy a technology is simply to make it and have it get used, and you must spend zero money to make that happen.  Selling it after that is optional, and can be done for workers to get fed debt but can also not be, and all parts can float in and out of different value circles
+7. technology is not really deployed until you can create it with zero federal reserve debt or consumption of mined or extracted material.  To deploy a technology is simply to make it and have it get used, and you must spend zero money to make that happen.  Selling it after that is optional, and can be done for workers to get central bank debt currency but can also not be, and all parts can float in and out of different value circles
 8. Precision will scale linearly with scale, meaning that we might keep just 10% precision at different scales, with gross motion at 1 meter with a few cm uncertainty, then a few cm motion with a few mm precision, on down to 1 nm motion with 1 angstrom precision.  
 9. Every piece of technology should be as versatile as possible, with clear and easy instructions encoded in it for many uses
-10. we will not build or work with those who build antipersonnel weapons. Drones and other machines are fair game. 
+10. we will not build or work with those who build antipersonnel weapons. Drones and other machines are fair game as targets, however 
 11. Every technological component should have the maximum possible number of uses, and should be cross referenced with other instances of itself so that the user can find out those other uses instantly, and this should be true of all the sub-components of a technical artifact
+12. Every technological artifact and component should tell a personal story, connected to users, builders, and artists. 
