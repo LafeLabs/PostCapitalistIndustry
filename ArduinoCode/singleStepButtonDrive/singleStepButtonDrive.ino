@@ -2,6 +2,8 @@
 NO GODS NO MASTERS NO COPYRIGHT NO PATENT
 
 
+FUCK ALL OF YOUR BULLSHIT!!!1
+
 */
 
 int pinArray[] = {5,6,9,10}; 

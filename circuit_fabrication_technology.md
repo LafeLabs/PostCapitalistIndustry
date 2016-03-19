@@ -18,3 +18,9 @@ This product alone blows capitalist technology out of the water.  Maybe the same
 ### Piezos from trash
 
 Piezoelectricity, contrary to what capitalists might want you to believe, is extremely common.  layers a few hundred microns thick of common materials at 100 V can be useful with micron scale manipulation.  This is how the nano end of the 3d manipulator tool works, and it should be compatible with plasma processing, for fully controlled nano synthesis.  
+
+### Other 3d fab considerations
+
+It may make sense to have the heated tool be stationary and the piece being worked be moved.  For the printer of braille this can be done fastest and easiest: milk bottles cut and grabbed with a weight rock and three fishing lines as a xyz bang boom, with a small rock with a I2R heater as the tool.  This is easy to do with parts I have now, except for the thermometry.  And the power generation.  
+
+This same technology might work to shape the rocks themselves, where the rock is pulled around in xyz space, and there is a vibrating chipping tool with feedback developed for the massagers, but used with a steel or diamond head  of some kind which chips the rock.  Again, this can be moved around, with various arms carving from different sides, to shape an arbitrary stone into an arbitrary shape and join it with other technology.  Probably the right way to do this with rocks is underwater, with some plastic floats for some added buoyancy.  
