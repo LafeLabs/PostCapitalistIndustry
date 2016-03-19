@@ -237,6 +237,9 @@ figures:
 Magnetic units are explored using wires, magnets, various household items, and smart phones to measure the field.  Go out and measure power lines, compute current, measure AC magnetic fields.  
 
 
+Use a big coil to go scavenge power from power lines inductively, measure it, pick it up, use it. BWHAHAHAHAH. Use the cell phone to go find the lines and measure them here in this chapter and reference the project for the motor chapter where you go scavenge power.  
+
+
 ### springs
 
 wood, steel, hooke's law, mechanical impedance, examples, measuring k, units, ipytyhon notebook with unit examples, damping constant
@@ -247,11 +250,47 @@ wood, steel, hooke's law, mechanical impedance, examples, measuring k, units, ip
 
 again with the smart phone
 
+need table of spring constants, good choices of units, comparisons of units.
+
+SI Units: N/m
+FPS units: lbs/in
+kg/cm ? other units?
+
+things to compare:
+3 foot piece of rebar
+truck leaf spring
+car leaf spring
+human fat tissue
+end of sticks of various diameters and lengths and woods, same with aluminum etc.
+
+Need to analyze the problem of a cylinder of arbitrary length much longer than width, what k is for a given Youngs modulus, then do resonance measurements, do whole vibrating beam analysis, compare with experiment, including higher harmonics.  Make a thing go boing without a ton of bullshit.  This vibrating beam oscillator must also have a damping value that goes into impedance units, whole thing converted to lumped element mechanical circuit.  
+
 ### impedance units
 
 my whole impedance discussion goes here ,connecting electrical and mechanical, leading into more detail later with the waves
 
+from the paper that got REJECTED from american journal of physics, I'll publish that whole discussion here, figure out gravitational wave impedance.
+
+1. gravity waves
+2. springy rod
+3. sound waves
+4. mass on spring
+5. lumped element electrical resonator
+6. resistor
+7. water waves
+
+Note that water wave impedance matching will be of the utmost importance if we are to live inside stormy waters: we will be building huge arrays of mechanical oscillators that channel the storm energy into useful work while locally damping it out.  
+
+Examine the creation of vortices in the creeks, rivers, ocean, and stormy air in terms of quasiparticle creation and destruction to try to understand the dissipation.
+
+
+
 ### energy and power units
+
+
+Look at energy densities in particular.  Compare MJ, diet calories, kilowatt hours, joules, amp hours, kilotons, megatons, eV, MeV, keV, micro electron volts, compare to kT.  
+
+
 
 ### Dimensional analysis and Factor Label Method gets whole section
 
