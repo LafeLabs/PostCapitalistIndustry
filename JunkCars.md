@@ -28,3 +28,5 @@ end game: end all cars
 
 SO many minerals!  Go over the whole list.  Destroy a car in Nikiski, document it. 
 
+In the water. Find cars in the water, process them in the water.
+

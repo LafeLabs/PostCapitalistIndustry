@@ -320,11 +320,11 @@ phenomenon   | kelvin | celcius |fahrenheit
 liquid helium under rough vacuum | 1.4 |  |
 liquid helium at atmospheric pressure | 4.2 | |
 liquid nitrogen at atmospheric | 77 | |
-liquid hydrogen at atmospheric pressure |||
-liquid oxygen at atmospheric pressure |||
-ammonia liquifies|||
-ethanol freezes|||
-water freezes|||
+liquid hydrogen at atmospheric pressure |20||
+liquid oxygen at atmospheric pressure |90||
+ammonia liquifies| 240 ||
+ethanol freezes|159||
+water freezes|273.15| |
 
 
 water boils
