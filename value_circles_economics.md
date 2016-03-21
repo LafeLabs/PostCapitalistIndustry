@@ -1,3 +1,20 @@
+### Magic Tales and Magic Lore
+
+I’m changing the name of the post capitalist system from “value circles” to something closer to “magic stories”.   “Value” is a problematic word since it sounds too much like an equivalent of the capitalist economic system.  I think it invites too many annoying capitalism questions, and points the wrong way.  And “circles” was maybe a bit of a nonsense word in the way I was using it.  What the hell does that even mean?  So I’m dropping both words.
+
+One possibility I’ve been kicking around is “narrative”, but that sounds too impersonal, and too technical.  I think “magic” sends the right message since it is so clearly a turnoff word to engineers.  One thing that is clearly emerging here is that engineering as a discipline and engineers as a culture are my enemy here.  They are an important part of the immune system of the Capitalist Monster that we are all parts of.  It is no accident that engineers like to tear down everything anyone says all the time, being among the worst “mansplainer’s” on the planet.  This is because that’s where the rubber meets the road for capitalism protecting its interests.  The asshole male engineer who always tells you youre wrong and nothing will work is really capitalism’s immune system, and in that context their behavior makes perfect sense.
+
+Possibly “tale” is better than stories.  “Magic Tales” could also then be abbreviated to “tales”, which inevitably it would be. After all, when one says “tale” instead of “story”, does that not tend to imply Magic?  I think it does.  Maybe where this should all end up with is “tale”.
+
+TALE:  this is really remarkably easy to understand, and removes the hard anti engineer bias of “magic” with something more flexible.  Every thing has a tale, every person has a tale, they are all woven together.  Perhaps Lore should also be used, and there is a lore data channel and a tale data channel.  Lore is how to build a thing, where to get more, technological data.  Tales are the story this specific thing.
+
+Lore and Tales shall replace economics, and this becomes easy to understand and explain without getting mired in pointless discussions about capitalism.  Because telling stories and lore has always existed outside of capitalism, and can co-exist from the beginning.  I’m pretty sure HTML5 is the format, at least for now.
+
+This is part of how Trash Magic can drive wedges into global capitalist culture: we inhabit the strange corners of the current capitalist regime where property-based values have not totally extinguished all goodness.  These include in the water, where property law is more flexible, and in folklore as opposed to capitalist media, where IP has not taken over the culture and suppressed creativity.
+
+
+
+
 ### Currency Diagrams
 This will be pictures not words.This is now how I see “the system”. A circle of debt and power links all people with business and finance to be deployed as needed to support the military industrial complex. I no longer believe in the words “money” or “government”. These are both fictions. There is only debt, power, and the military industrial complex. All of this exists to use fire to turn earth into debt and power and complete the cycle. Denominating that debt by numbers which have power unto themselves without the whole cycle is a unspoken State Religion adopted by all modern states and corporations.
 This is what value should look like:People do labor using industrial “waste” of the old system until it’s all cycled through the new system, using ambient energy which comes originally from the sun, and the living ecosystem that is supported by and supports that cycle in circles of value. Circles can be formed large and small, and involve trust between members of the circle which is initially fixed and which has a finite lifetime. Circles can have any of many different possible rules and structures, can live for a long time or very briefly, etc. They might have as part of their interior various physical artifacts or not, or various mathematical artifacts or not.

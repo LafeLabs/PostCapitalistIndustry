@@ -15,6 +15,7 @@
 * Every single word said every single idea ever put forth by an economist is a vicious lie. Economics is not a science, and science is bullshit anyway.  It is not our job to argue with the economist it is our job to build a better world in which they are not welcome.
 * Fuck the wage system
 * Fuck work.  I am against work in all forms.  We must attack the concept of work at all levels.
+* Technology is personal, as it should be. Relationships between technology and the human body are always in mind.
 
 
 This chapter might want to get absorbed into the Free Technology chapter.

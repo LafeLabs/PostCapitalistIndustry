@@ -6,17 +6,19 @@
 
 [Intellectual Property Notice("license")](intellectual_property_notice.md)
 
+[Bibliography](bibliography.md)
+
 ### Book 1. Trash Wizardry and Witchery: The Stickening
 
 
 1. [What is capitalism?](capitalism.md)
 2. [What is free technology?](free_technology.md) 
 3. [Statement of Principles](Principles.md)
-4. [What is a Trash wizard/witch?](what_is_the_trash_wizard.md)
+4. [What is Trash Magic?](what_is_the_trash_wizard.md)
 5. [taking over the universities](universities.md)
 6. [Rumbles of Robots](RumblesRobots.md)
 7. [Fluidics, Slimezistors, and Free Drugs](slimeTechPolitical.md)
-8. [value circles and value stories, trash wizard economics](value_circles_economics.md)
+8. [Magic Tales and Magic Lore](value_circles_economics.md)
 9. [The Great Junk Car Feed](JunkCars.md)
 10. [Factories that are everywhere and nowhere, industry in the autonomous zone](means_of_production.md) 
 11. [Visions of a Better Tomorrow](visions.md)

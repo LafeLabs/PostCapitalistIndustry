@@ -13,6 +13,7 @@
 
 * Academia: it was here before capitalism and it will be here after
 
+IP is key to how bad it is, academia after the re-occupation of the campus all property will be banned from campus.
 
 ### But they're really useful to us
 
