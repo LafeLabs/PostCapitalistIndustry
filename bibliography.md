@@ -55,24 +55,57 @@ in the printed version I will suppress useless shit about the publisher because 
 
 <https://docs.python.org/2/tutorial/datastructures.html>
 
+This:
 
-NON-FICTION-PHYSICS-TEXT-ELECTRODYNAMICS-GRIFFITHS{
-	author	David J. Griffiths
-	title	Introduction to Electrodynamics
-	publisher	Addison-Wesley
-	year	2012
-	address 
-	ISBN	978-0321856562
-	dimensions	(7.6,1.1,9.2)
-	dimensionUnits	inches
-	tale
-	lore
-	3dModel
-	link
-	libraryOfCongress
-	DeweyDecimal
+<http://okfnlabs.org/bibjson/>
+
+is the format I think I should use.
+
+also relevant:
+
+https://en.wikipedia.org/wiki/JSON_Streaming
+
+especially for object spime data
+
+    	NON-FICTION-PHYSICS-TEXT-ELECTRODYNAMICS-GRIFFITHS{
+		author	David J. Griffiths
+		title	Introduction to Electrodynamics
+		publisher	Addison-Wesley
+		year	2012
+		address 
+		ISBN	978-0321856562
+		dimensions	(7.6,1.1,9.2)
+		dimensionUnits	inches
+		tale
+		lore
+		3dModel
+		link
+	    libraryOfCongress
+    	DeweyDecimal
 	
 
-} 
+    } 
 
+
+    {
+        "title": "Open Bibliography for Science, Technology and Medicine",
+        "author":[
+            {"name": "Richard Jones"},
+            {"name": "Mark MacGillivray"},
+            {"name": "Peter Murray-Rust"},
+            {"name": "Jim Pitman"},
+            {"name": "Peter Sefton"},
+            {"name": "Ben O'Steen"},
+            {"name": "William Waites"}
+        ],
+        "type": "article",
+        "year": "2011",
+        "journal": {"name": "Journal of Cheminformatics"},
+        "link": [{"url":"http://www.jcheminf.com/content/3/1/47"}],
+        "identifier": [{"type":"doi","id":"10.1186/1758-2946-3-47"}]
+        "tale":
+        "lore":
+        "data":
+        
+    }
 
