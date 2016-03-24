@@ -10,6 +10,8 @@
 
 [Funding Proposal](heilmeier_catechism_lafelabs.md)
 
+[Demo List](demo_list.md)
+
 ### Book 1. Trash Wizardry and Witchery: The Stickening
 
 
