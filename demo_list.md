@@ -60,4 +60,9 @@
 ### Junk Car Feed
 
 1. full automobile teardown, extract and tag parts, create tales and lore
-2. 
+
+### Nanotechnology
+
+1. make tunnel junction from a soda can
+2. STM with giant wheels to decrease motion from mm to sub nanometer
+3. nanotube fabrication with dog shit methane reactor
