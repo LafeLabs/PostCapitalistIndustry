@@ -24,3 +24,9 @@ Piezoelectricity, contrary to what capitalists might want you to believe, is ext
 It may make sense to have the heated tool be stationary and the piece being worked be moved.  For the printer of braille this can be done fastest and easiest: milk bottles cut and grabbed with a weight rock and three fishing lines as a xyz bang boom, with a small rock with a I2R heater as the tool.  This is easy to do with parts I have now, except for the thermometry.  And the power generation.  
 
 This same technology might work to shape the rocks themselves, where the rock is pulled around in xyz space, and there is a vibrating chipping tool with feedback developed for the massagers, but used with a steel or diamond head  of some kind which chips the rock.  Again, this can be moved around, with various arms carving from different sides, to shape an arbitrary stone into an arbitrary shape and join it with other technology.  Probably the right way to do this with rocks is underwater, with some plastic floats for some added buoyancy.  
+
+### wet 3d STM with fabrication
+
+Run a xyz 3d manipulator in an electrolyte solution, like sea water, with a pointy tip or set of tips, of various metals.
+
+Note: aluminum electrolytic capacitors are highly nonlinear and can be very useful for this work, can be changed in situ and used for both imaging and fabrication of generic 3d metal objects.  Working in fluids can blur the line between tunneling and not, since the leakage current will pretty much always involve tunneling, and there will be current even if the tip is out in the middle of the solution. Also, flow of the fluid will matter.  
