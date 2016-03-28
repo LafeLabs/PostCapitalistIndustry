@@ -39,6 +39,7 @@ all references are in raw bibtex but with source code included to compile to sev
 * hyper links to relevant pages, the actual work for all open access
 * open access or not, copyright status
 * links back into the text to all places cited, link to a list with some explanation of uses of the thing, list of footnote numbers
+* notes with page numbers 
 
 in the printed version I will suppress useless shit about the publisher because fuck the publisher, they don't need the free advertising.
 
