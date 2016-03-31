@@ -77,6 +77,10 @@ Beliefs of Capitalism:
 
 Expand on this, loop it back to what is best in life(which capitalism does not bother to address at all)
 
+## Capitalism Stifles innovation, 
+
+has held us back for 50 years
+
 
 # IV. Why now?
 

@@ -84,5 +84,7 @@ This is where the SlimeZistor is relevant. I need universal SlimeZistor and Frac
 
 
 
+## LiPo Batteries
 
+This requires detailed survey of how to scavenge them, safety, how to charge, lifetime, how to dispose
 
