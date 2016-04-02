@@ -1,7 +1,7 @@
 int pinArray[] = {5,6,9,10};
 int pinIndex = 0;
-int buttonPinA = 2;
-int buttonPinB = 3;
+int buttonPinA = 7;
+int buttonPinB = 8;
 boolean buttonStateA = LOW;
 boolean buttonStateB = LOW;
 
