@@ -54,5 +54,5 @@ void loop() {
   else{ //"else" will only be when some button is high, in which case...
     analogWrite(pinArray[pinIndex],255); //turn PIN high
   }
-  delay(1); //wait a short time to let thigns settle
+  delay(25); //wait a short time to let things settle
 }
