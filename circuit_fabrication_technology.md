@@ -30,3 +30,56 @@ This same technology might work to shape the rocks themselves, where the rock is
 Run a xyz 3d manipulator in an electrolyte solution, like sea water, with a pointy tip or set of tips, of various metals.
 
 Note: aluminum electrolytic capacitors are highly nonlinear and can be very useful for this work, can be changed in situ and used for both imaging and fabrication of generic 3d metal objects.  Working in fluids can blur the line between tunneling and not, since the leakage current will pretty much always involve tunneling, and there will be current even if the tip is out in the middle of the solution. Also, flow of the fluid will matter.  
+
+
+
+### The TRIPOD!!!
+
+Let it be known that April 6, 2016 is Tripod Day, the day I created the Tripod.
+
+The basis for all Trash Magic fabrication will be the tripod.  a tripod is exactly what it sounds like: three sticks, joined at the top with wire or tape or rope, as well as with guy wires at the bottom if needed, with the bases of the three sticks planted in the ground for stability.  A rock hangs from the center to keep it steady.  
+
+Each of the three sticks shall be of Skeletron.  Each shall be the size of the Standard Trash Magic Staff.  A practitioner of Trash Magic shall have the power to deploy this at any time, at any scale and with any tool.   Full xyz motion is possible with wires that are fed through holes or wheels on the sticks, and can go to stepper motors for drive and/or wheels on potentiometers.  Each wire connects to an arduino that runs a three terminal pulsed transport measuring protocol.  The ADC signals are amplified and converted with some math to an audio signal, visual display, and or vibrotactile interface.
+This probe can be heated with the wires, can do local electrochemical work and measurement, measure nonlinearities of all kinds, and can thus weld, plate, edit, implant ions, plastic weld and plastic re-shape, signals also displayed in a GUI in a smart phone if needed but can also not be, can have no "smart" computer at all, just dumb computers.  Sensing can be capacitive, inductive, resistive, frequency dependent or not, nonlinear or not, gated or not.  Many different sizes and weights can be used, gear ratios can be changed on the fly with various interchangeable wheels.  Everything is modular.  
+
+Thermal regulation of processes can be carried out by moving the position of a suspended cauldron in 3 dimensions relative to a fire at the bottom of the tripod, using a microprocessor and feedback on a thermometer to regulate the temperature to a fixed point.  
+
+In a cluster of Trash Magic industrial production there can be many tripods, all in a network, connected by plastic plumbing, electrical and data connections, and zip lines that move materials from one to another, setting up ad hoc nodes in an assembly line that can be grown and shrunk on the fly.  
+
+Tripods can also support roof and wall materials, making shelters that people can sleep and work in.  Tripods can be trees that already exist.  Tripods can also be completely submerged for doing intricate work on the bottom of a body of water.  In zero gravity another set of sticks are needed, and another cable and springs.  The materials for a pair of tripods should also be able to become the skeleton of a simple boat, which can then deploy mini tripods to the water below it.  
+Tripods can be fractal, with a small tripod lowered from the tool head of a large tripod.  Smallest tripods should have Angstrom resolution and atomically sharp tips, biggest ones are hundreds of meters tall.  
+
+Elements:
+
+3 skeletron sticks
+
+wire or rope for lashing
+
+knife and drill and pliers to work the stuff together
+trash magic philosophy engine style motor(one sided four pole stepper, water proof). all made from plastic bottles, HDPE milk bottles and HDPE caps from soda bottles, coils unwound and re wound from big old AC motors and transformers.  Transistors and SoC devices are salvaged and hacked from internet routers.  Micro controllers are salvaged from thermostats and the like.  Op amps are salvaged from audio electronics of various kinds.  motors designed to run as "dumb" steppers or DC brushless fast motors with feedback using pickup coil(s).
+IOT device that has enough outputs to drive all the motors, e.g. the Pi zero or equivalent SoC
+
+smart phone or tablet to control the IOT thing remotely--if there is VR or AR, it happens on this machine so that it's off the shelf and tracks whatever the tech assholes come up with as it develops.
+
+sensor wheels that can pick up position of a passing structural wire as it goes past as the work moves, along with arduino to read them all out which connects to the IOT platform and out to the tablet, this allows full xyz input by the user or recording of position while a user works the machine by hand
+
+LED illumination pointed at work space from the Trash Magic sticks, these have RGB capability so they can signal various types of data
+
+speakers and amplifier that can play sound from the tablet, IOT device or direct amplification to get audio feedback on the signal
+
+arduino that does the three terminal generic electrical measurement and drive with pulse width modulation and various ADC pickups, this connects to the raspberry pi, which then puts out light, sound, and vibration to feed back electrical data to the user
+
+various heated tools and electrical heaters which can be driven by the suspending wires--need lots of thermometers for feedback, which can go to arduinos that connect to the pi over serial or bluetooth
+hydro electric generators with tethers so that the whole tripod can be run by the tide or stream nearby, close but not necessarily under the tripod(although they could be!)
+
+generic pumps for water and gas--two drive coils and a pickup coil, this is also the vibrational driver, see below, same tool, can be either on the moving piece or stationary while the work piece is moved.
+
+vibrating tool which can vibrate a heavy rock-weighted tool that can, over many hours, under moving water, carve arbitrary shapes into stone, vibration also used for plastic welding with heat
+soldering tool connected to Main Trash Magic Power
+
+designs for many sizes and types of wheel so that torque can be transformed up or down, all fabricatable from bottles.  
+
+LiPo batteries and bigger ad hoc electrochemical cells for storing more energy, possibly a water "tower" where water with stored potential energy can flow pressurized fluid through the system
+
+high voltage generator for plasma work etc
+
