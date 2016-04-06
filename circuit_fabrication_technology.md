@@ -83,3 +83,25 @@ LiPo batteries and bigger ad hoc electrochemical cells for storing more energy, 
 
 high voltage generator for plasma work etc
 
+### Elements of Trash Wizard Stick:
+
+
+* Stick of typical Wizard Staff length, about 2 meters, about 1 inch diameter
+* 1 fully assembled stepper motor, shaft protruding both ends, gets wrapped like a capstan for drive, with as many wraps as needed, with sewing thread, which is tied to the wires that do the transport measurement
+* 1 dual coil drive with feedback coil(s)
+* raspberry Pi connected over ssh(replace with pi zero ASAP, attempt to replace most of the arduinos with this GPIO and just use a single MEGA for analog input with some amplifiers)
+* arduino for generic 3 terminal pulsed DC measurement, connected to audio and ADC to serial
+* small speaker and amplifier
+* neo pixel array of RGB LED's
+* various thermometers and pressure sensors read out with a temp/pressure arduino
+* LiPo battery which can store power to run everything, up to 2 amps
+* LeatherMan type tool
+* heater tool
+* rotational position sensor wheel connected to potentiometer
+* various holes for skeletron attachments as well as notches for attaching wires and lines and cleats to tie things off 
+* windshield wiper motor charger with simple water wheel.  Generate 100 W, charge batteries fully with it
+* small tablet to talk to Pi(Surface?) running i python notebooks
+
+
+Note that these tools leave a huge range of what can be done, including electrolysis to get plenty of H2 and O2.  Also this can be scaled up for high intensity agriculture.  Motors can be added as well as tools.  Medical operations can be carried out remotely with these tools as well as all industrial fabrication, game playing ,art, tele presence etc.  
+
