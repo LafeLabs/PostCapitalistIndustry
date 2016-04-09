@@ -72,14 +72,18 @@ Beliefs of Capitalism:
 2. All value can be added up using numbers
 3. All value must be extracted from the Earth or from human misery
 4. Human society is described by something called an "economy", which is a system for laundering mine products and human misery into numerical media of exchange
-5. Hard work is an intrisic good
-6. Our world can all be described by a giant heierarchy, people, animals, objects, gods, ideas, all are always ranked and this ranking is ordained by the highest authority, whatever that is 
+5. Hard work is an intrinsic good
+6. Our world can all be described by a giant hierarchy, people, animals, objects, gods, ideas, all are always ranked and this ranking is ordained by the highest authority, whatever that is. 
 
 Expand on this, loop it back to what is best in life(which capitalism does not bother to address at all)
+
+Number worship, the belief in numbers as a superior picture of reality than other models.  BBC documentary on history of numbers is actually blatant capitalist religious propaganda nonsense.  Vietnam war, big data, the very word "rational", always the assumption that number-based ideas are superior than ideas not based on numbers.  Tie this in with the philosophical roots of the Patriarchy.
 
 ## Capitalism Stifles innovation, 
 
 has held us back for 50 years
+
+obsession with novelty over functionality and with dividing up lines between fields which hold back all the tools, making useless mono-tools instead of general tools.  
 
 
 # IV. Why now?
