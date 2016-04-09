@@ -125,6 +125,9 @@ We need to start over from scratch and build a technology without the existing t
 
 At the center of this is The Motor, or The Philosophy Engine, or whatever it ends up getting called.  But I also want to build up a way of studying and deploying new electronic materials that breaks the chains of the old system.  This means cheaper and simpler experiments, all done on available waste materials.
 
+### Why Trash?
+
+Who owns a dog turd left on the street?  Who owns the piles of plastic bottles that collect in an eddy of an urban stream?  Who owns the soot that collects on the walls of a bus stop?  No one.  The concept of private property, which I regard as evil, does not incorporate all things. For capitalism to function it has to have both "assets" and "liabilitites", which the capitalists associate with opposite signs of numbers.  What if a turd is not a liability or an asset?  It does not exist in the capitalist universe, it is their ultimate trash, of value to no one, and it is the seed that we must use to create a better world.  
 
 
 

@@ -1,3 +1,13 @@
+## what distinguishes this volume(the technical half)?
+
+This is a book of magic.  Its contents are identical to those of an introductory book in what the capitalist call "physics", but this will present the topics covered with a totally different point of view.  The abandonment of thousands of years of poisoned philosophy requires that we reconsider the whole approach to this type of Magic.  
+
+I have to use some of the language of the world of capitalist physics, in order that you be able to use this Magic in the world as you see fit, in ways that can help you in the world you live in(whatever that is).  However, that will, as much as possible, not be that of numbers.  I'll use numbers, but always trying to use concepts like "a pinch of salt" rather than "1.21 gigawatts".  
+
+Perhaps the division between volumes is not so much technical and non technical since I aim to destroy that division.  It's the theory and practice of Trash Magic, where the first volume is theory, or pure philosophy, and the second volume is applied Trash Magic.
+
+
+
 ## Capitalism and Morality
 
 In Star Trek III, Kirk is discussing the morality of the whole crew of the Enterprise risking their lives to save Spock.  He quotes Spock back to him, from when in the previous film he says "the good of the many out weigh the good of the one".  Spock's response is "I would accept that as an axiom".  To me that phrase really stands out, and I believe that there is the kernel of a very deep truth here(such deep truths after all being Spock's specialty!)

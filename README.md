@@ -1,4 +1,4 @@
-#   Trash Magic
+#   Theory and Practice of Trash Magic
 
 ### Lafe Spietz 2016
 
@@ -12,7 +12,7 @@
 
 [Demo List](demo_list.md)
 
-### Book 1. Trash Wizardry and Witchery: The Stickening
+### Book 1. Philosophy of Trash Magic: Ways of Witchery and Wizardry
 
 
 1. [What is capitalism?](capitalism.md)
@@ -30,9 +30,10 @@
 13. [Let's Build This!](lets_build.md)
 
 
-### Book 2. Applied Physics for Post Capitalist Industry
+### Book 2. The Practice of Trash Magic: the Stickening
 
-1. [Capitalism](capitalism_technical.md)
+
+1. [Post Capitalist Industry: Trash Magic](capitalism_technical.md)
 2. [Measuring the post capitalist world](Measures.md)
 3. [Fear and loathing in the vector fields](Fields.md)
 4. [Coils for Magnets and Motors](coils_for_magnets_and_motors.md)
