@@ -64,4 +64,20 @@ Donations will never be tax deductible.  I believe that tax deductible non profi
 
 I will be as open as I can about the details of my use of funds.  If the amount of funds raised exceeds a few thousand dollars a month, I will start distributing it to other people who can extend this work, also with essentially no strings attached except choosing who to fund. 
 
-
+
+### Funding Proposals for Applied Physics with Trash Magic
+
+
+1. 3d manipulator printer of HDPE from milk bottles, funds from NASA, private funders, DARPA, all branches of armed forces for on-demand fabrication
+2. littoral robots that self-charge for environmental cleanup, monitoring, trash collection, agriculture: NOAA, Navy, EPA, DOE, USDA
+3. underwater generators that power LED lights for agriculture under the sea
+4. real time electrochemical probe for 3d fabrication using collagen: NIH, all branches of armed forces, DARPA, NASA
+5. scanned probe analyzer and ion editor for integrated circuits: DARPA, DOE, NSA()
+6. nano electronic fabrication platform with 3d probe: NASA, DOE, DARPA, Air Force, Navy
+7. scanning probe at bottom of body of water: Navy, DARPA, DOE
+8. robots that never die, can recharge themselves and live off grid: DARPA
+
+
+Get 3d manipulator and EC probe and heat plastic work tools working, prove it can have micron to meter precision, can shape plastics and be driven by computers or human user, usually in combination.  With this it should be possible to build demos that get the above things funded, supporting the rest of the work.  One grant for 100k every 2 years is the goal, keeping the average over 50k with minimal "work". All the many other parts can be developed separately and deployed for free outside capitalism, and these will also be free, but can get sponsors.  
+
+also get generators working and chemical storage cells, in phase 1.  And 2 wheeled robot. pumps and compressors are important, as well as high voltage, but not needed for first phase to get funding.   

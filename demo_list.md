@@ -16,6 +16,10 @@
 11.	All these parts with full object data including tales and lore and hand painted codes
 12.	rotational motor turns a turbine pump inside a plastic tube
 13.	rotational motor winds a coil, builds another motor
+14.	quasi mass production of motor coils and rotors, stators, etc, whole process
+15.	peristalsis water pump, with 2-6 poles
+16.	rotary water pump in a bottle
+17.	3d shaper with a heat tool and 3 steppers
 
 
 ### Generators
@@ -56,6 +60,7 @@
 4. use magnet to drive fluid onto and off of electric contact, showing same NDR behavior with switching
 5. colored fluids in clear channels demo
 6. fluid flow measurements 
+
 
 ### Junk Car Feed
 
