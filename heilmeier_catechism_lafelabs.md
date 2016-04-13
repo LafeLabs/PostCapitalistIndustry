@@ -77,6 +77,7 @@ I will be as open as I can about the details of my use of funds.  If the amount 
 7. scanning probe at bottom of body of water: Navy, DARPA, DOE
 8. robots that never die, can recharge themselves and live off grid: DARPA
 
+DLA is the most appropriate funder for the manufacturing technology.  Zero cost manufacturing on location could be huge for DLA, could deploy Trash Magic. defense logistics agency.
 
 Get 3d manipulator and EC probe and heat plastic work tools working, prove it can have micron to meter precision, can shape plastics and be driven by computers or human user, usually in combination.  With this it should be possible to build demos that get the above things funded, supporting the rest of the work.  One grant for 100k every 2 years is the goal, keeping the average over 50k with minimal "work". All the many other parts can be developed separately and deployed for free outside capitalism, and these will also be free, but can get sponsors.  
 

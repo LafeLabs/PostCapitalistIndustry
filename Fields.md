@@ -98,3 +98,4 @@ do experiments, show platinum thermometer usage, smart phone usage
 # vector calculus
 
 real examples with measurements of the vector calculus operators, gradient, divergence, curl, laplacian.  vector and scalar potential, gauge transformations.  
+

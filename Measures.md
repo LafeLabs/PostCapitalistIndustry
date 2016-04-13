@@ -285,7 +285,9 @@ Note that water wave impedance matching will be of the utmost importance if we a
 
 Examine the creation of vortices in the creeks, rivers, ocean, and stormy air in terms of quasiparticle creation and destruction to try to understand the dissipation.
 
+# Law of Ohm
 
+All the many analogs of Ohms law get a section, tied in with impedance
 
 ### energy and power units
 
