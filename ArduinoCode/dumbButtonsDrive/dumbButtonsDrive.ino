@@ -1,32 +1,36 @@
-int pinArray[] = {5,6,9,10};
-int pinIndex = 0;
-int buttonPinA = 7;
-int buttonPinB = 8;
+int pinArray[] = {2,3,4,5};
+int buttonPinA = 11;
+int buttonPinB = 12;
+int knobPin = A1;
 boolean buttonStateA = LOW;
 boolean buttonStateB = LOW;
-
-int x = 0;
-int y = 0;
-
+int index = 0;
+int T = 0;
 
 void setup() {
-  int x0 = analogRead(A4);
-  int y0 = analogRead(A5); 
   pinMode(buttonPinA,INPUT);
-  pinMode(buttonPinB,INPUT); 
+  pinMode(buttonPinB,INPUT);   
+  for(index = 0;index < 4;index++){
+    pinMode(pinArray[index],OUTPUT);
+  }
 }
 
 void loop() {
+  T = 10 + (analogRead(knobPin))/5; //from 10 to 210 or so ms
   buttonStateA = digitalRead(buttonPinA);
   buttonStateB = digitalRead(buttonPinB);
-  if(buttonStateA && !buttonStateB){
-    analogWrite(pinArray[0], 255);
+  if(buttonStateA){
+    for(index = 0;index < 4;index++){
+      digitalWrite(pinArray[index],HIGH);
+      delay(T);
+      digitalWrite(pinArray[index],LOW);
+    }
   }
-  if(buttonStateB && !buttonStateA){
-    analogWrite(pinArray[1], 255);
-  }
-  else{
-    analogWrite(pinArray[0], 0);
-    analogWrite(pinArray[1], 0);
+  if(buttonStateB){
+    for(index = 3;index >= 0;index--){
+      digitalWrite(pinArray[index],HIGH);
+      delay(T);
+      digitalWrite(pinArray[index],LOW);
+    }
   }
 }
