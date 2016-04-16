@@ -12,6 +12,8 @@
 
 [Demo List](demo_list.md)
 
+[Technical Roadmap](technical_roadmap.md)
+
 ### Book 1. Philosophy of Trash Magic: Ways of Witchery and Wizardry
 
 
