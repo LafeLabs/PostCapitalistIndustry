@@ -1,4 +1,13 @@
+/*
+FUCK PATENTS FUCK COPYRIGHT FUCK ALL PROPERTY "LAW" NO LICENSE NO LAW NO PATENTS NO COPYRIGHTS
 
+Control z axis hoist Philosophy Engine Stepper motor using PS3 controller.  Vcc and GND from the arduino drive the power for the Hall sensors on the controller, analog output of right y axis control goes to A0.
+
+April 2016
+
+FUCK PATENTS FUCK COPYRIGHT FUCK ALL PROPERTY "LAW" NO LICENSE NO LAW NO PATENTS NO COPYRIGHTS
+
+*/
 
 
 
