@@ -28,7 +28,7 @@ void setup() {
 void loop() {
   x = analogRead(A0);  //read A0
   mV = 3300.0*float(x)/1023.0;   //convert to float then conver to mV, assuming 3.3 V Vcc, also convert to mV not V
-  T_C = 30 - (sqrt(184.47 - 0.01732*(2230.8 - mV)) - 13.582)/0.00866;  //exact parabolic solution from the data sheet
+  T_C = 30 + (sqrt(184.47 + 0.01732*(2230.8 - mV)) - 13.582)/0.00866;  //exact parabolic solution from the data sheet
   T_F = 1.8*T_C + 32.0;  //convert to F
   T_K = T_C + 273.15;    //convert to K
   Serial.println(T_C);   //spit out the data
