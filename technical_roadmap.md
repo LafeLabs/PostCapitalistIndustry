@@ -22,8 +22,8 @@ Each technology goes through phases, and has equivalent milestones roughly follo
 ### Phase One
 
 1. Basic stepper motor with button control and serial control
-2. electrochemical probe with tactile feedback and simple plotting on a tablet on a stick
-3. generic plastic heat tool set, also vibrotactile feedback
+2. electrochemical probe with simple plotting on a tablet on a stick
+3. generic plastic heat tool set with serial of temperature and LED for power
 4. minimum possible water pump that can be measured for max flow and head pressure
 5. minimum possible air pump that can be measured for flow and head pressure
 6. generic dumb vibrator drive
