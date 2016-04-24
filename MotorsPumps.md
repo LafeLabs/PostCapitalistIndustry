@@ -73,4 +73,12 @@ BUILD this now!!!!!!! JB Weld goes to 260 C so if that goes on first, then I use
  
  Once these work, I'll also want biomimetic arms with the push/pull cable motors driving like tendons, arms come in from all sides, an xyz bang boom manipulator moves the object around.  Put a milk bottle in, fix it to the weighted bang booms, and run the program on all the various arms and move the object around as needed to do the work.  
  
+ Another important pump and fluidic architecture is with wood.  This could be carved dead wood but also living wood, where the electrical and chemical systems are integrated into the living tree.  The can be topped with a variety of polymers, including silicone or various plastic or rubber sheets. Does it have to be totally water proof?  no.  The top can simply have a high enough flow impedance that flow through it is limited.  This can be useful especially when the whole thing is immersed in water.  fluid can be pumped with some loss with a permeable cloth, also slowly exchanging ions from the surrounding water.  
+ 
+ This wood carving process is vastly superior to plastics.  It can be done quickly by hand with sticks which are everywhere, no  need to even find special trash.  Can the EC probe be used to change how wood grows in a living tree to bio-engineer the wood into the desired shape?  Maybe.  Must attempt to interact root growth with EC probe under microscope in water ASAP.  
+ 
+ I need an electric wood carving tool, based on the concept of a Dremel tool but modified for this kind of work, and lower power.  Given that I am now making all my electronic circuits out of wood also, this automatically integrates the chemical and electrical sides of the Project.  Fluidic transistors and oscillators and gates and detectors can be integrated with all sorts of electronic components.
+ 
+ First pump demo is now a stick, carved, with HDPE and duct tape and magnets to pump water.  Sticks, duct tape, coils, transistors, magic stick, magnets, simple.    
+ 
 
