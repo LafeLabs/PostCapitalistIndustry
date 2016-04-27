@@ -31,6 +31,7 @@ Each technology goes through phases, and has equivalent milestones roughly follo
 8. wind power that puts out same, charges LiPo's, is interchangeable with above
 9. hoist control with string, z axis motion of one weight controls z axis motion with another connected to the output with wheels to get fine motion control.  Goal is about 300 micron control over a 5 cm range or so
 10. skeletron core elements version 1, using commercial nuts and bolts still
+11. grow onion roots inside slimezistor with silicone nub pumps and valves, demonstrate manual silicone pumps and valves
 
 
 ### Phase Two

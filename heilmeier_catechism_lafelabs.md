@@ -81,4 +81,4 @@ DLA is the most appropriate funder for the manufacturing technology.  Zero cost 
 
 Get 3d manipulator and EC probe and heat plastic work tools working, prove it can have micron to meter precision, can shape plastics and be driven by computers or human user, usually in combination.  With this it should be possible to build demos that get the above things funded, supporting the rest of the work.  One grant for 100k every 2 years is the goal, keeping the average over 50k with minimal "work". All the many other parts can be developed separately and deployed for free outside capitalism, and these will also be free, but can get sponsors.  
 
-also get generators working and chemical storage cells, in phase 1.  And 2 wheeled robot. pumps and compressors are important, as well as high voltage, but not needed for first phase to get funding.   
+also get generators working and chemical storage cells, in phase 1.  And 2 wheeled robot. pumps and compressors are important, as well as high voltage, but not needed for first phase to get funding.   Also a version of this proposal can go in each book, in case a reader wants to become a patron of the work. 
