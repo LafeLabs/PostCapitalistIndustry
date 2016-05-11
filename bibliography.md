@@ -108,5 +108,10 @@ especially for object spime data
         "lore":
         "data":
         
+       
     }
+    
+    
+    
+https://www.worldcat.org/title/elementary-treatise-on-hydromechanics-with-numerous-examples/oclc/657161854&referer=brief_results
 
