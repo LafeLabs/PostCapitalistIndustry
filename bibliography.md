@@ -113,5 +113,28 @@ especially for object spime data
     
     
     
-https://www.worldcat.org/title/elementary-treatise-on-hydromechanics-with-numerous-examples/oclc/657161854&referer=brief_results
+<https://www.worldcat.org/title/elementary-treatise-on-hydromechanics-with-numerous-examples/oclc/657161854&referer=brief_results>
+
+
+[The Machinery of Life](http://www.worldcat.org/oclc/25787303)
+Amazing intro to molecular biology very clear, very mechanical
+
+
+[Slayers, saviors, servants, and sex : an expose of kingdom fungi](http://www.worldcat.org/oclc/44683496)
+Great intro to fungi very useful low level reference to get started
+
+[De Re Metallica](http://www.worldcat.org/oclc/3117789)
+
+[decorative knots](http://www.worldcat.org/oclc/41021593)
+got various plans for decorative knots and coachwipping from the denver public library
+
+[the Spark of Life](http://www.worldcat.org/oclc/783160332)
+Electricity in the Human body, great ion channel stuff
+
+[Homemade lightning : creative experiments in electricity](http://www.worldcat.org/oclc/47126824)
+
+[Gene cloning : an introduction](http://www.worldcat.org/oclc/41214416)
+
+
+
 
