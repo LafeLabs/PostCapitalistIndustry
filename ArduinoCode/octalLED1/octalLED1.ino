@@ -1,4 +1,19 @@
 //all property is evil, none claimed here
+/*
+
+Octal Numerical readout for 9 bit number converted from 10 bit number
+on 8 LED neopixel array
+
+Red solid bar shows least sig digit(ones), position of green dot is 
+eights(after the bit shift!), position of blue dot is 64s, also
+after the bit shift.  Bit shift is needed to have octal line up with 
+number of input bits for 10 bit ADC.  So this destroys the least
+significant bit of information, making the analog input a bit 
+less sensitive(literally one bit less sensitive)
+
+bits can be added with some simple math for 24 pixel arrays etc.
+*/
+
 
 #include <Adafruit_NeoPixel.h>
 
@@ -19,6 +34,7 @@ void setup() {
 
 void loop() {
 x = analogRead(A0);
+x = x >> 1;
 ones = x%8;
 eights = ((x-ones)%64)/8;
 sixtyfours = ((x - ones - 8*eights)%512)/64;
@@ -36,13 +52,13 @@ for(index = 0;index < 8;index++){
   else{
     red[index] = 0;
   }
-  if(index == eights){
+  if(index == eights - 1 && eights != 0){
     green[index] = 255;
   }
   else{
     green[index] = 0;
   }
-  if(index == sixtyfours){
+  if(index == sixtyfours - 1 && sixtyfours != 0){
     blue[index] = 255;
   }
   else{
