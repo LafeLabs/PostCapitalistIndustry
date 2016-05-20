@@ -17,6 +17,9 @@ Plan:
 - steam
 - oil and the petrocarbon energy cycle and system
 
+be sure to have the units the biologists and chemists use, such as kCal/mol, BIG TABLE, cover many fields, dBm, dB for sound, etc for power conversions as well
+
+
 is it possible to do a simple nuclear transformation to see energy mass equiv?  Or maybe photo electric effect
 
 ipython notebooks:

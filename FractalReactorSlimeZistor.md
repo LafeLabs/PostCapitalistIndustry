@@ -11,6 +11,8 @@ Near term projects to DO:
 9. build O2 plasma machine, play with patterns, make tiny plasma tubes with high voltage generators
 
 
+### Do not forget to add turboelectric series and HV generators
+
 ![image](fractal_reactor_cartoon2.png)
 
 ![Fractal Reactor Cartoon](images/fractal_reactor_cartoon1.png "Fractal Reactor Cartoon")
