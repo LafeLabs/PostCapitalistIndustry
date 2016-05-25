@@ -1,4 +1,4 @@
-
+ 
 ## Overview of Stages of Each Technology
 
 Each technology goes through phases, and has equivalent milestones roughly following these stages:
