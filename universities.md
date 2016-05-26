@@ -4,6 +4,9 @@ yale land holdings:
 
 <http://sustainability.yale.edu/planning-progress/areas-focus/landscape>
 
+### this chapter should have a section with a detailed example
+maps, tables, really dig in and figure out the strategy and tactics that could be used, maybe have multiple examples, small liberal arts, huge public school, elite private school, community college in a big city
+
 ### The Universities are a Disaster
 
 
@@ -16,6 +19,8 @@ yale land holdings:
 * Academia: where ideas go to die
 
 * Academia: it was here before capitalism and it will be here after
+
+* Has traditionally been a part of various religions and patriarchal systems connected with them
 
 IP is key to how bad it is, academia after the re-occupation of the campus all property will be banned from campus.
 
