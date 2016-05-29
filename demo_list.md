@@ -20,6 +20,7 @@
 15.	peristalsis water pump, with 2-6 poles
 16.	rotary water pump in a bottle
 17.	3d shaper with a heat tool and 3 steppers
+18.	water waves generator with strobe with tunable phase shift to see different phases of waves fixed in time
 
 
 ### Generators
@@ -71,3 +72,11 @@
 1. make tunnel junction from a soda can
 2. STM with giant wheels to decrease motion from mm to sub nanometer
 3. nanotube fabrication with dog shit methane reactor
+
+
+### Demo Plan
+
+Build about 100 demos for about 500 dollars over about a year and send them out to about 100 people.  These start the value circles.  Emphasis must be on *teaching* so that people expand the value circles exponentially as well as pass on the philosophy.  Protests might bring in hundreds in the course of a few days or weeks.  Some people will end up teaching hundreds and some will teach none.  Some will be teaching in a few days some after months.  How to estimate?  I want a million people in 10 years and a billion in 20 years.  Starting with 100 to get to 1 million I need to multiply by 10,000 in 10 years or 2.6x per year.  So if the goal is to teach 10 people who teach 10 people, and that replicates in a 3 month period, I could imagine an increase at peak of 10x every 3 months or 40x per year so that in 10 years it would be 40 to the tenth power or 10 quadrillion people, so clearly that's aiming too high!  To get a full 10 billion people in theory over 10 years the exponential growth rate needed is 10x per year.  So I need to teach 100 people per year and have 1/10th of them become people who can teach 10 per year, with enough variability on the up side.  The DNA of the spread technology must have code that mutates and expands so that the technology as it grows in number of people also grows in sophistication and power to take over all things.  10 per year is fourth root of 10 every 3 months is get a couple of serious people who can lead and teach every 3 months and 20 random people who do nothing.  
+
+Value circles and value trees should be 
+

@@ -12,7 +12,7 @@ Lore and Tales shall replace economics, and this becomes easy to understand and 
 
 This is part of how Trash Magic can drive wedges into global capitalist culture: we inhabit the strange corners of the current capitalist regime where property-based values have not totally extinguished all goodness.  These include in the water, where property law is more flexible, and in folklore as opposed to capitalist media, where IP has not taken over the culture and suppressed creativity.
 
-
+Note: I'm increasingly thinking that both the tale and lore should be mostly oral.  There will be graphical constructions to show how to do stuff, but I think the combination of oral and graphical might be superior to the written word for this, because I want the doing of things to spread, rather than the empty talk.  You have to be face to face to really teach someone this stuff, so why not keep it offline with exchanged files not on a techfuck server?  It won't slow down transmission of real stuff so why not? It will slow down the spread of people talking about our ideas but doing nothing, but that's a good thing.  I want 100% participation: you either walk away or you actively participate.  Reading blogs and even doing instructibles in your basement in your house is not that. Those "makers" are of no use to this movement except as a source of some materials and instructions in our early days.  Images and oral transmission is something I can actually do.  And this book.  Fuck Github.
 
 
 ### Currency Diagrams
@@ -47,9 +47,19 @@ This is part of how Trash Magic can drive wedges into global capitalist culture:
 
 ### Free Feed of the Value CirclesPeople love their feeds. Facebook, Twitter, Yammer, news feeds, tumblr feeds, text message feeds, push notification feeds. It has proven to be a very widely liked format for a person to see the passage of time of a community of people. Value circles should include this feed concept. Working on your stuff will add media content from your device which gets added to the main value circle database and then fed into various users’ feeds based on their filter choices. I think if you are not trying to make money that this whole thing can be much simpler than the existing software and that Facebook etc can be replaced. However, it’s also possible that the best first implementation of this will be to do it in a existing commercial system like Facebook. This is obviously dangerous. Dealing with companies like that can have legal problems, control problems, and limitations on what you can do practically. It’s not ideal, but it’s something to consider. And the free feed that circulates and shares data to a web browser that can be loaded on the pi zero tablets of the trash wizards is a project that should be worked on immediately. Probably tools already exist that can be adapted for this task. This is worth some detail in the first book, it’s not physics, it’s code and that’s faster to deploy.
 
+### Courier system
+
+I need a courier system to facilitate movement of goods as well as skills without shipping costs
+
+
+### Also value "trees"
+
+Is the circle the best geometrical metaphor?  Sometimes.  But I should generalize the concept of geometric metaphors to include the spiral, the pentagram, the tree, the fractal, the sphere, the torus etc. etc.  trees have roots and leaves and branches and a trunk and sap and sun and soil and water.
+
+
 ###	Trash Wizard Interaction with Capitalist Economics
 We all have to live somehow, and most of us  can't just sink beneath the waves and escape capitalism overnight.  We need money to pay rent to live in a city where our loved ones are, to pay for medicine, get around on capitalist transit etc.  How do we do this ethically without just selling out?  
-Here are the rules for Trash Wizard capitalist interations:
+Here are the rules for Trash Wizard capitalist interactions:
 1.	Try not to buy raw materials and other peoples labor, salvage trash and rely on mutual aid for free, and build your own stuff
 2.  To make money, selling labor is best, then selling stuff made from trash, always try to avoid labor and materials arbitrage: don't buy stuff then sell it don't pay people then re-sell their labor.  
 3.  Do not sell misery, try to only work on things that are fun, while they stay fun, each product or service should be an ADVENTURE.
