@@ -137,4 +137,10 @@ Electricity in the Human body, great ion channel stuff
 
 [Iron: Nature's Universal Element](https://www.worldcat.org/title/iron-natures-universal-element-why-people-need-iron-animals-make-magnets/oclc/42761950&referer=brief_results)
 
+[Bruce Sterling's 2000 manifesto](http://www.viridiandesign.org/manifesto.html)
+Really good, relevant bits, e.g.:
+"With business hopeless and government stymied, we are basically left with cultural activism. The tools at hand are art, design, engineering, and basic science: human artifice, cultural and technical innovation. Granted, these may not seem particularly likely sources of a serious and successful effort to save the world. This is largely because, during the twentieth century, government and industry swelled to such tremendous high-modernist proportions that these other enterprises exist mostly in shrunken subcultural niches.
 
+However, this doesn't have to be the case. With government crippled and industry brain-dead to any conceivable moral appeal, the future of decentered, autonomous cultural networks looks very bright. There has never been an opportunity to spread new ideas and new techniques with the alacrity that they can spread now. Human energy must turn in some direction. People will run from frustration and toward any apparent source of daylight. As the planet's levees continue to break, people will run much faster and with considerably more conviction."
+
+It's safe to say Sterling's work is a major source of influence in my work here.

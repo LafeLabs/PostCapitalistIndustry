@@ -14,6 +14,10 @@
 
 [Technical Roadmap](technical_roadmap.md)
 
+[Purpose of Book 1](purpose_book1.md)
+
+[Illustrations for Book I](illustrations_for_book_i.md)
+
 ### Book 1. Philosophy of Trash Magic: Ways of Witchery and Wizardry
 
 
@@ -30,7 +34,8 @@
 11. [Visions of a Better Tomorrow](visions.md)
 12. [Open problems](problems.md)
 13. [Let's Build This!](lets_build.md)
-
+14. [appendix i: Techniques](techniquesBook1.md)
+ 
 
 ### Book 2. The Practice of Trash Magic: the Stickening
 
