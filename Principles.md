@@ -1,3 +1,5 @@
+# Chapter 3: Core Principles
+
 ## Statement of Principles
 
 

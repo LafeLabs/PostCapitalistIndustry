@@ -1,3 +1,5 @@
+# Chapter 4: What is Trash Magic?
+
 
 
 ### What is a Trash Witch?  What is a Trash Wizard?  
