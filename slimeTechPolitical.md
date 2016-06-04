@@ -77,3 +77,5 @@ Also note that it should be possible to quickly do science to investigate new wa
 
 It appears that it should be possible to create a totally scalable nanotechnology system that can break down old cars and create arbitrary new nano electronic and mechanical materials, which can create still more factories, made from  the same materials which absorb large and larger numbers of cars, etc, creating exponential consumption of cars until there are no more cars.
 
+all the stuff about the evils of the microprocessor ideology goes here, the white supremacy ideology of William Shockley and how that is reflected in the bad decisions made in developing the modern microchip.  evils of clocks, connection to number worship and monotheism, sparse desert of the processor, evil separations between matter and information and energy 
+

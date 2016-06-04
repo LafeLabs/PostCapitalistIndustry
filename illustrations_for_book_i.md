@@ -1,7 +1,20 @@
 ### Illustrations for Book I
 
+
+chapter 1:
+
  - mining + misery = money
- - Banach Tarski paradox
+ - Banach Tarski paradox cartoon, with a dividing cell
+ - the dollar cut up and put back together with symbols
+ - dig it up, set it on fire and move debt around, and bury it: our economy in a nutshell
+ - cartoon of capitalist science and cartoon of free science
+ 
+ chapter 2:
+ 
+ - commandments in a scroll with decorations for main principles of free stuff
+ 
+ - alchemy stuff goes with slimezistors
+
  - ent moot
  - rumble of robots, octahedral ball drone
  - rumble or robots, soaring trash drones
