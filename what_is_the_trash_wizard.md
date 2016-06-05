@@ -32,8 +32,7 @@ Trash Wizards are always there for everyone.  We welcome the refugees of capital
 
 
 
-![image](images/CatField.png
- =400x) 
+![image](images/CatField.png) 
 
 
 What is a Trash Wizard?

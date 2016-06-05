@@ -6,9 +6,7 @@ What is best in life?
 
 To care for one another, and to have adventures.
 
-Capitalism has failed humanity on all counts for living our best lives.  
-
-Technology can help us do both of these things, building societies where all physical needs are taken care of as well as which preserve the adventure that makes life worth living.  However, as technology has advanced it has increasingly served its own needs.  It has such a powerful overall positive effect on the human condition that we have let the rules of technical progress dictate the rest of our society.  As I discuss in the next section of this chapter, I have some theories I will present here about the nature of this technical progress structure and how it's falling apart.  
+Technology can help us do both of these things, building societies where all physical needs are taken care of as well as which preserve the adventure that makes life worth living.  However, as technology has advanced it has increasingly served its own needs.  Because it has had such a powerful overall positive effect on the human condition(in some material ways), we have allowed the rules of technical progress to dictate the rules of the rest of our society.  In this chapter I discuss how I view capitalism as an underlying force which drives this process, creating great suffering for humanity and the rest of the living world.
 
 
 ## What is Capitalism?
@@ -78,7 +76,7 @@ Number worship, the belief in numbers as a superior picture of reality than othe
 
 I am against professionalism in all forms.  Professionalism divides us.  We have split up philosophy, physics, chemistry, biology, design, manufacturing, theology, art, and technology, and very much to the detriment of them all.  
 
-I’m against engineering and design as professions.  While specialization can be useful, I believe our society has created a soul-less techno-priest class which is evil enough in its very nature that technology needs to be re-built from the ground up outside that system.  If your technology needs the techno priests to function, it means your technology sucks and needs to be replaced.   If it needs extraction of raw materials from the earth or any control over large tracts of land in a centralized way to function it is bad technology and needs to be replaced.  If it requires secrecy or proprietary control of information and use it is bad technology.  If it can’t function without capitalism it is bad technology and needs to be replaced.
+I’m against engineering and design as professions.  While specialization can be useful, I believe our society has created a soul-less techno-priest class which is evil enough in its very nature that technology needs to be re-built from the ground up outside that system.  If your technology needs the techno priests to function, it means your technology is bad and needs to be replaced.   If it needs extraction of raw materials from the earth or any control over large tracts of land in a centralized way to function it is bad technology and needs to be replaced.  If it requires secrecy or proprietary control of information and use it is bad technology.  If it can’t function without capitalism it is bad technology and needs to be replaced.
 
 Specialization is fine up to about 100 people then it is a luxury for special projects.  If you need someone who makes up less than 1% of the population to do something your technology needs a reset and it is bad.  Our goal is total freedom for 100 people.  
 
@@ -110,6 +108,8 @@ These claims are just claims when stated in a a manifesto like this.  I state th
 Math is not objective reality.  This is obvious to most people who don't do math, as well as to most working mathematicians, but it's an amazingly popular belief among technocrats.  Math, like any other model built in the human mind, is a sort of reflection of the world.  A very powerful one, yes, but still just a part of our minds, and like any other model, there are choices we made to get where we are with math which could have been made differently.  
 
 The example I'll give here is a paradox that I find particularly interesting in terms of what it tells us about hidden ideologies.  Mathematicians call it the Banach Tarski paradox, and it generally arises in parts of the math curriculum concerned with point set theory.  Never mind exactly what that is, it's something usually taught in the late undergrad or early grad level in pure math(as opposed to applied math which is not concerned with these issues).  
+
+What this so-called paradox does is create a way to construct two spheres of points from the points in one.  That is, all the points in the first sphere are re-arranged in such a way that those same points make two spheres of the same volume as the first.  
 
 
 ## Why Now?

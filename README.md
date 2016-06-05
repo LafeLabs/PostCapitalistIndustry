@@ -12,6 +12,8 @@
 
 [Demo List](demo_list.md)
 
+[Format Notes](format_notes.md)
+
 [Technical Roadmap](technical_roadmap.md)
 
 [Purpose of Book 1](purpose_book1.md)
