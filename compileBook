@@ -4,6 +4,14 @@ pandoc -f markdown -t latex capitalism.md -o capitalism.tex
 pandoc -f markdown -t latex free_technology.md -o free_technology.tex
 pandoc -f markdown -t latex Principles.md -o Principles.tex
 pandoc -f markdown -t latex what_is_the_trash_wizard.md -o what_is_the_trash_wizard.tex
-
+pandoc -f markdown -t latex universities.md -o universities.tex
+pandoc -f markdown -t latex RumblesRobots.md -o RumblesRobots.tex
+pandoc -f markdown -t latex slimeTechPolitical.md -o slimeTechPolitical.tex
+pandoc -f markdown -t latex value_circles_economics.md -o value_circles_economics.tex
+pandoc -f markdown -t latex JunkCars.md -o JunkCars.tex
+pandoc -f markdown -t latex means_of_production.md -o means_of_production.tex
+pandoc -f markdown -t latex visions.md -o visions.tex
+pandoc -f markdown -t latex problems.md -o problems.tex
+pandoc -f markdown -t latex lets_build.md -o lets_build.tex
 
 

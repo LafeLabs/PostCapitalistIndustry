@@ -52,7 +52,7 @@ Note: I'm increasingly thinking that both the tale and lore should be mostly ora
 I need a courier system to facilitate movement of goods as well as skills without shipping costs
 
 
-### Also value "trees"
+### Also value trees
 
 Is the circle the best geometrical metaphor?  Sometimes.  But I should generalize the concept of geometric metaphors to include the spiral, the pentagram, the tree, the fractal, the sphere, the torus etc. etc.  trees have roots and leaves and branches and a trunk and sap and sun and soil and water.
 
