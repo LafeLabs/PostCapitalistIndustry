@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  5 JUN 2016 10:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  5 JUN 2016 12:52
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -411,7 +411,7 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen148
 \Gin@req@width=\dimen149
 )
-No file main.aux.
+(./main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
@@ -426,7 +426,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
-(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/ucsencs.def
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
 (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
@@ -543,8 +543,14 @@ Overfull \hbox (2.45808pt too wide) in paragraph at lines 222--228
  []
 
 [32]
-Overfull \hbox (17.85516pt too wide) in paragraph at lines 252--260
-\OT1/cmr/m/n/12 tion/networking/controls/automation/audio/video/VR/AR
+Underfull \hbox (badness 10000) in paragraph at lines 260--264
+
+ []
+
+
+Overfull \hbox (105.00009pt too wide) in paragraph at lines 266--269
+[]\OT1/cmr/m/n/12 communication/networking/controls/automation/audio/video/VR/A
+R
  []
 
 [33] [34] [35] [36]) [37] [38] (./Principles.tex [39
@@ -576,58 +582,50 @@ Overfull \hbox (6.93166pt too wide) in paragraph at lines 112--117
  []
 
 ) [43] (./what_is_the_trash_wizard.tex
-Underfull \vbox (badness 7379) has occurred while \output is active []
+Underfull \vbox (badness 2846) has occurred while \output is active []
 
  [44
 
 ]
-[45] [46]
-Overfull \hbox (4.14696pt too wide) in paragraph at lines 87--90
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [45]
+[46] [47] [48]
+Overfull \hbox (4.14696pt too wide) in paragraph at lines 119--122
 []\OT1/cmr/m/n/12 In ad-di-tion to Trash Wiz-ardry and Witch-ery one might
  []
 
-[47] <images/CatField.png, id=157, 578.16pt x 578.16pt>
-File: images/CatField.png Graphic file (type png)
 
-<use images/CatField.png>
-Package pdftex.def Info: images/CatField.png used on input line 98.
-(pdftex.def)             Requested size: 578.15858pt x 578.15858pt.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Overfull \hbox (289.15858pt too wide) in paragraph at lines 98--99
- [][] 
- []
+ [49]
+<images/cat3.png, id=164, 226.2051pt x 203.0787pt>
+File: images/cat3.png Graphic file (type png)
+ <use images/cat3.png>
+Package pdftex.def Info: images/cat3.png used on input line 151.
+(pdftex.def)             Requested size: 226.20453pt x 203.0782pt.
 
-
-LaTeX Warning: Float too large for page by 205.9919pt on input line 100.
-
-
-Overfull \hbox (8.8594pt too wide) in paragraph at lines 141--143
+[50 <./images/cat3.png>]
+Overfull \hbox (8.8594pt too wide) in paragraph at lines 194--196
 []\OT1/cmr/m/n/12 conversion to robot mode where it drives it-self around 
  []
 
 
-Overfull \hbox (6.5747pt too wide) in paragraph at lines 143--146
+Overfull \hbox (6.5747pt too wide) in paragraph at lines 196--199
 []\OT1/cmr/m/n/12 convenient sin-gle shoul-der strap for com-fort-able wear
  []
 
-[48] [49 <./images/CatField.png>]
-Overfull \hbox (1.28726pt too wide) in paragraph at lines 162--165
+[51]
+Overfull \hbox (1.28726pt too wide) in paragraph at lines 215--218
 []\OT1/cmr/m/n/12 direct wire con-nect sil-i-cone and cop-per switch board
  []
 
-[50] [51] [52] [53]
-Overfull \hbox (10.55661pt too wide) in paragraph at lines 283--301
+[52] [53] [54]
+Overfull \hbox (10.55661pt too wide) in paragraph at lines 289--307
 []\OT1/cmr/m/n/12 as seen here: https://www.adafruit.com/products/2885
  []
 
-[54]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [55]
-Underfull \vbox (badness 1097) has occurred while \output is active []
-
- [56]
-[57] [58] [59] [60]) [61] (./universities.tex
+[55] [56] [57] [58] [59] [60]) [61] (./universities.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -829,13 +827,13 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 5777 strings out of 493089
- 82200 string characters out of 6134842
- 185863 words of memory out of 5000000
- 9180 multiletter control sequences out of 15000+600000
+ 5781 strings out of 493089
+ 82213 string characters out of 6134842
+ 189616 words of memory out of 5000000
+ 9182 multiletter control sequences out of 15000+600000
  10582 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,11n,23p,376b,329s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,11n,23p,378b,329s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
 /usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></u
@@ -843,10 +841,10 @@ sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></us
 r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
 /local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/
 local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (132 pages, 312944 bytes).
+Output written on main.pdf (132 pages, 302609 bytes).
 PDF statistics:
- 460 PDF objects out of 1000 (max. 8388607)
- 313 compressed objects within 4 object streams
+ 461 PDF objects out of 1000 (max. 8388607)
+ 314 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
