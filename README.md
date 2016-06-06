@@ -36,7 +36,7 @@
 11. [Visions of a Better Tomorrow](visions.md)
 12. [Open problems](problems.md)
 13. [Let's Build This!](lets_build.md)
-14. [appendix i: Techniques](techniquesBook1.md)
+14. [Techniques](techniquesBook1.md)
  
 
 ### Book 2. The Practice of Trash Magic: the Stickening

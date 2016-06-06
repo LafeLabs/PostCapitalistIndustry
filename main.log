@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  5 JUN 2016 16:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  5 JUN 2016 16:36
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -490,40 +490,43 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 (./capitalism.tex
-Underfull \vbox (badness 3838) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2
 
 ]
-[3]
-Overfull \hbox (9.57745pt too wide) in paragraph at lines 42--63
+Overfull \hbox (9.57745pt too wide) in paragraph at lines 40--61
 []\OT1/cmr/m/n/12 The ``means of pro-duc-tion'' is also a prob-lem-atic phrase.
 
  []
 
 
-Overfull \hbox (0.69977pt too wide) in paragraph at lines 42--63
+Overfull \hbox (0.69977pt too wide) in paragraph at lines 40--61
 \OT1/cmr/m/n/12 this ba-sic struc-ture of mil-i-tary power cre-at-ing a monopol
 y
  []
 
+
+Underfull \vbox (badness 3646) has occurred while \output is active []
+
+ [3]
 [4] [5] [6] [7]
-Overfull \hbox (1.02199pt too wide) in paragraph at lines 152--159
+Overfull \hbox (1.02199pt too wide) in paragraph at lines 150--157
 []\OT1/cmr/m/n/12 Any pro-posal to re-form cap-i-tal-ism that main-tains con-
  []
 
 [8] [9] [10]
-Overfull \hbox (11.5492pt too wide) in paragraph at lines 248--259
+Overfull \hbox (11.5492pt too wide) in paragraph at lines 246--257
 []\OT1/cmr/m/n/12 I'm against en-gi-neer-ing and de-sign as pro-fes-sions. Whil
 e
  []
 
 [11] [12]
-Overfull \hbox (4.60677pt too wide) in paragraph at lines 298--313
+Overfull \hbox (4.60677pt too wide) in paragraph at lines 296--311
 []\OT1/cmr/m/n/12 All the el-e-ments I de-scribe in the ex-am-ple above should
  []
 
-[13] [14] [15] [16] [17] [18] [19] [20] [21]) [22] (./free_technology.tex
+[13] [14] [15] [16] [17] [18] [19] [20]) [21] [22] (./free_technology.tex
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 19.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
@@ -650,36 +653,33 @@ Overfull \hbox (10.55661pt too wide) in paragraph at lines 322--340
 []\OT1/cmr/m/n/12 as seen here: https://www.adafruit.com/products/2885
  []
 
-[56] [57] [58] [59] [60] [61]) [62] (./universities.tex
-Underfull \vbox (badness 1092) has occurred while \output is active []
+[56] [57] [58] [59] [60] [61]) [62] (./universities.tex [63
 
- [63
-
-]
-Overfull \hbox (2.52338pt too wide) in paragraph at lines 58--60
+] [64]
+Overfull \hbox (2.52338pt too wide) in paragraph at lines 65--67
 []\OT1/cmr/m/n/12 Repurposing the En-dow-ment, to-tal di-vest-ment from
  []
 
-[64]
-Overfull \hbox (226.67603pt too wide) in paragraph at lines 64--66
+
+Overfull \hbox (226.67603pt too wide) in paragraph at lines 71--73
 []\OT1/cmr/m/n/12 yale his-tory: https://www.worldcat.org/title/yale-university
 /oclc/40331263&referer=brief[]results 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 69.
+(Font)              <12> on input line 76.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 69.
+(Font)              <8> on input line 76.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 69.
+(Font)              <6> on input line 76.
 
-Overfull \hbox (31.69997pt too wide) in paragraph at lines 69--70
+Overfull \hbox (31.69997pt too wide) in paragraph at lines 76--77
 []$\OT1/cmtt/m/n/12 http : / / sustainability . yale . edu / planning-[]progres
 s /
  []
 
 
-Overfull \hbox (56.995pt too wide) in paragraph at lines 76--77
+Overfull \hbox (56.995pt too wide) in paragraph at lines 83--84
 []\OT1/cmr/m/n/12 https://en.wikipedia.org/wiki/University[]of[]Paris[]strike[]
 of[]1229 
  []
@@ -688,10 +688,10 @@ of[]1229
 File: images/Sorbonne_17thc.jpg Graphic file (type jpg)
 
 <use images/Sorbonne_17thc.jpg>
-Package pdftex.def Info: images/Sorbonne_17thc.jpg used on input line 80.
+Package pdftex.def Info: images/Sorbonne_17thc.jpg used on input line 87.
 (pdftex.def)             Requested size: 450.00009pt x 301.60605pt.
 
-Overfull \hbox (161.00009pt too wide) in paragraph at lines 80--81
+Overfull \hbox (161.00009pt too wide) in paragraph at lines 87--88
  [][] 
  []
 
@@ -869,26 +869,41 @@ Overfull \hbox (10.2955pt too wide) in paragraph at lines 244--246
 
  []
 
-[134]) [135]
+[134]) [135] [136] (./techniquesBook1.tex
+Overfull \hbox (1.80948pt too wide) in paragraph at lines 14--17
+\OT1/cmr/m/n/12 breaking down elec-tron-ics fast with min-i-mal tools: smash.
+ []
+
+[137
+
+]
+Underfull \vbox (badness 1303) has occurred while \output is active []
+
+ [138]
+Overfull \hbox (8.1983pt too wide) in paragraph at lines 53--56
+\OT1/cmr/m/n/12 markdown, la-tex, lulu press, github, github desk-top, MOU,
+ []
+
+)
 
 Class memoir Warning: The material used in the headers is too large
 (43.49998pt) for the given head height (14.5pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 53.
+(in both cases you will find help in the memoir manual). on input line 55.
 
-[136] (./main.aux)
+[139] (./main.aux)
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 5799 strings out of 493089
- 82721 string characters out of 6134842
- 189616 words of memory out of 5000000
- 9198 multiletter control sequences out of 15000+600000
+ 5824 strings out of 493089
+ 83426 string characters out of 6134842
+ 189989 words of memory out of 5000000
+ 9220 multiletter control sequences out of 15000+600000
  10582 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,11n,24p,378b,329s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,11n,27p,378b,329s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
 /usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></u
@@ -896,10 +911,10 @@ sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></us
 r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
 /local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/
 local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (136 pages, 358165 bytes).
+Output written on main.pdf (139 pages, 360249 bytes).
 PDF statistics:
- 475 PDF objects out of 1000 (max. 8388607)
- 323 compressed objects within 4 object streams
+ 485 PDF objects out of 1000 (max. 8388607)
+ 330 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

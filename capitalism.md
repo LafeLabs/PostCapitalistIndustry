@@ -1,6 +1,4 @@
 
-# Chapter 1: Capitalism
-
 
 What is best in life?  
 

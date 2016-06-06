@@ -2,25 +2,42 @@
 
 If the university campus lived up to its potential it could be a true paradise: essentially a giant garden filled with buildings for studying and creating knowledge.  Amazing!  They are usually situated on some of the best land to be found anywhere, have great access to everything needed in life, and have dense urban style housing in a pastoral environment which allows for a simple, car free life.  
 
+University campuses are often physically spectacular.  They often have some of the greatest examples of art and architecture of available both used in their construction and lovingly maintained for in some cases hundreds of years.  It is typical for them to have wooded areas owned by the university, as well as often running water and in many cases access to very large bodies of water.  University campuses are often more self contained than most institutions, creating their own power and managing their own utilities, and having a fair amount of autonomy from local government.  
+
 
 ## Brief History of the University
 
 Where did the universities come from?  
+
+University as a challenge to secular corporate rule.  
 
 Looking up sources at UAA library.  
 
 The universities of Europe, 1100-1914 : a history
 is at LA627.R82 1984
 
+This needs extensive library research.
 
 
 ## Undergraduate Education: Broken Promises
 
+ The college education has become a key element in the great lie of the American middle class dream.  It is also a major factor in the older generation destroying the opportunities they had for the younger generation.  
 
+## Science Grad School: The Ponzi Scheme
 
-## Grad School: The Ponzi Scheme
+You don't have to go to graduate school to see how much it resembles a pyramid scam.  Suppose any one professor has about five graduate students at a time, each of whom takes about five years to graduate with a PhD.  If a professor does this for 30 years, they will create on average one PhD per year or 30 PhD's total.  Now suppose all those PhD's find jobs similar to what their advisor has.  This is possible only if the size of the field increases by 30 times in 30 years.  Very crudely this corresponds to about 12% per year.  Given the expansion of the physical sciences and their satellites in the years during and directly after World War II, building a scheme like this in those years actually made some sense.  However, those days are decades behind us, and now as research budgets shrink and schools, companies, and government agencies are systematically destroyed by politics, this math looks much more like a pyramid scam than a response to society's needs.
+
+As a grad student you will *probably* never get the job you're supposedly being trained for.  But you will dedicate 5-7 years of your life to helping someone who *did* get that job to continue to climb the academic ladder.  The people at the bottom of the academic pyramid spend their lives working to help the people at the top, and then are mostly cast aside.    
+
+The tenure clock then puts yet another opportunity for exploitation in the career path, making yet another way for people now well into middle age to work long hours for more years to build up an academy that they might then be cast out of.  
+
 
 ## Hollowing Out of the Academy
+
+There are many factors that have contributed to the downfall of the university system over the last few years.  I would argue that since Ronald Reagan was elected president of the United States in 1980 there has been a coordinated ideological war against all culture that might exist outside of the profit system, and that universities have felt the brunt of this particularly hard.  
+
+A robust, healthy, independent, and publicly supported university system could provide a real balance against mainstream corporate power if it existed.  It is therefore strategically important for the lords of global corporate rule that they be as controlled as possible by corporations and the central government so that they cannot exercise a check on those forms of power.  
+
 
 ## Intellectual Property 
 
@@ -48,14 +65,18 @@ yale land holdings:
 
 <http://sustainability.yale.edu/planning-progress/areas-focus/landscape>
 
+charter:
+<http://www.yale.edu/sites/default/files/files/University-Charter.pdf>
+
 
 ## Case Study: University of Paris(Sorbonne)
+
+![The Sorbonne](images/Sorbonne_17thc.jpg)
+
 
 https://en.wikipedia.org/wiki/University_of_Paris
 
 https://en.wikipedia.org/wiki/University_of_Paris_strike_of_1229
-
-![The Sorbonne](images/Sorbonne_17thc.jpg)
 
 ### this chapter should have a section with a detailed example
 maps, tables, really dig in and figure out the strategy and tactics that could be used, maybe have multiple examples, small liberal arts, huge public school, elite private school, community college in a big city
