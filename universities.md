@@ -1,8 +1,61 @@
+## Universities: Visions of Utopia
 
+If the university campus lived up to its potential it could be a true paradise: essentially a giant garden filled with buildings for studying and creating knowledge.  Amazing!  They are usually situated on some of the best land to be found anywhere, have great access to everything needed in life, and have dense urban style housing in a pastoral environment which allows for a simple, car free life.  
+
+
+## Brief History of the University
+
+Where did the universities come from?  
+
+Looking up sources at UAA library.  
+
+The universities of Europe, 1100-1914 : a history
+is at LA627.R82 1984
+
+
+
+## Undergraduate Education: Broken Promises
+
+
+
+## Grad School: The Ponzi Scheme
+
+## Hollowing Out of the Academy
+
+## Intellectual Property 
+
+## Potential Paradises
+
+## University Occupations, Phase 2
+
+## Case Study: Yale University
+
+- How much land owned?
+- How much is arable?
+- How much is already zoned for ag?
+- What water resrouces are there?
+- number of staff, students, alumni, faculty
+- How many people could Yale support?
+- Holdings outside New Haven
+- Yale Singapore
+- Repurposing the Endowment, total divestment from capitalism
+- political and legal process of re-writing the charter of the school, changing governance
+
+yale history:
+https://www.worldcat.org/title/yale-university/oclc/40331263&referer=brief_results
 
 yale land holdings:
 
 <http://sustainability.yale.edu/planning-progress/areas-focus/landscape>
+
+
+## Case Study: University of Paris(Sorbonne)
+
+https://en.wikipedia.org/wiki/University_of_Paris
+
+https://en.wikipedia.org/wiki/University_of_Paris_strike_of_1229
+
+![The Sorbonne](images/Sorbonne_17thc.jpg)
 
 ### this chapter should have a section with a detailed example
 maps, tables, really dig in and figure out the strategy and tactics that could be used, maybe have multiple examples, small liberal arts, huge public school, elite private school, community college in a big city
