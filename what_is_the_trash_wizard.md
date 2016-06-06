@@ -31,6 +31,11 @@ All our teaching and building is free.  Free, meaning outside the money system a
 
 Another goal is independence.  A group of just Trash Witches should for example be able to live on their own, with a good quality of life.  Maybe dozens of Wizards or dozens of Witches can easily form tribes to build and scavenge and do adventures and art.  But also tribes can form super-tribes which merge to build truly large works.  The only way giant social structures can be optional and not control us all is for us to be able to live freely with just a few people.  The magic we plan to wield here is designed to give people that power.  
 
+
+![Wizard by the creek](images/wizardcartoon.png) 
+
+
+
 We also strive to amuse.  You don't want to learn about magnetic fields just for the hell of it or just because they're useful.  You can see from us that they're actually magical!  Magical enough that a show put on with magnetic fields or electric fields is very much worth watching.  In fact, one of the most popular shows in most science museums is the electric field demonstrations with giant lighting machines.  
 
 So a Trash Magician uses a combination of Wizardry and Witchery to amuse and provide for people with Trash of the world. Trash is generally stuff that is not only free but infinitely free.  Not only can you go find one or two or 10,000 of a thing, you know that later you can go back and do that again as many times as you want.  This is true with flowing water from spring snow runoff or from tides or drainage of some large rainy area. It's true of winds that always blow, of the sun, of sand and dirt and rocks.  It's true of sticks shed by the lower sections of pine trees.  And it's true of the plastic bottles thrown away by capitalist society.  
@@ -53,7 +58,10 @@ Note that when I say religious art, this is very broad, since much of art throug
 
 The anarchist symbology will include the black wild cat used by the IWW and other anarchists, as well as various permutations of the circle A.  The following image combines the black cat with the form of the magnetic field from a tiny magnet, symbolizing one of the forces which we will harness in Trash Magic.  
  
-![image](images/cat3.png) 
+![Wildcat in the field](images/cat3.png) 
+
+
+![Elements](images/elements.png) 
 
 Some electrical symbols will also be incorporated, partly since many things we will make involve building electrical circuits, and building those symbols into the art makes things self-documenting.  While these form a useful function in helping to make a thing free by documenting how it's put together, they should never abandon form for function: circuit documentation should be a work of art as much as a document.  
 

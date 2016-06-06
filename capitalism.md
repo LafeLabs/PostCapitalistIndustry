@@ -34,6 +34,9 @@ And what is money?  The purity of numbers has proven to be incredibly powerful. 
 ## The Nature of Capitalist Money
 
 
+![Suffering and Minerals](images/capitalpyramid.png) 
+
+
 Our currency is based on two things:
 
 1. suffering
@@ -41,6 +44,8 @@ Our currency is based on two things:
 2. and minerals
 
 Turning minerals and human misery into numbers is capitalism in a nutshell, and is the basis of our monetary system.  
+
+![Dig it up, set it on fire, and bury it](images/digitup.png) 
 
 Capitalism is an industrial system in which all value is based on human misery and minerals.  By creating misery, some people use threats of violence to control land.  They use more minerals, fire, and misery to create minerals ordered with a precision based on their belief in violence and control through military order.  The threat of inflicting misery using military technology(not only is our technology military, our concept of military is based on our technology as well, and both are based on the One God beliefs)  is how some people known as capitalists claim "ownership".  Ownership is a complex network of violent threats which allow threats of future misery and benefits paid from past misery to be added up numerically, building a ladder of power down which the physical benefits of mineral wealth slowly trickle, with the most landing at the top.  
 
@@ -107,8 +112,12 @@ Math is not objective reality.  This is obvious to most people who don't do math
 
 The example I'll give here is a paradox that I find particularly interesting in terms of what it tells us about hidden ideologies.  Mathematicians call it the Banach Tarski paradox, and it generally arises in parts of the math curriculum concerned with point set theory.  Never mind exactly what that is, it's something usually taught in the late undergrad or early grad level in pure math(as opposed to applied math which is not concerned with these issues).  
 
+![Construction of Banach Tarski paradox](images/banachtarski1.png) 
+
+
 What this so-called paradox does is create a way to construct two spheres of points from the points in one.  That is, all the points in the first sphere are re-arranged in such a way that those same points make two spheres of the same volume as the first.  
 
+![Biological Cells Ignoring Math and Capitalism](images/ecoli.png) 
 
 ## Why Now?
 

@@ -45,6 +45,9 @@ A robust, healthy, independent, and publicly supported university system could p
 
 ## University Occupations, Phase 2
 
+Any history of any radical movement will inevitably involve student occupations.  Students typically take over some space on campus, keep the land from the cops, and carry out various protest actions or teach ins over some number of days or maybe weeks.  In some cases they stand down after actually getting some demands met by the administration.  
+
+
 ## Case Study: Yale University
 
 - How much land owned?
