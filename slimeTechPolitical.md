@@ -1,3 +1,14 @@
+## Technology Should be Slimy and Dirty
+
+Look around you.  We are bags of salty dirty water, and we are surrounded by mud and dirty rocks on all sides.  This is the world we live and grow and thrive in.  It's how our food grows, it's how our waste is disposed of, it's how we get our raw materials and how we dispose of our "trash".  
+
+And yet this is not how our technology is.  
+
+Our technology is, instead, obsessed with the clean and "pure".  It is obsessed with order, with perfect rows of things, with straight lines and perfectly geometric circles.  The very structure of all our technology represents our worship of numbers and math and military order, as well as of mining and minerals.  
+
+I will go into more detail on this later, but I believe the structure of the modern micofabricated circuit is a product of the white supremacist ideology of the far right lunatics who started Silicon Valley.  They were, like all of their kind, obsessed with "purity", order, and forcing everyone to march to a perfectly timed clock.  This is borne out in a machine architecture which they pretend is a product of some kind of technical evolution but which is just as much a function of their capitalist religion as the rows of decorative stone columns they out outside their buildings of power.  
+
+If, rather than Evil Machines, we want our technology to be more human and more life like, 
 
 ## What is Fluidics and why do we care?
 

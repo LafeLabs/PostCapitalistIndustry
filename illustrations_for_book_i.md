@@ -48,3 +48,29 @@ chapter 1:
  - water wheel in creek running a motor to drive a fountain
  - water wheel in creek runs USB charger, several versions of this, showing real installations 
  - possible symbols of Trash Magic
+ 
+ 
+ igures:
+
+
+ - capitalist science machine vs. trash magic science machine
+ - literal number worship, the giant stone number one in the desert, in a giant row of stone numbers
+ - scroll design, vectorized, with multiple scrolls:
+ - one is a complete technological set scroll
+ - one is a technical rules scroll
+ - one is a list of principles scroll
+ - free technology scroll
+ - more trash magic symbology
+ - trash wizard stick
+or trash magic kit
+ - trash magic cauldron, tripod
+ - skeletron figures
+ - more resized images for university campuses
+ - soaring robots 
+ - octahedral robots, rolling along
+ - amphibious drone from bottles
+ - hydrogen dirigible drone from trash
+ - the ent
+ - robot factory made with robots
+ - robots to tend to plants in water
+ - cyborg octopus, need to add cyborg section to the robot chapter
