@@ -74,7 +74,7 @@ charter:
 
 ## Case Study: University of Paris(Sorbonne)
 
-![The Sorbonne](images/Sorbonne_17thc.jpg)
+![The Sorbonne](images/Sorbonne.png)
 
 
 <https://en.wikipedia.org/wiki/University_of_Paris>
@@ -84,6 +84,8 @@ charter:
 ## Case Study: Roosevelt Island
 
 <https://en.wikipedia.org/wiki/Cornell_Tech>
+
+![Roosevelt Island](images/roosevelt.png)
 
 ### this chapter should have a section with a detailed example
 maps, tables, really dig in and figure out the strategy and tactics that could be used, maybe have multiple examples, small liberal arts, huge public school, elite private school, community college in a big city
