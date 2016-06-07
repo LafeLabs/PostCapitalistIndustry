@@ -1,15 +1,15 @@
 
-### What is Fluidics and why do we care?
+## What is Fluidics and why do we care?
 
 One type of magic that must be wielded if we expect to have a decent life is potion making.  This means mixing fluids, moving them around with pumps, compressing them, running electricity through them, and also doing things with gasses of various kinds.  This is needed to efficiently compost waste at a high speed safely and to build up plant growth infrastructure fast for food production. It is also where novel chemicals and various life saving drugs come from. 
 
-### clean water 
+## clean water 
 
 clean water is CRITICAL, need to research existing tech here, talk about alternatives. 
 
-### Rants about free transistors vs. Fascist Transistors
+## Rants about free transistors vs. Fascist Transistors
 
-### from the blog:
+## from the blog:
 
 The channels in the reactor should not just be able to take water, water should be in them most of the time.  If the reactor is just barely partially submerged in water, it can get power from waves and tide or current in a river or stream, both for generating electricity and as a direct source of hydrostatic pressure to push materials from one “side” of the fractal reactor to “the other”.  I put scare quotes around side and other here because it’s not really going to be arranged as a simple in/out machine, but will have many channels that direct materials around.
 
@@ -31,7 +31,7 @@ One more point I want to make is that this technology allows for all sorts of sc
 
 Obviously human and other animal waste must also be processed in this fractal reactor system.  Again this is a source of incredibly useful atoms.  Just the methane that leaks off from solid waste is like gold for early work on the nano assemblers since it can be used to make 3d carbon nanotechnology electronics and described above.  A living system should be able to digest waste much faster and more safely than the current systems where the only living thing is the one target organism that does the digesting.  And of course the reclamation of chemical wealth in the form of drugs and minerals will also be of huge monetary value in the old economy quickly, creating a ready source of central bank debt wealth for the community who lives off the Reactor in the sea cities.
 
-#### another blog post:
+## another blog post:
 
 In reference to the previous post, on the fractal factory, I have been thinking more about the materials to use.  I have been thinking about silicones for everything.  But why? The basic principles in the previous post will work best with some type of thermoplastic, because that can be done easily with the free metal etching tool to make moulds.  heat, pressure, and a scanned  high voltage welding tool can make layers from any of these types of material.  A scanned heated head could also just make shapes, and of course there are 3d printing techniques.
 
@@ -55,7 +55,7 @@ So the elements that are coming together in this vision are: Rumbles of robots c
 
 Just the fractal robotic fabrication of thermoplastics found in trash is worth pursuing as an isolated technology.  Add that to motors! Chemistry! CVD!  wow! If this works based on even just using piles of trash and heater wires with sticks used by hand, it can be used as a demo for getting funding and doing useful fluidics.
 
-#### and another:
+## and another:
 
 One of the layers in the trash wizard technology is microfluidic channels that can move ionized gasses around.  The implications of this should be examined.  Ionized gasses are an essential tool in modern micro fabrication.  With plasma plumbing integrated into everything, all the tools of standard microfab are also integrated.  Thus it could be possible with micro sized plumbing and materials moving vibrational motors and pumps to fabricate electronic components, move them around, physically re-assemble them, and break them down and reform them into other devices.
 

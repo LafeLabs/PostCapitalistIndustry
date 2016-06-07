@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  5 JUN 2016 23:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  6 JUN 2016 16:06
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -632,67 +632,70 @@ Overfull \hbox (4.14696pt too wide) in paragraph at lines 125--128
 []\OT1/cmr/m/n/12 In ad-di-tion to Trash Wiz-ardry and Witch-ery one might
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [53]
-Underfull \vbox (badness 1097) has occurred while \output is active []
-
- [54]
-<images/cat3.png, id=191, 226.2051pt x 203.0787pt>
+[53] [54] [55] <images/cat3.png, id=195, 226.2051pt x 203.0787pt>
 File: images/cat3.png Graphic file (type png)
- <use images/cat3.png>
-Package pdftex.def Info: images/cat3.png used on input line 176.
-(pdftex.def)             Requested size: 226.20453pt x 203.0782pt.
 
-<images/elements.png, id=192, 217.5327pt x 198.7425pt>
+<use images/cat3.png>
+Package pdftex.def Info: images/cat3.png used on input line 222.
+(pdftex.def)             Requested size: 226.20453pt x 203.0782pt.
+ <images/elements.png, id=196, 217.5327pt x 198.7425pt>
 File: images/elements.png Graphic file (type png)
 
 <use images/elements.png>
-Package pdftex.def Info: images/elements.png used on input line 182.
+Package pdftex.def Info: images/elements.png used on input line 228.
 (pdftex.def)             Requested size: 217.53215pt x 198.742pt.
 
-Overfull \hbox (10.42606pt too wide) in paragraph at lines 186--192
+Overfull \hbox (10.42606pt too wide) in paragraph at lines 232--238
 []\OT1/cmr/m/n/12 Some elec-tri-cal sym-bols will also be in-cor-po-rated, part
 ly
  []
 
-[55 <./images/cat3.png>]
-Overfull \hbox (22.15799pt too wide) in paragraph at lines 193--194
+[56]
+Overfull \hbox (22.15799pt too wide) in paragraph at lines 239--240
 []\OT1/cmr/m/n/12 Secret sym-bol-ism in oc-cult art at UAA li-brary: BF1623.S9
  []
 
-[56 <./images/elements.png>]
-Overfull \hbox (8.8594pt too wide) in paragraph at lines 239--241
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [57 <./images/cat3.png>] [58 <./images/elements.png>]
+Overfull \hbox (8.8594pt too wide) in paragraph at lines 285--287
 []\OT1/cmr/m/n/12 conversion to robot mode where it drives it-self around 
  []
 
 
-Overfull \hbox (6.5747pt too wide) in paragraph at lines 241--244
+Overfull \hbox (6.5747pt too wide) in paragraph at lines 287--290
 []\OT1/cmr/m/n/12 convenient sin-gle shoul-der strap for com-fort-able wear
  []
 
-[57]
-Overfull \hbox (1.28726pt too wide) in paragraph at lines 260--263
+[59]
+Overfull \hbox (1.28726pt too wide) in paragraph at lines 306--309
 []\OT1/cmr/m/n/12 direct wire con-nect sil-i-cone and cop-per switch board
  []
 
-[58] [59] [60]
-Overfull \hbox (10.55661pt too wide) in paragraph at lines 334--352
+[60] [61]
+Overfull \hbox (10.55661pt too wide) in paragraph at lines 380--398
 []\OT1/cmr/m/n/12 as seen here: https://www.adafruit.com/products/2885
  []
 
-[61] [62] [63] [64] [65] [66]) [67] (./universities.tex
-Underfull \vbox (badness 1360) has occurred while \output is active []
-
- [68
-
-]
-[69]
+[62] [63] [64] [65] [66] [67]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [70]
-[71]
+ [68]
+Underfull \vbox (badness 1097) has occurred while \output is active []
+
+ [69])
+[70] (./universities.tex
+Underfull \vbox (badness 1360) has occurred while \output is active []
+
+ [71
+
+]
+[72]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [73]
+[74]
 Overfull \hbox (2.52338pt too wide) in paragraph at lines 124--126
 []\OT1/cmr/m/n/12 Repurposing the En-dow-ment, to-tal di-vest-ment from
  []
@@ -721,7 +724,7 @@ Overfull \hbox (19.68698pt too wide) in paragraph at lines 137--139
 s / default / files /
  []
 
-<images/Sorbonne_17thc.jpg, id=249, 450.0012pt x 301.6068pt>
+<images/Sorbonne_17thc.jpg, id=259, 450.0012pt x 301.6068pt>
 File: images/Sorbonne_17thc.jpg Graphic file (type jpg)
 
 <use images/Sorbonne_17thc.jpg>
@@ -735,30 +738,20 @@ Overfull \hbox (161.00009pt too wide) in paragraph at lines 145--146
 
 Underfull \vbox (badness 4217) has occurred while \output is active []
 
- [72]
-[73 <./images/Sorbonne_17thc.jpg>]
+ [75]
+[76 <./images/Sorbonne_17thc.jpg>]
 Overfull \hbox (56.995pt too wide) in paragraph at lines 151--152
 []\OT1/cmr/m/n/12 https://en.wikipedia.org/wiki/University[]of[]Paris[]strike[]
 of[]1229 
  []
 
-[74]) [75] [76] (./slimeTechPolitical.tex
+[77]) [78] [79] (./slimeTechPolitical.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [77
+ [80
 
 ]
-
-Class memoir Warning: The material used in the headers is too large
-(28.99998pt) for the given head height (14.5pt), it is recommended to
-either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 49.
-
-
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[78]
+[81]
 Overfull \hbox (8.69414pt too wide) in paragraph at lines 50--61
 []\OT1/cmr/m/n/12 Just the wave or stream pow-ered de-sali-na-tor and burner
  []
@@ -768,11 +761,13 @@ Overfull \hbox (1.80948pt too wide) in paragraph at lines 62--76
 \OT1/cmr/m/n/12 gen, wa-ter can pro-vide many other use-ful chem-i-cals, many
  []
 
-[79]
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+Class memoir Warning: The material used in the headers is too large
+(28.99998pt) for the given head height (14.5pt), it is recommended to
+either increase the head height or redesign the header
+(in both cases you will find help in the memoir manual). on input line 76.
 
 
-[80] [81]
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
@@ -788,14 +783,22 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[88] [89])
+[88] [89]
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[90] (./value_circles_economics.tex
+[90] [91]
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[92]) [93]
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[94] (./value_circles_economics.tex
 Underfull \vbox (badness 3312) has occurred while \output is active []
 
- [91
+ [95
 
 ]
 Overfull \hbox (4.15945pt too wide) in paragraph at lines 26--31
@@ -803,32 +806,30 @@ Overfull \hbox (4.15945pt too wide) in paragraph at lines 26--31
 ly
  []
 
-[92] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102] [103] [104] [105]
+[96] [97] [98] [99] [100] [101] [102] [103] [104] [105] [106] [107] [108]
+[109]
 Overfull \hbox (7.31786pt too wide) in paragraph at lines 385--390
 \OT1/cmr/m/n/12 But I should gen-er-al-ize the con-cept of ge-o-met-ric metapho
 rs
  []
 
-[106]
+[110]
 Underfull \hbox (badness 10000) in paragraph at lines 409--413
 
  []
 
-[107] [108]
+[111] [112]
 Overfull \hbox (9.96912pt too wide) in paragraph at lines 464--487
 []\OT1/cmr/m/n/12 Ok, so sup-pose that af-ter your leisurely drugs/industrial
  []
 
-[109] [110] [111] [112] [113] [114]) [115] (./JunkCars.tex [116
+[113] [114] [115] [116] [117] [118]) [119] (./JunkCars.tex [120
 
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [117])
-[118] (./means_of_production.tex
+] [121] [122]
+[123]) [124] (./means_of_production.tex
 Underfull \vbox (badness 1661) has occurred while \output is active []
 
- [119
+ [125
 
 ]
 Overfull \hbox (0.3081pt too wide) in paragraph at lines 26--31
@@ -846,40 +847,40 @@ either increase the head height or redesign the header
 Overfull \vbox (28.99998pt too high) has occurred while \output is active []
 
 
-[120] [121]
-Overfull \vbox (28.99998pt too high) has occurred while \output is active []
-
-
-[122] [123]
-Overfull \vbox (28.99998pt too high) has occurred while \output is active []
-
-
-[124] [125]
-Overfull \vbox (28.99998pt too high) has occurred while \output is active []
-
-
 [126] [127]
 Overfull \vbox (28.99998pt too high) has occurred while \output is active []
 
 
-[128]) [129] (./visions.tex [130
+[128] [129]
+Overfull \vbox (28.99998pt too high) has occurred while \output is active []
+
+
+[130] [131]
+Overfull \vbox (28.99998pt too high) has occurred while \output is active []
+
+
+[132] [133]
+Overfull \vbox (28.99998pt too high) has occurred while \output is active []
+
+
+[134]) [135] (./visions.tex [136
 
 ]
 Overfull \hbox (0.73033pt too wide) in paragraph at lines 34--39
 []\OT1/cmr/m/n/12 Living in the deep ocean, on the sur-face, in the storms,
  []
 
-[131])
+[137])
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[132] (./problems.tex [133
+[138] (./problems.tex [139
 
 ])
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[134] (./lets_build.tex
+[140] (./lets_build.tex
 Overfull \hbox (3.57196pt too wide) in paragraph at lines 22--24
 []\OT1/cmr/m/n/12 Other aca-demic work you can con-tribute as a scholar 
  []
@@ -887,10 +888,10 @@ Overfull \hbox (3.57196pt too wide) in paragraph at lines 22--24
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [135
+ [141
 
 ]
-[136]
+[142]
 Overfull \hbox (0.69977pt too wide) in paragraph at lines 96--100
 []\OT1/cmr/m/n/12 stepper mo-tor driven by po-ten-tiome-ter so knob goes
  []
@@ -900,7 +901,7 @@ Overfull \hbox (0.82616pt too wide) in paragraph at lines 96--100
 \OT1/cmr/m/n/12 to wheel di-rectly with one Ar-duino per mo-tor+knob
  []
 
-[137] [138] [139] [140]
+[143] [144] [145] [146]
 Overfull \hbox (3.31085pt too wide) in paragraph at lines 224--231
 \OT1/cmr/m/n/12 mak-ing waves, which can be ob-served us-ing a strobe,
  []
@@ -910,23 +911,23 @@ Overfull \hbox (3.32845pt too wide) in paragraph at lines 224--231
 \OT1/cmr/m/n/12 am-pli-fied mag-netic pickup. With the mag-ni-fier built
  []
 
-[141]
+[147]
 Overfull \hbox (10.2955pt too wide) in paragraph at lines 244--246
 []\OT1/cmr/m/n/12 evaporative cool-ing re-frig-er-a-tor driven by wa-ter wheel 
 
  []
 
-[142]) [143] [144] (./techniquesBook1.tex
+[148]) [149] [150] (./techniquesBook1.tex
 Overfull \hbox (1.80948pt too wide) in paragraph at lines 14--17
 \OT1/cmr/m/n/12 breaking down elec-tron-ics fast with min-i-mal tools: smash.
  []
 
-[145
+[151
 
 ]
 Underfull \vbox (badness 1303) has occurred while \output is active []
 
- [146]
+ [152]
 Overfull \hbox (8.1983pt too wide) in paragraph at lines 53--56
 \OT1/cmr/m/n/12 markdown, la-tex, lulu press, github, github desk-top, MOU,
  []
@@ -938,16 +939,16 @@ Class memoir Warning: The material used in the headers is too large
 either increase the head height or redesign the header
 (in both cases you will find help in the memoir manual). on input line 55.
 
-[147] (./main.aux)
+[153] (./main.aux)
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 5853 strings out of 493089
- 84114 string characters out of 6134842
- 189948 words of memory out of 5000000
- 9243 multiletter control sequences out of 15000+600000
+ 5851 strings out of 493089
+ 84078 string characters out of 6134842
+ 189907 words of memory out of 5000000
+ 9241 multiletter control sequences out of 15000+600000
  10582 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,11n,27p,378b,325s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -958,10 +959,10 @@ sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></us
 r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
 /local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/
 local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (147 pages, 462449 bytes).
+Output written on main.pdf (153 pages, 474274 bytes).
 PDF statistics:
- 523 PDF objects out of 1000 (max. 8388607)
- 348 compressed objects within 4 object streams
+ 542 PDF objects out of 1000 (max. 8388607)
+ 361 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
