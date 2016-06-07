@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  6 JUN 2016 16:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  6 JUN 2016 18:19
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -837,22 +837,22 @@ Overfull \hbox (9.96912pt too wide) in paragraph at lines 464--487
 [114] [115] [116] [117] [118] [119]) [120] (./JunkCars.tex [121
 
 ] [122] [123]
-[124] [125]) [126] [127] (./means_of_production.tex
+[124] [125]) [126] [127] (./means_of_production.tex [128
+
+] [129]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [128
 
-]
-Overfull \hbox (0.3081pt too wide) in paragraph at lines 26--31
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[130]
+Overfull \hbox (0.3081pt too wide) in paragraph at lines 73--78
 \OT1/cmr/m/n/12 tried to erase lines be-tween protest, oc-cu-pa-tion and party.
 
  []
 
-[129]
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[130] [131]
+[131]
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
@@ -872,11 +872,15 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[140]) [141]
+[140] [141]
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[142] (./visions.tex [143
+[142]) [143]
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[144] (./visions.tex [145
 
 ]
 Overfull \hbox (0.73033pt too wide) in paragraph at lines 34--39
@@ -887,7 +891,7 @@ Overfull \hbox (0.73033pt too wide) in paragraph at lines 34--39
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[144]
+[146]
 
 Class memoir Warning: The material used in the headers is too large
 (43.49998pt) for the given head height (14.5pt), it is recommended to
@@ -898,29 +902,29 @@ either increase the head height or redesign the header
 Overfull \vbox (28.99998pt too high) has occurred while \output is active []
 
 
-[145]
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[146]
-Overfull \vbox (28.99998pt too high) has occurred while \output is active []
-
-
 [147]
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[148])
+[148]
 Overfull \vbox (28.99998pt too high) has occurred while \output is active []
 
 
-[149] (./problems.tex [150
+[149]
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[150])
+Overfull \vbox (28.99998pt too high) has occurred while \output is active []
+
+
+[151] (./problems.tex [152
 
 ])
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[151] (./lets_build.tex
+[153] (./lets_build.tex
 Overfull \hbox (3.57196pt too wide) in paragraph at lines 22--24
 []\OT1/cmr/m/n/12 Other aca-demic work you can con-tribute as a scholar 
  []
@@ -928,10 +932,10 @@ Overfull \hbox (3.57196pt too wide) in paragraph at lines 22--24
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [152
+ [154
 
 ]
-[153]
+[155]
 Overfull \hbox (0.69977pt too wide) in paragraph at lines 96--100
 []\OT1/cmr/m/n/12 stepper mo-tor driven by po-ten-tiome-ter so knob goes
  []
@@ -941,7 +945,7 @@ Overfull \hbox (0.82616pt too wide) in paragraph at lines 96--100
 \OT1/cmr/m/n/12 to wheel di-rectly with one Ar-duino per mo-tor+knob
  []
 
-[154] [155] [156] [157]
+[156] [157] [158] [159]
 Overfull \hbox (3.31085pt too wide) in paragraph at lines 224--231
 \OT1/cmr/m/n/12 mak-ing waves, which can be ob-served us-ing a strobe,
  []
@@ -951,23 +955,23 @@ Overfull \hbox (3.32845pt too wide) in paragraph at lines 224--231
 \OT1/cmr/m/n/12 am-pli-fied mag-netic pickup. With the mag-ni-fier built
  []
 
-[158]
+[160]
 Overfull \hbox (10.2955pt too wide) in paragraph at lines 244--246
 []\OT1/cmr/m/n/12 evaporative cool-ing re-frig-er-a-tor driven by wa-ter wheel 
 
  []
 
-[159]) [160] [161] (./techniquesBook1.tex
+[161]) [162] [163] (./techniquesBook1.tex
 Overfull \hbox (1.80948pt too wide) in paragraph at lines 14--17
 \OT1/cmr/m/n/12 breaking down elec-tron-ics fast with min-i-mal tools: smash.
  []
 
-[162
+[164
 
 ]
 Underfull \vbox (badness 1303) has occurred while \output is active []
 
- [163]
+ [165]
 Overfull \hbox (8.1983pt too wide) in paragraph at lines 53--56
 \OT1/cmr/m/n/12 markdown, la-tex, lulu press, github, github desk-top, MOU,
  []
@@ -979,15 +983,15 @@ Class memoir Warning: The material used in the headers is too large
 either increase the head height or redesign the header
 (in both cases you will find help in the memoir manual). on input line 55.
 
-[164] (./main.aux)
+[166] (./main.aux)
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
  5859 strings out of 493089
- 84161 string characters out of 6134842
- 189943 words of memory out of 5000000
+ 84151 string characters out of 6134842
+ 189934 words of memory out of 5000000
  9248 multiletter control sequences out of 15000+600000
  10582 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -999,10 +1003,10 @@ sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></us
 r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
 /local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/
 local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (164 pages, 496853 bytes).
+Output written on main.pdf (166 pages, 500050 bytes).
 PDF statistics:
- 579 PDF objects out of 1000 (max. 8388607)
- 385 compressed objects within 4 object streams
+ 585 PDF objects out of 1000 (max. 8388607)
+ 389 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
  46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
