@@ -44,7 +44,7 @@ A society of free stuff is not one with "zero cost".  It's one where cost is inf
 
 In addition to Trash Wizardry and Witchery one might be a Trash Daemon or Trash Imp.  Trash Goblins can have a place in our community but not Trolls.   
 
-Trash Wizards are always there for everyone.  We welcome the refugees of capitalism and it's evil twin, war.  WE do not recognize the validity of borders and are here to help subvert them as needed to help the down trodden.  
+Trash Wizards are always there for everyone.  We welcome the refugees of capitalism and it's evil twin, war.  We do not recognize the validity of borders and are here to help subvert them as needed to help the down trodden.  
 
 ## Alchemy, Chemistry and Art
 
@@ -85,6 +85,7 @@ Art and the occult, UAA library:
 N8222.M3.S38 1975
 
 ## Capitalisms Unwanted: a Human Treasure
+
 
 
 
@@ -133,6 +134,11 @@ using the stick to replace the smart phone eventually
 16. can harvest energy using a built in magnet and coil setup
 17. water pump always available
 18. trash wizard app for phone is set up for physics, interfaces with existing physics packages
+19. audio high gain amp with speaker that can get high power sound to do feedback
+20. goggles that can interface with various imaging technology using analog displays with vibrating fluids 
+21. L R and C are all measured analog using the high gain audio stick
+22. measure NOISE of all things, including Johnson and shot noise
+23. 
 
 
 

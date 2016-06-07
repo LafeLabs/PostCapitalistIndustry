@@ -23,6 +23,12 @@ This needs extensive library research.
 
  The college education has become a key element in the great lie of the American middle class dream.  It is also a major factor in the older generation destroying the opportunities they had for the younger generation.  
 
+College has become just another capitalist cartel, exploiting the hopes of young people in exchange for a life of debt servitude.  Young people are still told by their elders that a college education is needed to enter the middle class, which is supposed to be a good thing.  They're told that the price is justified by long term earnings.  Then they're sent off to live in a party resort for 5 years where they shuffle through a series of pointless and irrelevant classes, and wind up with a bill of many tens of thousands of dollars(this is primarily an American problem, but the neoliberals will bring it to your country soon enough if they're not crushed at the global level).  
+
+And what do we learn there?  Theory! Propaganda! How to write papers no one will read about stuff no one cares about.  100 year old science.  At this point defenders of the System start howling about "pure knowledge", by which they mean theory over "applied knowledge", by which they mean actual knowledge about how the world works.  Theory is a virus, a disease, and a religion, and it has no place here.
+
+What should we learn?  Same subjects, but useful.  Why can't biology majors make drugs?  Why can't physics majors build a flying drone?  Why can't chemistry majors build a water desalination plant?  Many subjects should, I think, be totally eliminated, as they have no real value, such as economics and computer "science".  
+
 ## Science Grad School: The Ponzi Scheme
 
 You don't have to go to graduate school to see how much it resembles a pyramid scam.  Suppose any one professor has about five graduate students at a time, each of whom takes about five years to graduate with a PhD.  If a professor does this for 30 years, they will create on average one PhD per year or 30 PhD's total.  Now suppose all those PhD's find jobs similar to what their advisor has.  This is possible only if the size of the field increases by 30 times in 30 years.  Very crudely this corresponds to about 12% per year.  Given the expansion of the physical sciences and their satellites in the years during and directly after World War II, building a scheme like this in those years actually made some sense.  However, those days are decades behind us, and now as research budgets shrink and schools, companies, and government agencies are systematically destroyed by politics, this math looks much more like a pyramid scam than a response to society's needs.
@@ -41,6 +47,10 @@ A robust, healthy, independent, and publicly supported university system could p
 
 ## Intellectual Property 
 
+Intellectual property deserves its own section here because it has been so corrosive to the culture of the academy in so many ways.  This manifesto is opposed to all forms of private property, and particularly intellectual property, but the patenting and copyrighting of work done in universities is particularly evil.  
+
+It is now standard practice for public tax money to be spent to create knowledge which then goes into papers behind a paywall protected by brutal copyright enforcement and into patented or even trade secret knowledge.  If the rule of law actually meant anything this would clearly constitute a criminal theft from the public.  The fact that this is *not* considered a criminal act is in fact a major indication of the evil nature of the capitalists' so-called "rule of law".   
+
 ## Potential Paradises
 
 ## University Occupations, Phase 2
@@ -48,7 +58,13 @@ A robust, healthy, independent, and publicly supported university system could p
 Any history of any radical movement will inevitably involve student occupations.  Students typically take over some space on campus, keep the land from the cops, and carry out various protest actions or teach ins over some number of days or maybe weeks.  In some cases they stand down after actually getting some demands met by the administration.  
 
 
-## Case Study: Yale University
+## Case Study: MIT and Harvard
+
+MIT(Massachusetts Institute of Technology) and Harvard share a strategic position along a tidal waterway, the Charles River.   I will look at both of them here and point to how an insurrection in either institution could grow out into that river and have lasting impact after the initial event.  
+
+And what of the Charles River?  
+
+<https://www.worldcat.org/title/charles/oclc/990111> looks like a good reference, can be found in denver libraries and dc, but not anchorage.  
 
 - How much land owned?
 - How much is arable?
@@ -83,9 +99,12 @@ charter:
 
 ## Case Study: Roosevelt Island
 
+Need to go look up reports on this project, detailed maps of the island, go see it and investigate, take pictures.  
+
+
 <https://en.wikipedia.org/wiki/Cornell_Tech>
 
-![Roosevelt Island](images/roosevelt.png)
+![Map showing location of Roosevelt Island in the East River, between Manhattan island and the Eastern boroughs of New York City.](images/roosevelt.png)
 
 ### this chapter should have a section with a detailed example
 maps, tables, really dig in and figure out the strategy and tactics that could be used, maybe have multiple examples, small liberal arts, huge public school, elite private school, community college in a big city
