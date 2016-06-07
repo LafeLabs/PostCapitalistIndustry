@@ -71,6 +71,10 @@ The anarchist symbology will include the black wild cat used by the IWW and othe
 
 ![Elements](images/elements.png) 
 
+
+![Squat Sign](images/squat.png) 
+
+
 Some electrical symbols will also be incorporated, partly since many things we will make involve building electrical circuits, and building those symbols into the art makes things self-documenting.  While these form a useful function in helping to make a thing free by documenting how it's put together, they should never abandon form for function: circuit documentation should be a work of art as much as a document.  
 
 

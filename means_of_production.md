@@ -1,5 +1,7 @@
 
-### Bring the Means of Production to the Action
+
+
+## Bring the Means of Production to the Action
 
 
 Most communists and anarchists direct us to turn the factory into a place of political action.  I propose to do the opposite: to bring the means of production to the action.  Where there are protests or occupations or refugee camps or war or poverty, Trash Magic can shine a light in the darkness.
@@ -7,13 +9,13 @@ Most communists and anarchists direct us to turn the factory into a place of pol
 
 practical considerations, examples, actually go do it and record it and put it on youtube
 
-### fucking shit up through selling stuff
+## fucking shit up through selling stuff
 
 build artistic pieces that do useful stuff out of trash, sell for a few hundred dollars each at underground popup stores, keep none of the money, all cash only, distribute it physically as cash in most disruptive possible way to undermine money system.  
 
 Build and use cash "gun"
 
-### Production in Autonamous zones
+## Production in Autonamous zones
 
 One of our goals is to erase arbitrary lines between things that are currently separated.  Just as some people have tried to erase lines between protest, occupation and party. I want to erase lines between industry and art, between protests and factories and workshops and squats.  Anywhere there are people and materials there can be industry. 
 
@@ -54,7 +56,7 @@ Trash Pirates.  Southeast Asia has marine sacrifice zones where ghost ships with
 What if Somali pirates could offer legitimately better employment than the European companies the crews of the hijacked boats work for?  it's hard to negotiate for "hostages" who don't want to return, and dangerous to negotiate for them if when they return they all just quit and disappear into some swamp.  Let's fill in all the spaces the capitalists have chosen to neglect with new industries that combine art and culture and science and technology as one thing!  
 
 
-### Life in the Delta
+## Life in the Delta
 
 The future of humanity is in the deltas.  just as the past.  And it's easy.  SO many cities have out of the way places an amphibious trash magic industrial culture can flourish without detection.  Freight transport powered by tidal energy driving electrochemical cells can be used as a universal industrial supply chain, with vast amounts of trash gathered for free from underwater salvage and swamp and wetland salvage.  Distribution of goods into the capitalist economy in the heart of a city via water front parks can then easily happen, also under the radar.  By under the radar, I literally mean under the actual radar, with boats of such a low profile that they are not distinguishable from wave action by radar.  Fabrication will be right on the edge of water and air, with object able to be moved in and out, water to be sprayed and pumped and mixed.   
 
@@ -64,3 +66,43 @@ The capitalists have had nanotechnology all wrong.  They have been looking for a
 Also agriculture. If it were in stormy seas or tidal shallow water with strong currents it should be much higher density.  With both the atomic feedstock of seawater and the energy content of the tides and waves, infinite amounts of fresh water, minerals, nutrients, and light(possibly from electric lights, to get 24/7 underwater agriculture), also things can be 3d with light generated electrically, water coming in from all sides, temperature control.  The density of crop cultivation should go up by way more than an order of magnitude, probably at least 2 orders of magnitude.  Thus a few acres of swampy wetlands in a strong tide with a  good river current could sustain hundreds of people comfortably if the infrastructure is built right.  And since it's all mobile and modular and can be built from trash, even if we all have to move or the State takes the stuff, infinite infinite.  
 
 In addition to deep ocean and river delta areas, this process can build up land out of the ocean where it is shallow as it often is in the tropics.  Trash can be built up into reefs of industry, designed to draw energy out of and thrive in storms.  Total global game changer.
+
+
+
+## Guerrilla Fairy Art
+
+I have figured out the nature of the first phase of technology development: guerrilla  faery art.  I’ve been getting distracted by the long term goals of functionality for industrial production, but for this first volume aimed at non technical readers, it makes sense to focus on technology which will make sense and be obviously worth spreading: guerrilla faery art.  What is this?   Art outside the capitalist system, installed without permission, built from trash and powered from freely available energy, and with a view toward exposing people to the of magic of the physical world.  There will be oscillators and motors and pumps and strobe lights and magnetic pickups and all kinds of blinking lights and speakers for sound and microscopic views of living things.
+
+The electrochemical probe and full robotic system belongs to the second volume on Trash Magic.  That is geared to  people who want to delve deeply into the way electromagnetic trash magic works, focusing on fluid ion transport to interact with living systems, along with the basic infrastructure needed for a good life.  The more advanced stuff will be just described in the first volume, not built out with detailed plans.
+
+What does this mean for things to build?
+
+Materials and how to mount things in place matter.  This gives me an excuse to go down to all the creeks and find the right sticks and rocks and trash locally that can be repurposed for an installation.  Some missions will require stealth.
+
+Viewing of microscopic objects must be extremely robust and require no turning on or off or care on a day to day basis.  Obviousness is key here, the view port has to be so obvious that everyone will automatically use it.  Also the subject has to naturally flow in constantly, with some trickle from a living stream so that something interesting, whatever the subject is, is usually present.
+
+What specifically needs to get built to have finished products, and where do they go?  Some things will be deployed in wild areas, some in urban areas, and some will be gifts to artists.
+
+A tentative and partial list of Guerrilla Faery Art:
+
+USB charger with water wheel
+water wheel that generates electricity which drives oscillator stick with rocks on it, just vibrates forever with feedback
+same, but with LEDs with a pattern to make 3d POV art in the water
+water wheel turns triboelectric generator using bottles and such to build up high voltage which creates an arc over the water between aluminum covered plastic bottles, very visible at night!
+art piece as gift where a vibrator vibrates water, making waves, which can be observed using a strobe, and turned into audio with a magnetic float and amplified magnetic pickup.  With the magnifier built into the wood/plastic/stone water containers, this connects the main technologies if it’s USB powered, and is the perfect Main Gift for this phase.
+3d manipulator with 3d input, hung from a tree or bridge over the water, which powers all motors and control circuits.  Anyone happening by and seeing the setup can grab the input rock and move it around, which will drive the moving platform around in 3d space above the water.  This probe can have the crude sonic electrochemical probe tuned to respond to depth in the water, so that the user can make sound by controlling the probe around in the water. Here art, science and technology are all one thing, built from trash, and in a public place with no declared ownership.
+water channel with strobe and vibrational drive for visual effects at night, driven by water wheel, runs all the time
+evaporative cooling refrigerator driven by water wheel
+hotplate driven by water wheel
+warm water pool heated by water wheel and generator
+steam powered organ using tubes and steam generated from water wheel
+datalog of creek which can connect to phones and twitter
+ 
+
+Focusing on the main thing for now it’s probably the USB driven art piece without the generator, just a wall charge for a off the shelf lipo battery, or left plugged in.  A wave tank with a strobe can have a tunable 2d shape projected by the sun down onto an area, with musical output based on the wave patterns.  This could be installed in a tree, projecting through glass, with water piped from the top of a waterfall.  But what powers it?  No, I need the charger for the guerrilla installation, but not for the art gift.
+
+ 
+
+Art gift should be simpler than that, project up and along the side, with lights under transluscent plastic in the stick.  Vibrator stick with rocks on it bounces, with a stick that can be adjusted to agitate the water with different wave shapes and frequencies and amplitudes.  The magnets and rocks can also be moved to change the properties.  Water propagates down carved channels in a fat bottom stick with the drive stick bolted to it as well as the bouncing stick which is fixed at the end opposite the water.  Lenses can be put above the water to magnify what is in it as well as to project light in various directions both for art and for observation.  A little wave pool at the opposite end of the water agitator has a float with a tiny magnet in it, and the audio flux amplifier is wound around this pool, so that the sound is picked up and amplified and has an audio out socket.  A beautiful carved wooden knob is used to adjust the strobe properties by changing a 555 circuit.
+
+This is the first thing!  Build this art gift first, before the water wheel, it’s self contained and can be distributed and used in classes I can teach and spread the work.  Lack of water wheel is not serious for most people since they charge devices anyway with USB and can get  a lipo at a gas station for 10 dollars.
