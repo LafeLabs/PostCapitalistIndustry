@@ -28,6 +28,8 @@ I will give capitalism the following definition:
 
 That, I believe, is the heart of the matter.  And it points to why experiments like the USSR have ended up having problems so similar to those in the western capitalist world.  In a word, money.  Money is not just metal or paper or faith in a government, it is the idea that a number, specifically an integer number(money can usually be subdivided but only up to a point) can be used to denote all human values.  This is why I believe the concept is so slippery, and so hard to break out of.  You can replace dollars with time dollars, bit coin, gold, silver, bags of salt or gold-backed e-dinar and it's really all the same thing: numbers.  Integer numbers.  As long as there is an exchange rate between a system of value and an existing currency you have not really broken free of the current system.  
 
+![Worshipping the Number One](images/bigone.png) 
+
 And what is money?  The purity of numbers has proven to be incredibly powerful. Users of the number based values have literally moved mountains with the power they have been able to deploy using money.  In particular money based values have been excellent at several things, some of which are good but most of which are bad.  I will now explore the nature of money more specifically.  
 
 

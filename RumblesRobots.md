@@ -26,6 +26,12 @@ Free robots like this are a rational response to the fact that the existing syst
 
 This should always be the goal of free technology if it wants to grow exponentially without a lot of resistance: the input must be things deemed of "negative value" by the old system.  Unlike most projects in capitalism which constantly drain everyone involved more and more over time, creating generation after generation of institutional burnout.  
 
+## Cyborgs
+
+![Bird Cyborg](images/birdcyborg.png) 
+
+![Squid Cyborg](images/squidcyborg.png) 
+
 #  Building an Ent
 
 The fractal mater reactor should be alive.  Trees, bushes, grass, etc. can grow all around it, with roots going into various fractal channels which provide nutreince.  These liquid spaces can have various animals and fungi and microorganisms, creating a whole ecosystem.  Imagine an island built up of such mater, the size of a small building, covered with trees.  Ambient energy is used to slowly build up and discharge electrical energy to operate philosophy engines which slowly walk the whole thing across the landscape.  With little or even no human intervention, this limbering living giant might spend decades crawling up and down hills scouring for junk cars, which it turns into a ever growing robot rumble that it can give away to any passing humans for free at any time.  Building this kind of thing in the ocean can be incredibly powerful.  Whole floating islands filled with fractal reactor technology can wander the high seas, with the humans all underwater in bubbles to ride out storms, picking up storm energy and sea junk, and building a every larger floating city deep out in the ocean.  This aquatic fractal techno city could exist even in a dead world of violent storms and acid oceans and extreme heat.  That's part of why I hate the liberal vision of fighting global warming by trying to make everything into Denmark.  It won't actually work, and then you still have a breakable society.  Sure our society is destroying itself, but so what? Let's build a million new ones, not just one.  And let's expect a future not of competent bureaucrats carefully tabulating the giant World Spreadsheet so everyone can live the life of a middle class urban Sweede but a world where ice ages and supervolcanoes and nuclear wars and devastating earthquakes all happen and where we fucking roll with it and have adventures.  
@@ -40,6 +46,12 @@ Start by building and documenting some actual robots, make a rumble, rumble the 
 5. hopper rumble
 6. make a mobile robot that can use a hot tool to rework thermo plastics
 7. floating robot that can re work thermo plastic(loop back to these on fractal reactor chapter)
+
+
+## Flying Robots
+
+![Hydrogen Drone](images/dirigible.png) 
+
 
 # add a whole section on the plastic bottle welding fabrication process
 
