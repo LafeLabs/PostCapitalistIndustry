@@ -1,4 +1,6 @@
 
+![NO PROPERTY](images/jollyroger.png) 
+
 
 ## INTELLECTUAL PROPERTY NOTICE
 
