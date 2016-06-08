@@ -1,4 +1,3 @@
-# Chapter 4: What is Trash Magic?
 
 
 ## Why Trash?

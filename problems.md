@@ -1,16 +1,13 @@
 
 
-# Here the reader is given challenges to solve for humanity
-
-To build:
+We must Build these:
 
 - free medicine
 - free transportation
 - free food
 - free water
-- free shipping
 - free communication
-- free custom labor robots
+- free robots
 - free energy
 - free clothes
 - free art
@@ -20,3 +17,49 @@ To build:
 - free sports
 - free games
  
+ 
+ **Free Medicine.** This is perhaps the most transformative on the list, and the most important. It is also a huge challenge and potentially dangerous.  Perhaps a good place to start is with medical metrology.  There needs to be technology which is free in the ways described in this work which can be used to measure the purity of drugs.  Many illegal drugs are as dangerous as they are largely because they are mixed heavily with mysterious random chemicals added by the capitalists to increase their profits which are often poisons.  We need to build up the ability to measure the chemical content of street drugs fast and accurately and with verification anyone can understand.  
+ 
+ The other main points of early research effort should focus on either the most ubiquitous or the most expensive life saving medications.  We must learn to use the techniques of brewing and genetically modified microorganisms to make designer medicines, We need to build up the post capitalist drug industry in a safe way by building the metrology into every step to insure purity and safety.  
+ 
+The very early phases of Trash Magic need to focus on building techniques and tools that are maximally general which can be used for all drug development and production.  The only way to do this efficiently given how many life saving drugs we now depend on is to recruit heavily from inside the existing biotechnology establishment.  We need to find the disgruntled geniuses in that system who are sick of it and desperate for a way out.  They often signed up for that industry to save lives and find out they're part of a giant scam to rip off or kill the poor and bleed everyone else and it's depressing and leads to a desire to leave as well as to change our broken society.  I do not anticipate that it will be hard to find talented biotech experts who want to join us once we've shown that our movement can do good science.  
+
+In keeping with the philosophy of Trash Magic, we want to integrate the more traditional "magical" views of medicine with the *techniques* of modern medicine.  That is, as with chemistry and physics, the goal is to take the very valuable information contained in modern science and reorganize that information in more human ways looking to other models that exist in our history(various healing traditions outside conventional Western medicine).
+
+Finally I want to bring up another important technology to develop fast in this process: imaging.  We need FREE medical imaging.  I have thoughts on this, which will go in the second volume and probably the third volume of this work, but I put this here as an open problem for the reader in this volume.  
+
+**Free Transportation and shipping.** The ability to move freely from one place to another is yet another basic human right which should be guaranteed by a civilized society but which is denied in our current system.  What does free transportation look like?  I think the lazy river is a great example of a potentially free transport system.  A lazy river is a popular attraction at water parks in which an artificial river is created which flows in a loop, allowing humans resting on inflatable tubes to drift around the full loop over and over, getting in or out anywhere.  
+
+I would propose that one of the most human friendly ways we could move around is with a larger and more robust system of lazy rivers.  We could make waterways which are pumped using water power from the overall net current. Ideally the water could be floated on with a variety of inflatable personal watercraft which float around with no owner, waiting to be used.  This could involve staying dry or being partially immersed or totally immersed, and it should include craft which can carry substantial freight, also an essential use of transportation. 
+
+Obviously a giant lazy river with free boats is a massive challenge for the early stages of this movement.  I propose that a way to build useful infrastructure now is to focus on rivers, and building transport for goods that goes both ways with cables under the sea that can haul freight upstream driven by the downstream flow.  This could run indefinitely with simple repairs over time, and could immediately be used by many people for both utilitarian and artistic purposes.  One could put free stuff in the feed, let it flow up and down the stream, and it could be grabbed and used by someone anywhere along the line.  This would mimic the basic functionality of the rotating sushi conveyor belt, where a stationary person can see all possible types of sushi pass by and grab what they want.  
+
+Another type of transportation which I think should exist after capitalism is skylines.  This is difficult, but worth building.  As with the lazy river, they will always go in loops, allowing people to get on and off anywhere for free, ideally in either direction, but with ropes or cables going infinitely, powered by ambient energy such as flowing water or wind.  These should have built in measurement technology that allow users to see various safety parameters in real time and fix the system as time passes. Skylines can also be suspended from various types of aerostat, both hydrogen and soaring types.  
+
+I also imagine very slow moving giant spider robots which freely roam the countryside, and which anyone can get on or off of at any time.  These might be many meters high, and have a whole industrial ecosystem on board, including growing food, and a local culture which is spread as the great lumbering spiderbot roams the world.  
+
+Finally, I must address the underlying issue of transportation in capitalist society: much of it is to do things we don't really want to do, and we won't have to do it anymore once capitalism falls apart.  We often travel to get things which should in be available locally but which capitalism make only available in certain central locations, and we *mostly* travel to do work we don't want to do which no one really needs done.  We must end central industrial control of goods and food and we must end the wage system.  With these changes, and with a free type of medicine anyone can get anywhere, we would only travel to see friends and family and to have adventures.  This changes the goals enough that it will inevitably lead to drastic and unanticipated changes in the structure of transportation in a post capitalist society.  
+
+**Free Food.** This is almost too obvious to go into much, as it's where most anti-capitalists start.  Food needs to be *really* free, though, using the stricter definitions of free from the second chapter of this volume, rather than just "no money" type of free.  This means not only should you not have to spend work or time or money or minerals to get food, food should simply exist in your world, around, moving on its own using the types of transport systems described above.  If you want a carrot, just keep an eye out and a carrot will drift by on a skyline or a hydraulic channel or a spiderbot.  Since the technology of automated food is so extensively studied in other people's work I will be brief on this topic here.
+
+**Free Water.** Water should be free! Truly free! Why is this so hard for capitalists and their collaborators to understand?  From our standpoint, this means dirty water that will kill you should be turned into clean water you can drink on its own, without any work, all the time, with such plentitude that it is essentially a part of the natural process of the world we live in.  Capitalists already sort of do this with their system of reservoirs that collect rain water, which is essentially solar-purified water.  They then hoard this and charge money for it and centrally control it, of course. 
+
+Constructing infrastructure which directly converts smaller amounts of water forever in different ways is key for freeing ourselves from the Machine.  This should exist, floating freely, in the ocean.  Humanity must return to the oceans, and we should bring fresh water with us.  Huge floating fresh water habitats should appear in the oceans. 
+
+Also, water purification should never be about just water.  It should be about the things we can remove from the water: heavy metals, salts, biological chemicals, microorganisms, etc.  All these should be constantly observed by people, who can then use them as needed.  
+
+**Free Communication.** This is another place where I have to distinguish between this project and the "maker" or "hacker" movements.  To a typical mainstream hacker, a "free" phone would be one with enough encryption to ensure total freedom from government interference.   This is not a useful definition of free.  The world they are building is one in which you replace the government snoops with corporate technocrats who build your "free" gadgets.  Nothing built by a corporate technocrat is ever free.  I would argue that free communication means you don't have to have any interaction with the technocratic priesthood at all.  That means it is so simple to build, edit, artistically enhance, and use that it's *obvious*, and can be done by anyone anywhere any time.  
+
+What does this mean in terms of practical technology?  For one thing, way more use of analog.  One of the ways the technocratic priesthood has built a strangle hold on our communications is by having so many layers of horribly complicated digital software infrastructure that is needed to do anything.  End that.
+
+I would say the starting point for our free communications network is free space optical point to point analog voice links.  This can be done with the magic sticks in the earliest phase of this project, leading to immediate deployment.  Could encryption be used in this system?  Sure, yes.  But do you really need encryption if you're using a system like this?  You're basically shining a flickering flashlight at someone.  Going optical(without lasers) is also important because it avoids conflict with the government bodies that tightly control the frequencies normally used for communication.  
+
+
+To be specific about what this will look like, it's the Trash Magic Stick with all the aspects that go along with that.  That means you get it free as a gift normally, can easily build more and gift them on, and it needs no grid energy to function, anyone can use it, etc.  Using vibrations of air and water to modulate fire, analog voice signals should be made with light, and then photo diodes and amplifiers demodulate the signal from a telescope built into the stick and play the amplified sound directly out a speaker.  
+
+Free space point to point optical can be(and is being by capitalists) scaled up to the global level.  The capitalists have built so much dark fiber in their speculative bubbles that we should be able to augment the free space optical with free optical links in tunnels after things start to fall apart on that side. Also while the capitalist Internet still IS running, it should be possible to extend their networks all over using optical repeater stations we can put in free in our between-the-cracks infrastructure. 
+
+**Free Robots.**This topic is so important obviously it got its own chapter but I'll briefly add here the reminder that a robot is not really free unless you can build it yourself modified for *your* needs.  That is, you can see a need, then build and program and use a robot to fill that need, for pretty much any arbitrary need within the scope of what a kind of robot can do.  That is what makes it free.  It is very easy to fall into the trap of building robots that appear free but still need a technocratic priesthood to function.  Avoiding that is probably the largest challenge of making truly free robots, as good people have already been working on the other parts.  
+
+**Free Energy.**
+

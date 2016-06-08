@@ -1,4 +1,3 @@
-# Chapter 2: Free Technology
 
 ## What Does it Mean for Technology to be Free?
 

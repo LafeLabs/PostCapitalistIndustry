@@ -12,7 +12,7 @@ If, rather than Evil Machines, we want our technology to be more human and more 
 
 Another key distinction of living systems is that they do not distinguish between material transport, data transport, energy and electrical transport.  All of these involve the flow of ions and various big molecules through fluids.  
 
-Our non-living technical systems crudely split these functions off from one another.  
+Our non-living technical systems crudely split these functions off from one another.  We have banished pure information to the domain of "computers", all controlled by the all powerful Master Control Program of the Central Processing Unit.  Fluids flow as needed for cooling for chemicals, but are clearly lower in the hierarchy than information which rules all in today's "tech" world.  Ions in fluid rarely take a deliberate role unless it's in a living system and cannot be avoided(people drinking sport drinks with electrolytes, or use of acid in car batteries).  
 
 ## What is Fluidics and why do we care?
 

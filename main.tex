@@ -10,6 +10,7 @@
 \author{Lafe Spietz}
 
 \begin{document}
+\frontmatter
 \begin{figure}[htbp]
 \centering
 \includegraphics{images/frontcover.png}
@@ -17,10 +18,23 @@
 
 \clearpage
 
+\clearpage
+
+
+
+\newpage
+\thispagestyle{empty}
+\mbox{}
+
+\input{intellectual_property_notice.tex}
+
 \maketitle
 
 \tableofcontents
 
+\listoffigures 
+
+\mainmatter
 \chapter{Capitalism}
 \input{capitalism.tex}
 
@@ -54,7 +68,7 @@
 \chapter{Visions of a Better Tomorrow}
 \input{visions.tex}
 
-\chapter{Open Problems: Free Everything!}
+\chapter{Free Everything}
 \input{problems.tex}
 
 \chapter{Let's Build This!}

@@ -14,5 +14,6 @@ pandoc -f markdown -t latex visions.md -o visions.tex
 pandoc -f markdown -t latex problems.md -o problems.tex
 pandoc -f markdown -t latex lets_build.md -o lets_build.tex
 pandoc -f markdown -t latex techniquesBook1.md -o techniquesBook1.tex
+pandoc -f markdown -t latex intellectual_property_notice.md -o intellectual_property_notice.tex
 
 
