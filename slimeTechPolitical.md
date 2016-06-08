@@ -18,6 +18,12 @@ Our non-living technical systems crudely split these functions off from one anot
 
 One type of magic that must be wielded if we expect to have a decent life is potion making.  This means mixing fluids, moving them around with pumps, compressing them, running electricity through them, and also doing things with gasses of various kinds.  This is needed to efficiently compost waste at a high speed safely and to build up plant growth infrastructure fast for food production. It is also where novel chemicals and various life saving drugs come from. 
 
+## Light Magnification and Projection
+
+Build lenses into sticks that can magnify and project the magnified image. With the ability to project microscopic things, it should be possible to do real time display with millimeter scale vibration of fluids and suspended objects in fluids.  This could be the free analog scope I've been looking for.  
+
+There should be both a projection system and also a system for direct projection onto the eyeball of the user in a goggle configuration.  Essentially the standard microscope configuration but with better ergonomics.  
+
 ## clean water 
 
 clean water is CRITICAL, need to research existing tech here, talk about alternatives. 
