@@ -98,28 +98,28 @@
 \contentsline {subsection}{Riding Against Thor: the story of warriors of the storm stealing clean water from the gods of Thunder}{175}
 \contentsline {subsection}{Poop Story}{176}
 \contentsline {chapter}{\chapternumberline {12}Free Everything}{181}
-\contentsline {chapter}{\chapternumberline {13}Let's Build This!}{194}
-\contentsline {subsection}{let's build this!}{194}
-\contentsline {subsubsection}{circuits:}{196}
-\contentsline {subsection}{public guerilla art}{198}
-\contentsline {chapter}{\chapternumberline {14}Techniques}{204}
-\contentsline {subsection}{Finding the right Sticks}{204}
-\contentsline {subsection}{processing sticks into skeletron etc.}{204}
-\contentsline {subsection}{Plastic Welding}{204}
-\contentsline {subsection}{gathering HDPE and LDPE for plastic projects}{204}
-\contentsline {subsection}{salvage components from busted electronics}{204}
-\contentsline {subsection}{how to solder}{205}
-\contentsline {subsection}{Sticks for Electronics}{205}
-\contentsline {subsection}{Sticks for Hydraulic Machines}{205}
-\contentsline {subsection}{Sticks for fluidics}{205}
-\contentsline {subsection}{chipping Rocks}{205}
-\contentsline {subsection}{Carving wood}{205}
-\contentsline {subsection}{Measuring real time voltages and fluxes with an Arduino}{205}
-\contentsline {subsection}{Measuring electrical transport of slime}{205}
-\contentsline {subsection}{Finding creepy crawlies}{205}
-\contentsline {subsection}{Design a new 3d thing}{205}
-\contentsline {subsection}{Make coloring book style illustrations with minimal art and computer skills}{206}
-\contentsline {subsection}{How I wrote this}{206}
-\contentsline {subsection}{How to color your wood stuff}{206}
-\contentsline {subsection}{Buying parts}{206}
-\contentsline {subsection}{decorative rope work}{206}
+\contentsline {chapter}{\chapternumberline {13}Techniques}{194}
+\contentsline {subsection}{Finding the right Sticks}{194}
+\contentsline {subsection}{processing sticks into skeletron etc.}{195}
+\contentsline {subsection}{Finding the Right Plastic}{196}
+\contentsline {subsection}{Plastic Welding}{197}
+\contentsline {subsection}{salvage components from busted electronics}{197}
+\contentsline {subsection}{how to solder}{198}
+\contentsline {subsection}{Sticks for Electronics}{198}
+\contentsline {subsection}{Sticks for Hydraulic Machines}{198}
+\contentsline {subsection}{Sticks for fluidics}{198}
+\contentsline {subsection}{chipping Rocks}{198}
+\contentsline {subsection}{Carving wood}{198}
+\contentsline {subsection}{Measuring real time voltages and fluxes with an Arduino}{198}
+\contentsline {subsection}{Measuring electrical transport of slime}{198}
+\contentsline {subsection}{Finding creepy crawlies}{198}
+\contentsline {subsection}{Design a new 3d thing}{198}
+\contentsline {subsection}{Make coloring book style illustrations with minimal art and computer skills}{198}
+\contentsline {subsection}{How I wrote this}{199}
+\contentsline {subsection}{How to color your wood stuff}{199}
+\contentsline {subsection}{Buying parts}{199}
+\contentsline {subsection}{decorative rope work}{199}
+\contentsline {chapter}{\chapternumberline {14}Let's Build This!}{200}
+\contentsline {subsection}{let's build this!}{200}
+\contentsline {subsubsection}{circuits:}{202}
+\contentsline {subsection}{public guerilla art}{204}

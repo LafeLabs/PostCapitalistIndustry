@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  8 JUN 2016 15:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  8 JUN 2016 18:44
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -554,12 +554,12 @@ Overfull \hbox (2.03766pt too wide) detected at line 100
 
 
 Overfull \hbox (2.03766pt too wide) detected at line 101
- \OT1/cmr/bx/n/12 193
+ \OT1/cmr/bx/n/12 194
  []
 
 
-Overfull \hbox (2.03766pt too wide) detected at line 105
- \OT1/cmr/bx/n/12 203
+Overfull \hbox (2.03766pt too wide) detected at line 122
+ \OT1/cmr/bx/n/12 199
  []
 
 ) (./main.lof
@@ -1105,7 +1105,28 @@ Overfull \hbox (4.5076pt too wide) in paragraph at lines 274--278
 \OT1/cmr/m/n/12 oth-ers to make more art. The el-e-ments of this are through-
  []
 
-[191] [192]) [193] (./lets_build.tex
+[191] [192]) [193] (./techniquesBook1.tex [194
+
+]
+Overfull \hbox (1.41235pt too wide) in paragraph at lines 16--20
+[]\OT1/cmr/m/n/12 A lot of elec-tron-ics projects are per-fect for sticks about
+
+ []
+
+[195] [196]
+Overfull \hbox (1.80948pt too wide) in paragraph at lines 78--81
+\OT1/cmr/m/n/12 breaking down elec-tron-ics fast with min-i-mal tools: smash.
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [197]
+Overfull \hbox (8.1983pt too wide) in paragraph at lines 117--120
+\OT1/cmr/m/n/12 markdown, la-tex, lulu press, github, github desk-top, MOU,
+ []
+
+[198]) [199] (./lets_build.tex
 Overfull \hbox (3.57196pt too wide) in paragraph at lines 22--24
 []\OT1/cmr/m/n/12 Other aca-demic work you can con-tribute as a scholar 
  []
@@ -1113,10 +1134,10 @@ Overfull \hbox (3.57196pt too wide) in paragraph at lines 22--24
 
 Underfull \vbox (badness 4518) has occurred while \output is active []
 
- [194
+ [200
 
 ]
-[195]
+[201]
 Overfull \hbox (0.69977pt too wide) in paragraph at lines 96--100
 []\OT1/cmr/m/n/12 stepper mo-tor driven by po-ten-tiome-ter so knob goes
  []
@@ -1126,7 +1147,7 @@ Overfull \hbox (0.82616pt too wide) in paragraph at lines 96--100
 \OT1/cmr/m/n/12 to wheel di-rectly with one Ar-duino per mo-tor+knob
  []
 
-[196] [197] [198] [199]
+[202] [203] [204] [205]
 Overfull \hbox (3.31085pt too wide) in paragraph at lines 224--231
 \OT1/cmr/m/n/12 mak-ing waves, which can be ob-served us-ing a strobe,
  []
@@ -1136,35 +1157,20 @@ Overfull \hbox (3.32845pt too wide) in paragraph at lines 224--231
 \OT1/cmr/m/n/12 am-pli-fied mag-netic pickup. With the mag-ni-fier built
  []
 
-[200]
+[206]
 Overfull \hbox (10.2955pt too wide) in paragraph at lines 244--246
 []\OT1/cmr/m/n/12 evaporative cool-ing re-frig-er-a-tor driven by wa-ter wheel 
 
  []
 
-[201]) [202] [203] (./techniquesBook1.tex
-Overfull \hbox (1.80948pt too wide) in paragraph at lines 14--17
-\OT1/cmr/m/n/12 breaking down elec-tron-ics fast with min-i-mal tools: smash.
- []
-
-[204
-
-]
-Underfull \vbox (badness 1303) has occurred while \output is active []
-
- [205]
-Overfull \hbox (8.1983pt too wide) in paragraph at lines 53--56
-\OT1/cmr/m/n/12 markdown, la-tex, lulu press, github, github desk-top, MOU,
- []
-
-)
+[207]) [208]
 
 Class memoir Warning: The material used in the headers is too large
 (28.99998pt) for the given head height (14.5pt), it is recommended to
 either increase the head height or redesign the header
 (in both cases you will find help in the memoir manual). on input line 80.
 
-[206]
+[209]
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
@@ -1177,10 +1183,10 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 5923 strings out of 493089
- 85537 string characters out of 6134842
+ 5924 strings out of 493089
+ 85564 string characters out of 6134842
  190365 words of memory out of 5000000
- 9294 multiletter control sequences out of 15000+600000
+ 9295 multiletter control sequences out of 15000+600000
  9976 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,11n,23p,376b,329s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1191,10 +1197,10 @@ sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></us
 r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
 /local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/
 local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (214 pages, 917986 bytes).
+Output written on main.pdf (217 pages, 922554 bytes).
 PDF statistics:
- 754 PDF objects out of 1000 (max. 8388607)
- 494 compressed objects within 5 object streams
+ 768 PDF objects out of 1000 (max. 8388607)
+ 504 compressed objects within 6 object streams
  0 named destinations out of 1000 (max. 500000)
  81 words of extra memory for PDF output out of 10000 (max. 10000000)
 

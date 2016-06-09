@@ -35,8 +35,8 @@
 10. [Factories Everywhere and Nowhere](means_of_production.md) 
 11. [Visions of a Better Tomorrow](visions.md)
 12. [Free Everything](problems.md)
-13. [Let's Build This!](lets_build.md)
-14. [Techniques](techniquesBook1.md)
+13. [Techniques](techniquesBook1.md)
+14. [Let's Build This!](lets_build.md)
  
 
 ### Book 2. The Practice of Trash Magic: the Stickening
