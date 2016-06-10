@@ -33,6 +33,8 @@ The easiest source of HDPE for most of us is bottle caps.  Standard plastic soda
 
 Another great source of plastic, which I use for small electronics work especially, is the translucent(but not transparent) plastic generally used for plastic milk bottles.  It is also used for various citrous juices such as orange and pineapple, so if you don't drink milk that's probably a better bet.  Some 1 gallon water containers from generic brands of bottled water also come this way, and those can be found in plastic trash piles by various creeks sometimes.  I avoid milk bottles I find that way due to what happens to milk when it's been out a few days.  I drink milk at home and when the bottles are done I try to immediately wash them out, rip them up, and put them in my plastic material bin.  
 
+One way you can get some containers like this if you don't normally buy them or drink milk is to have a party where the main drink is maitais or some similar fruity cocktail.  You can get orange and pineapple juice in these containers, and mix them.  If you want maximal containers, get the smallest they sell, and invite a ton of people who like to drink and you'll have a few containers to work with in a few hours.
+
 Finally, another source for LDPE for very large scale projects like building boats is traffic barriers, the big orange kind.  Don't steal them, they'll end up in the trash eventually, take those and cut them up with a hacksaw(they're too thick to cut with a regular knife, although maybe if you have a giant sword that will also work). 
 
 ## Plastic Welding
@@ -44,7 +46,7 @@ The goal with working with HDPE and LDPE is to get it to transition from solid n
 As a first weld project I'd say take bottle caps, cut them up, heat them until they're kind of floppy, and are right next to the, moving the heat source back and forth between the two bottle cap shards, then when they're clearly a bit gooey, touch them together, and they should stick, then heat the combination a bit more, maybe another 20 seconds. Then when it's clear that they're both gooey and are sticking a bit, get your pliers or tweezers and start smashing and squashing to get the two to plastic parts to mix.  This is the same basic welding technique that is used for various food technology like the calzone: the weld joint on the top and bottom bread in a calzone looks just like the plastic weld joints you'll make with bottle caps.  
 
 
-## salvage components from busted electronics
+## Salvage Components From Busted Electronics
 
 This section is going to be short because right now I still buy a lot of electronics from the capitalist enemy.  As capitalist enemies go, however, Digikey.com is awesome.  There are several companies that sell electronic components online, with fairly similar prices and selection.  If you want to compare them, the site to use is octopart.com, a startup company out of Boulder, Colorado which compares all the prices and stocks of the different companies.  That being said, I use digikey exclusively so that I can have a consistent bill of materials for everything, which uses digikey part numbers.  Digikey can often deliver a part to you within one day in most of the USA.  
 
@@ -52,7 +54,7 @@ As for salvage, the main electronics components I've been salvaging so far are p
 
 I will leave this section brief since it's very much a work in progress. I'd rather finish this book and then extend this later than delay the book while I do the research required to have good specs in this section.  
 
-## how to solder
+## How to Solder
 
 The best way to learn to solder by far is to find someone who can solder and get them to teach you face to face, it's a very physical learning process. One thing all forms of soldering have in common which I want to mention here is the need to get the actual metal being soldered hot, not just the solder.  The biggest mistake beginners make is not being patient enough in heating the other metals that are not the solder.  Also note that whatever is the most massive metal piece will need the most heat applied, be it by soldering iron or hot air gun.  
 
@@ -64,48 +66,64 @@ When I use the hot air gun to solder, it's always with solder paste, and I set t
 
 This is another section that has to be a bit of a placeholder in this first version.  Sticks can be used to make various direct mechanical machines driven by water.  Water wheels made from simple arrangements of sticks should generate electricity to be used in that same apparatus, as well as to move various belts and cables to move things around in the world.  Water wheels should also be used as a replacement for many electric power tools, and a high research and development priority is building a power drill replacement that runs on water.  
 
-## Sticks for fluidics
+## Sticks for Fluidics
 
 Ultimately, the stick technology should have fluidics built into it.  This means channels, chambers, pumps, valves, and electrical/chemical interfaces.  I've done some very crude experiments with this, but since nothing is really complete this is a place holder for now.
 
-## chipping Rocks
+## Chipping Rocks
 
 We must bring back stone!  Not just for decoration but for weight, for fluids work, for electronics, and for many other applications.  Part of the Trash Magic skill set and tool set must be for simple stone work.  I have been pounding rocks with other rocks and reading a bit about this, but still have not fully developed the skills.  
 
+The one rock skill I have acquired over the years is that if you grind a rock against pavement for long enough you can polish one side smooth enough to "skate" on, and can push that rock around under your shoe like a skateboard.  This can be amusing, and led to all rock grinding on pavement being banned at my middle school.  
+
 ## Measuring real time voltages and fluxes with an Arduino
 
-Measuring voltages in real time should be easy.  And yet it's often a huge pain to transition from doing this in a over-equipped over priced lab to doing it as a rogue element.  The trick is to use the Arduino's analog to digital conversion, with the new Arduino software's very handy plotting feature.  
+Measuring voltages in real time should be easy.  And yet it's often a huge pain to transition from doing this in a over-equipped over priced lab to doing it as a rogue element.  The trick is to use the Arduino's analog to digital conversion, with the new Arduino software's very handy plotting feature.  I generally make a voltage divider with a pair of 10k resistors from 5V to the Arduino ground, with the midpoint connected to one side of the thing to be measured, and the other side connected to the ADC.  This is not useful if you're measuring something connected to the Arduino ground!  But if you want to measure something like induced electromotive force in an inductor it's great, as long as you don't go over voltage and blow it up.  More on this in future versions.  
 
-## Measuring electrical transport of slime
 
-## Finding creepy crawlies
+## Measuring Electrical Transport of Slime
 
-tardigrades, nematodes, paramecia, bacteria
+This will be covered in very great detail in volumes II and III, and I don't expect this to make a ton of sense now, but basically my method involves putting small amounts of charge onto and off of a capacitor quickly and  observing the voltage response.  Doing this fast can create an audible signal that depends both qualitatively and quantitively on the impedance, and can also be used to observe nonlinearities through various doublings etc.  
 
-## Design a new 3d thing
+## Finding Creepy Crawlies
 
-blender, 3d printing, wood, plastic etc.
+The real Trash Magic Sticks will have optical microscopy built in, along with the plumbing to move water with little creatures around to observe them.  For now, I have a very cheap plastic toy microscope that I carry around on my bike and try to find tiny bugs with.  I've seen some paramecia, some bacteria and the occasional tardigrade shooting by in the water.  Finding water rich in life in Colorado is a bit tricky, but where it's slow moving and covered in bugs is generally a good bet.  
 
-## Make coloring book style illustrations with minimal art and computer skills
+## Design a new 3d Thing
 
-pencil, pen, inkscape, etc
+Blender!  Blender!! Blender is a free open source software package used for 3d design, primarily for artists.  I used to use commercial CAD software but that is not compatible with the values of Trash Magic so I had to switch to something free.  It turns out that while the professional CAD packages are better for professional CAD, that when we abandon the concept of professional engineering and take an artist's approach that Blender is actually superior.  I will not digress with my own very poor introduction to Blender as I'm still learning the basics myself.  It is, however, going to take a larger and larger role in the manufacturing and design in Trash Magic as more virtual reality and augmented reality systems get deployed in the future.  
 
-## How I wrote this
 
-markdown, latex, lulu press, github, github desktop, MOU, macbook air, various fonts, etc., creative process detailed with library and drugs and coffee
+## How I Wrote This
 
-## How to color your wood stuff
+My creative process is to think on things for a long time, then write fast as a synthesis of that thought.  The thinking process combines long library visits, long walks, long bike rides, Brazilian Jiujitsu and extensive use of edible THC products purchased in Colorado.   
 
-acrylic paint and colored pencils
+Actual writing generally takes place in a coffee shop, on the couch at home or in the library, usually in quick bursts of under 2 hours of work.  I did the writing on a MacBook Air purchased around 2012.  Most of the writing took place in the Markdown editor known as Mou.  I used GitHub Desktop to manage the versions and backups on Github, which I used for my could backup as I went.  Each chapter is its own Markdown file.  A shell script uses Pandoc to convert all markdown files to tex files.  A file I call main.tex then imports all those tex files as chapters and provides the format using the LaTeX package "memoir" to generate the actual book pdf.  
 
-## Buying parts
+Illustrations were generated by drawing things in pencil, inking in the stronger lines, taking a photograph with a small cheap Sony digital camera, importing the bitmap into the free art software InkScape, and then traced into vector graphics.  The vector graphics are then re-sized to fit in a four inch width, saved as .svg files, and then exported as 100 dpi png files which are used for the actual figures in the document.  
+ 
 
-wire and electronics parts, batteries, cables, some discussion of alternate sources
+## How to Color Your Wood Stuff
 
-## decorative rope work
+Wood things should often be at least partly colored, not just for art, but to code different parts differently so they're easy to follow.  I generally try to have electrical nodes connected to positive supply voltage be surrounded by red, and the minus supply surrounded by black or green.  I also tend to use yellow for signal and blue for higher current lines that are not power supply.  
 
-coachwipping, bowline, clove hitch, turks head, monkey's fist
+I have a set of colored pencils in my work area, which work great on raw, carved wood, but badly on plastic.  I also have a set of acrylic paints, the smallest and cheapest I could find, which goes on just about anything.  
 
+I believe most of what we make should be colored and that the colors should always serve both artistic and practical purposes.  
+
+## Rope Work
+
+I will not elaborate on this too much in the first edition, but I will just mention some rope techniques that are of use:
+ - coachwhipping
+ - Turk's head
+ - clove hitch
+ - bowline
+ - bowline in a bight
+ - dragon bowline
+ - carrick bend
+ - figure eight knot
+ - double figure eight knot
+ - monkey fist
 
 
 

@@ -2,6 +2,11 @@
 
 an ent is a slow moving giant tree robot that can walk, it can take years for them to gather but they do gather, and along with their human care takers build stuff together then move on, very slow
 
+
+## Memoirs from a Bathtub
+
+
+
 ## Storm's a' commin'
 
 A storm is coming! So many joules of energy!  We will build all the things, set things on fire, move heavy things around, describe the world of the sunken city built back up from the water out of trash wizard compontents

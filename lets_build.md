@@ -1,6 +1,41 @@
 ## let's build this!
 
 
+this chapter needs a "product" focus.  
+
+It will be these three things.
+
+1. The vibrational drive with strobe driven by USB battery, pendulum and spring toys
+2. Noise stick driven by USB battery
+3. USB charger guerrilla art whirligig, with LEDs and glowing rocks 
+
+
+build a thing, start the story, teach it on, and deploy, for the three things, with examples and pictures.
+
+I will list the things I'll leave for other projects/publications:
+
+1. robots that roll around
+2. 3d input manipulator
+3. 3d probe
+4. stepper motor
+5. water powered drill
+6. microscopy
+7. fluidic pumps
+8. cable to move goods around mechanically driven by whirligig
+9. water pump driven by water
+10. generic air pump for inflating anything, which is also generic water pump
+11. electrostatic generator driven by whirligig
+12. stone cutting machine
+13. boat
+14. heated composting reactor
+15. oxygen and hydrogen generator
+16. electrochemical probe
+17. optical free space communications system
+18. soaring high voltage drones
+19. temperature regulator using stepper motor and solar concentrator with parabolic mirror from trash
+20. thermometers 
+
+
 - how to make a thing
 - how to ship a thing
 - how you can get finished goods and join a value circle
@@ -11,6 +46,7 @@
 - what you can do to spread the word and build community
 - Other academic work you can contribute as a scholar
 - Machines you could build outside this system which can start a new value circle
+- 
 
 
 This section should have some basic assembly plans and information to get started even without the second volume.  

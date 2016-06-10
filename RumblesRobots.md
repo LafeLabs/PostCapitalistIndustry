@@ -123,6 +123,8 @@ The first way I would set about making drones less useless is by making them flo
 
 ![Hydrogen Drone](images/dirigible.png) 
 
+How should motors work for soaring drones?  First of all, if the thing is large enough it can float on the circular current patterns in the upper atmosphere, holding position with no mechanical work done.  But what about motors for guidance?  These motors should be electrostatic, powered by extremely high voltage giant balloon capacitors which are the main body of the soaring drone.  Using two very light polymers in very thin sheets with opposite positions on the turboelectric series, it should be possible when far from the ground to generate *extremely* high voltages very easily using the mechanical energy source of the rotating air currents.  Electrostatic motors can then run off these, also built from thin polymer sheets with thin metallization.  No magnets and no copper coils!  It's nutty to use the magnetic field for high altitude low power low speed motors, they should all be based on electric fields, because it's easy to get megavolts up there.   
+
 
 ## How Robots Reproduce
 
