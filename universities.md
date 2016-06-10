@@ -1,3 +1,8 @@
+This link is key:
+<http://undercommoning.org>
+There is already a whole movement.  They have the ideas and the people and the strategy and tactics, so all I need to do is cite them a lot and add the technical industrial components.  
+
+
 ## Universities: Visions of Utopia
 
 If the university campus lived up to its potential it could be a true paradise: essentially a giant garden filled with buildings for studying and creating knowledge.  Amazing!  They are usually situated on some of the best land to be found anywhere, have great access to everything needed in life, and have dense urban style housing in a pastoral environment which allows for a simple, car free life.  
