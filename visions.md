@@ -5,6 +5,10 @@ an ent is a slow moving giant tree robot that can walk, it can take years for th
 
 ## Memoirs from a Bathtub
 
+The Universe is in my bathtub.  All things and all people.  And today is bath day.  Well, yesterday was also bath day but today is *epic* bath day.  Today the bah goes out to the world.  I wake up in a roost under a bridge made from the usual Trash Magic infrastructure.  I do some basic hygiene stuff, then roll over the side into the tub waiting below, plop.  I reach up and work the controls on the roost to reset it for the next person, then lie back in the tub as the current starts to pull it into the main stream.  
+
+The journey begins with setting a flag in the tub to summon a coffee drone, and just lying back to watch the morning clouds above. To set the mood for the day, I put White Rabbit on loop on the Trash rig, nice and loud.   Then I kick back and wait for it all to get rolling.  The coffee drone soon paddles along side my tub, and I grab a cup and bagel and focus on those for a bit while the main current drags the tub toward the Center.  
+
 
 
 ## Storm's a' commin'

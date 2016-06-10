@@ -34,14 +34,14 @@
 \contentsline {subsection}{Universities: Visions of Utopia}{72}
 \contentsline {subsection}{Brief History of the University}{73}
 \contentsline {subsection}{Undergraduate Education: Broken Promises}{73}
-\contentsline {subsection}{Science Grad School: The Ponzi Scheme}{74}
+\contentsline {subsection}{Science Grad School: The Ponzi Scheme}{75}
 \contentsline {subsection}{Hollowing Out of the Academy}{76}
 \contentsline {subsection}{Intellectual Property}{76}
 \contentsline {subsection}{Potential Paradises}{77}
 \contentsline {subsection}{University Occupations, Phase 2}{77}
 \contentsline {subsection}{Case Study: MIT and Harvard}{77}
-\contentsline {subsection}{Case Study: University of Paris(Sorbonne)}{78}
-\contentsline {subsection}{Case Study: Roosevelt Island}{79}
+\contentsline {subsection}{Case Study: University of Paris(Sorbonne)}{79}
+\contentsline {subsection}{Case Study: Roosevelt Island}{80}
 \contentsline {subsubsection}{this chapter should have a section with a detailed example}{81}
 \contentsline {subsubsection}{The Universities are a Disaster}{81}
 \contentsline {subsubsection}{But they're really useful to us}{82}
@@ -93,30 +93,30 @@
 \contentsline {chapter}{\chapternumberline {11}Visions of a Better Tomorrow}{175}
 \contentsline {subsection}{Ent Moot}{175}
 \contentsline {subsection}{Memoirs from a Bathtub}{175}
-\contentsline {subsection}{Storm's a' commin'}{175}
+\contentsline {subsection}{Storm's a' commin'}{176}
 \contentsline {subsection}{wizards rolling in the valley}{176}
-\contentsline {subsection}{Ramblin' youth}{176}
-\contentsline {subsection}{Riding Against Thor: the story of warriors of the storm stealing clean water from the gods of Thunder}{176}
-\contentsline {subsection}{Poop Story}{177}
-\contentsline {chapter}{\chapternumberline {12}Free Everything}{182}
-\contentsline {chapter}{\chapternumberline {13}Techniques}{195}
-\contentsline {subsection}{Finding the Right Sticks}{196}
-\contentsline {subsection}{Processing Sticks Into Skeletron}{197}
-\contentsline {subsection}{Finding the Right Plastic}{199}
-\contentsline {subsection}{Plastic Welding}{200}
-\contentsline {subsection}{Salvage Components From Busted Electronics}{202}
-\contentsline {subsection}{How to Solder}{203}
-\contentsline {subsection}{Sticks for Hydraulic Machines}{204}
-\contentsline {subsection}{Sticks for Fluidics}{204}
-\contentsline {subsection}{Chipping Rocks}{205}
-\contentsline {subsection}{Measuring real time voltages and fluxes with an Arduino}{205}
-\contentsline {subsection}{Measuring Electrical Transport of Slime}{206}
-\contentsline {subsection}{Finding Creepy Crawlies}{206}
-\contentsline {subsection}{Design a new 3d Thing}{207}
-\contentsline {subsection}{How I Wrote This}{207}
-\contentsline {subsection}{How to Color Your Wood Stuff}{208}
-\contentsline {subsection}{Rope Work}{209}
-\contentsline {chapter}{\chapternumberline {14}Let's Build This!}{210}
-\contentsline {subsection}{let's build this!}{210}
-\contentsline {subsubsection}{circuits:}{213}
-\contentsline {subsection}{public guerilla art}{216}
+\contentsline {subsection}{Ramblin' youth}{177}
+\contentsline {subsection}{Riding Against Thor: the story of warriors of the storm stealing clean water from the gods of Thunder}{177}
+\contentsline {subsection}{Poop Story}{178}
+\contentsline {chapter}{\chapternumberline {12}Free Everything}{183}
+\contentsline {chapter}{\chapternumberline {13}Techniques}{196}
+\contentsline {subsection}{Finding the Right Sticks}{197}
+\contentsline {subsection}{Processing Sticks Into Skeletron}{198}
+\contentsline {subsection}{Finding the Right Plastic}{200}
+\contentsline {subsection}{Plastic Welding}{201}
+\contentsline {subsection}{Salvage Components From Busted Electronics}{203}
+\contentsline {subsection}{How to Solder}{204}
+\contentsline {subsection}{Sticks for Hydraulic Machines}{205}
+\contentsline {subsection}{Sticks for Fluidics}{205}
+\contentsline {subsection}{Chipping Rocks}{206}
+\contentsline {subsection}{Measuring real time voltages and fluxes with an Arduino}{206}
+\contentsline {subsection}{Measuring Electrical Transport of Slime}{207}
+\contentsline {subsection}{Finding Creepy Crawlies}{207}
+\contentsline {subsection}{Design a new 3d Thing}{208}
+\contentsline {subsection}{How I Wrote This}{208}
+\contentsline {subsection}{How to Color Your Wood Stuff}{209}
+\contentsline {subsection}{Rope Work}{210}
+\contentsline {chapter}{\chapternumberline {14}Let's Build This!}{211}
+\contentsline {subsection}{let's build this!}{211}
+\contentsline {subsubsection}{circuits:}{214}
+\contentsline {subsection}{public guerilla art}{217}
