@@ -7,7 +7,7 @@
 * The world is magical.  The properties we have always called "magic" can be ascribed to all things in the physical world, and these powers can be harnessed by the techniques of Trash Magic
 * Capitalism cannot and should not be reformed, it should be opposed in all places and times until it dies
 * The concept of professionalism is harmful to the human condition, it poisons the soul, and is evil 		
-* The concept of finite number to represent human values is a mind virus must be purged.  The infinite exposes deeper truths than finite.  These problems go to the deepest level of our mathematical thought from arithmetic to the underlying axioms of mathematics
+* The concept of finite number to represent human values is a mind virus that must be purged.  The infinite exposes deeper truths than the finite.  These problems go to the deepest level of our mathematical thought from arithmetic to the underlying axioms of mathematics
 * Morality consists of a set of axioms.  An axiom is a unproven statement which we take to be true in order to build up a system of thought which can guide action.  The principles in this list are put forth as axioms.
 * It is not our role to debate capitalism with its defenders.  Every possible basic argument for or against capitalism already exists on the Internet.  Our job is to build a set of moral axioms, a set of technical skills and knowledge and build up a practical society from that.  It is not our job to waste time repeating the same arguments with capitalist apologists and time wasters. 
 * No technology should be made from mass-mined materials
@@ -16,8 +16,6 @@
 * The wage system must be abolished
 * End work.  I am against work in all forms.  We must attack the concept of work at all levels.
 * Technology is personal, as it should be. Relationships between technology and the human body are always in mind.
-
-
 
 
 ## Design Rules

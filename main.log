@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  10 JUN 2016 11:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  10 JUN 2016 17:23
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -785,22 +785,28 @@ Package: multicol 2015/03/31 v1.8m multicolumn formatting (FMi)
 \mult@nat@firstbox=\box68
 \colbreak@box=\box69
 \mc@col@check@num=\count179
-)) (./main.aux)
+))
+\main@idxfile=\write4
+\openout4 = `main.idx'.
+
+
+Writing index file main.idx
+(./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/ucsencs.def
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
 (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
@@ -859,10 +865,10 @@ e
 File: images/frontcover.png Graphic file (type png)
 
 <use images/frontcover.png>
-Package pdftex.def Info: images/frontcover.png used on input line 19.
+Package pdftex.def Info: images/frontcover.png used on input line 20.
 (pdftex.def)             Requested size: 315.81912pt x 357.73561pt.
 
-Overfull \hbox (26.81912pt too wide) in paragraph at lines 19--20
+Overfull \hbox (26.81912pt too wide) in paragraph at lines 20--21
  [][] 
  []
 
@@ -886,9 +892,9 @@ Overfull \hbox (0.5811pt too wide) in paragraph at lines 10--20
 
  <./images/jollyroger.png>]) [3]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 34.
+(Font)              <14.4> on input line 35.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 34.
+(Font)              <7> on input line 35.
  (./main.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 3.
@@ -897,43 +903,43 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 3.
  [4]
-Overfull \hbox (2.03766pt too wide) detected at line 62
- \OT1/cmr/bx/n/12 109
+Overfull \hbox (2.03766pt too wide) detected at line 61
+ \OT1/cmr/bx/n/12 110
  []
 
 
-Overfull \hbox (2.03766pt too wide) detected at line 71
- \OT1/cmr/bx/n/12 126
+Overfull \hbox (2.03766pt too wide) detected at line 70
+ \OT1/cmr/bx/n/12 127
  []
 
 
-Overfull \hbox (2.03766pt too wide) detected at line 82
- \OT1/cmr/bx/n/12 151
+Overfull \hbox (2.03766pt too wide) detected at line 81
+ \OT1/cmr/bx/n/12 152
  []
 
 
-Overfull \hbox (2.03766pt too wide) detected at line 87
- \OT1/cmr/bx/n/12 158
+Overfull \hbox (2.03766pt too wide) detected at line 86
+ \OT1/cmr/bx/n/12 159
  []
 
 
-Overfull \hbox (2.03766pt too wide) detected at line 93
- \OT1/cmr/bx/n/12 175
+Overfull \hbox (2.03766pt too wide) detected at line 92
+ \OT1/cmr/bx/n/12 176
+ []
+
+
+Overfull \hbox (2.03766pt too wide) detected at line 100
+ \OT1/cmr/bx/n/12 184
  []
 
 
 Overfull \hbox (2.03766pt too wide) detected at line 101
- \OT1/cmr/bx/n/12 182
+ \OT1/cmr/bx/n/12 197
  []
 
 
-Overfull \hbox (2.03766pt too wide) detected at line 102
- \OT1/cmr/bx/n/12 195
- []
-
-
-Overfull \hbox (2.03766pt too wide) detected at line 119
- \OT1/cmr/bx/n/12 210
+Overfull \hbox (2.03766pt too wide) detected at line 118
+ \OT1/cmr/bx/n/12 212
  []
 
 ) (./main.lof
@@ -997,32 +1003,36 @@ Overfull \hbox (1.02199pt too wide) in paragraph at lines 168--175
  []
 
 [10] [11] [12]
-Overfull \hbox (11.5492pt too wide) in paragraph at lines 264--275
+Overfull \hbox (11.5492pt too wide) in paragraph at lines 258--269
 []\OT1/cmr/m/n/12 I'm against en-gi-neer-ing and de-sign as pro-fes-sions. Whil
 e
  []
 
 [13] [14]
-Overfull \hbox (4.60677pt too wide) in paragraph at lines 314--329
+Overfull \hbox (4.60677pt too wide) in paragraph at lines 308--323
 []\OT1/cmr/m/n/12 All the el-e-ments I de-scribe in the ex-am-ple above should
  []
 
-[15] [16] [17] [18] [19] [20]
-<images/banachtarski1.png, id=106, 265.2309pt x 221.1462pt>
+[15] [16] [17] [18] [19]
+<images/banachtarski1.png, id=103, 265.2309pt x 221.1462pt>
 File: images/banachtarski1.png Graphic file (type png)
 
 <use images/banachtarski1.png>
-Package pdftex.def Info: images/banachtarski1.png used on input line 452.
+Package pdftex.def Info: images/banachtarski1.png used on input line 446.
 (pdftex.def)             Requested size: 265.23024pt x 221.14565pt.
-
+ [20]
 <images/ecoli.png, id=107, 254.3904pt x 193.6836pt>
 File: images/ecoli.png Graphic file (type png)
  <use images/ecoli.png>
-Package pdftex.def Info: images/ecoli.png used on input line 463.
+Package pdftex.def Info: images/ecoli.png used on input line 457.
 (pdftex.def)             Requested size: 254.38977pt x 193.6831pt.
 
-[21 <./images/banachtarski1.png>] [22 <./images/ecoli.png>] [23] [24]) [25]
-(./free_technology.tex
+[21 <./images/banachtarski1.png>] [22 <./images/ecoli.png>] [23] [24]
+Overfull \hbox (0.97847pt too wide) in paragraph at lines 544--553
+[]\OT1/cmr/m/n/12 I'm against the ma-chine. That's what this is all about.
+ []
+
+[25]) [26] (./free_technology.tex
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 17.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
@@ -1030,26 +1040,31 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 17.
- [26
+ [27
 
-] [27]
-[28] [29] [30] [31] [32] [33] [34]
-Overfull \hbox (2.45808pt too wide) in paragraph at lines 220--226
+] [28]
+[29]
+Overfull \hbox (4.15529pt too wide) in paragraph at lines 78--90
+\OT1/cmr/m/n/12 What is the con-nec-tion be-tween free tech-nol-ogy and ``open
+ []
+
+[30] [31] [32] [33] [34] [35]
+Overfull \hbox (2.45808pt too wide) in paragraph at lines 224--230
 []\OT1/cmr/m/n/12 Anarchist tech-nol-ogy also breaks bar-ri-ers be-tween cus-
  []
 
-[35]
-Underfull \hbox (badness 10000) in paragraph at lines 258--262
+[36]
+Underfull \hbox (badness 10000) in paragraph at lines 268--272
 
  []
 
 
-Overfull \hbox (105.00009pt too wide) in paragraph at lines 264--267
+Overfull \hbox (105.00009pt too wide) in paragraph at lines 274--277
 []\OT1/cmr/m/n/12 communication/networking/controls/automation/audio/video/VR/A
 R
  []
 
-[36] [37] [38] [39]) [40] [41] (./Principles.tex
+[37] [38] [39] [40] [41]) [42] (./Principles.tex
 Underfull \hbox (badness 10000) in paragraph at lines 20--23
 
  []
@@ -1057,7 +1072,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--23
 
 Underfull \vbox (badness 4518) has occurred while \output is active []
 
- [42
+ [43
 
 ]
 Overfull \hbox (5.77843pt too wide) in paragraph at lines 33--40
@@ -1070,7 +1085,7 @@ Overfull \hbox (29.94391pt too wide) in paragraph at lines 42--47
 v-
  []
 
-[43] [44]
+[44] [45]
 Underfull \hbox (badness 10000) in paragraph at lines 98--104
 
  []
@@ -1080,36 +1095,36 @@ Overfull \hbox (6.93166pt too wide) in paragraph at lines 110--115
 []\OT1/cmr/m/n/12 Every tech-no-log-i-cal com-po-nent should have the max-
  []
 
-[45]) [46] (./what_is_the_trash_wizard.tex
+[46]) [47] (./what_is_the_trash_wizard.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [47
+ [48
 
 ]
-[48] [49] [50] <images/wizardcartoon.png, id=208, 221.1462pt x 310.0383pt>
+[49] [50] [51] <images/wizardcartoon.png, id=211, 221.1462pt x 310.0383pt>
 File: images/wizardcartoon.png Graphic file (type png)
 
 <use images/wizardcartoon.png>
 Package pdftex.def Info: images/wizardcartoon.png used on input line 95.
 (pdftex.def)             Requested size: 221.14565pt x 310.03754pt.
- [51 <./images/wizardcartoon.png>]
+ [52 <./images/wizardcartoon.png>]
 Overfull \hbox (4.14696pt too wide) in paragraph at lines 122--125
 []\OT1/cmr/m/n/12 In ad-di-tion to Trash Wiz-ardry and Witch-ery one might
  []
 
-[52] [53] [54] [55] <images/cat3.png, id=226, 226.2051pt x 203.0787pt>
+[53] [54] [55] [56] <images/cat3.png, id=229, 226.2051pt x 203.0787pt>
 File: images/cat3.png Graphic file (type png)
 
 <use images/cat3.png>
 Package pdftex.def Info: images/cat3.png used on input line 219.
 (pdftex.def)             Requested size: 226.20453pt x 203.0782pt.
- <images/elements.png, id=227, 217.5327pt x 198.7425pt>
+ <images/elements.png, id=230, 217.5327pt x 198.7425pt>
 File: images/elements.png Graphic file (type png)
 
 <use images/elements.png>
 Package pdftex.def Info: images/elements.png used on input line 225.
 (pdftex.def)             Requested size: 217.53215pt x 198.742pt.
- <images/squat.png, id=228, 213.1965pt x 215.3646pt>
+ <images/squat.png, id=231, 213.1965pt x 215.3646pt>
 File: images/squat.png Graphic file (type png)
 
 <use images/squat.png>
@@ -1129,11 +1144,11 @@ Overfull \hbox (22.15799pt too wide) in paragraph at lines 242--243
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [56]
-[57 <./images/cat3.png>]
+ [57]
+[58 <./images/cat3.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [58 <./images/elements.png>]
+ [59 <./images/elements.png>]
 Overfull \hbox (8.8594pt too wide) in paragraph at lines 287--289
 []\OT1/cmr/m/n/12 conversion to robot mode where it drives it-self around 
  []
@@ -1143,28 +1158,28 @@ Overfull \hbox (6.5747pt too wide) in paragraph at lines 289--292
 []\OT1/cmr/m/n/12 convenient sin-gle shoul-der strap for com-fort-able wear
  []
 
-[59 <./images/squat.png>]
+[60 <./images/squat.png>]
 Overfull \hbox (1.28726pt too wide) in paragraph at lines 308--311
 []\OT1/cmr/m/n/12 direct wire con-nect sil-i-cone and cop-per switch board
  []
 
-[60]
+[61]
 Overfull \hbox (2.91919pt too wide) in paragraph at lines 326--329
 []\OT1/cmr/m/n/12 goggles that can in-ter-face with var-i-ous imag-ing tech-
  []
 
-[61] [62]
+[62] [63]
 Overfull \hbox (10.55661pt too wide) in paragraph at lines 393--411
 []\OT1/cmr/m/n/12 as seen here: https://www.adafruit.com/products/2885
  []
 
-[63]
+[64]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [64]
-[65] [66] [67] [68] [69] [70]) [71] (./universities.tex [72
+ [65]
+[66] [67] [68] [69] [70] [71]) [72] (./universities.tex [73
 
-] [73]
+] [74]
 Overfull \hbox (2.93262pt too wide) in paragraph at lines 65--70
 \OT1/cmr/m/n/12 Why can't bi-ol-ogy ma-jors make drugs? Why can't physics
  []
@@ -1172,16 +1187,16 @@ Overfull \hbox (2.93262pt too wide) in paragraph at lines 65--70
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [74]
+ [75]
 Underfull \vbox (badness 1097) has occurred while \output is active []
 
- [75]
+ [76]
 Overfull \hbox (4.35529pt too wide) in paragraph at lines 120--125
 \OT1/cmr/m/n/12 cause it has been so cor-ro-sive to the cul-ture of the academy
 
  []
 
-[76] [77]
+[77] [78]
 Overfull \hbox (0.32495pt too wide) in paragraph at lines 156--159
 []$\OT1/cmtt/m/n/12 https : / / www . worldcat . org / title / charles / oclc /
 
@@ -1210,13 +1225,13 @@ Overfull \hbox (19.68698pt too wide) in paragraph at lines 192--194
 s / default / files /
  []
 
-<images/Sorbonne.png, id=303, 281.853pt x 189.3474pt>
+<images/Sorbonne.png, id=306, 281.853pt x 189.3474pt>
 File: images/Sorbonne.png Graphic file (type png)
 
 <use images/Sorbonne.png>
 Package pdftex.def Info: images/Sorbonne.png used on input line 200.
 (pdftex.def)             Requested size: 281.85231pt x 189.34692pt.
- [78]
+ [79]
 Overfull \hbox (0.32495pt too wide) in paragraph at lines 204--205
 []$\OT1/cmtt/m/n/12 https : / / en . wikipedia . org / wiki / University _ of _
 
@@ -1231,27 +1246,27 @@ Overfull \hbox (0.32495pt too wide) in paragraph at lines 206--207
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [79 <./images/Sorbonne.png>] <images/roosevelt.png, id=311, 265.9536pt x 251.4
+ [80 <./images/Sorbonne.png>] <images/roosevelt.png, id=314, 265.9536pt x 251.4
 996pt>
 File: images/roosevelt.png Graphic file (type png)
 
 <use images/roosevelt.png>
 Package pdftex.def Info: images/roosevelt.png used on input line 218.
 (pdftex.def)             Requested size: 265.95294pt x 251.49898pt.
- [80 <./images/roosevelt.png>] [81]) [82] [83]
-(./RumblesRobots.tex [84
+ [81 <./images/roosevelt.png>] [82]) [83] [84]
+(./RumblesRobots.tex [85
 
-] [85] [86]
+] [86] [87]
 Overfull \hbox (0.69144pt too wide) in paragraph at lines 89--94
 []\OT1/cmr/m/n/12 In a clus-ter of Trash Magic in-dus-trial pro-duc-tion there
  []
 
-[87]
+[88]
 Overfull \hbox (2.00531pt too wide) in paragraph at lines 95--102
 []\OT1/cmr/m/n/12 Tripods can also sup-port roof and wall ma-te-ri-als, mak-
  []
 
-[88]
+[89]
 Overfull \hbox (14.27194pt too wide) in paragraph at lines 127--130
 []\OT1/cmr/m/n/12 smart phone or tablet to con-trol the IOT thing remotely--
  []
@@ -1261,7 +1276,7 @@ Overfull \hbox (0.11227pt too wide) in paragraph at lines 148--151
 \OT1/cmr/m/n/12 be driven by the sus-pend-ing wires--need lots of ther-mome-
  []
 
-[89]
+[90]
 Overfull \hbox (4.29001pt too wide) in paragraph at lines 152--155
 []\OT1/cmr/m/n/12 hydro elec-tric gen-er-a-tors with teth-ers so that the whole
 
@@ -1272,37 +1287,37 @@ Overfull \hbox (3.4414pt too wide) in paragraph at lines 160--163
 []\OT1/cmr/m/n/12 vibrating tool which can vi-brate a heavy rock-weighted
  []
 
-[90] [91] [92] <images/birdcyborg.png, id=355, 224.037pt x 286.1892pt>
+[91] [92] [93] <images/birdcyborg.png, id=358, 224.037pt x 286.1892pt>
 File: images/birdcyborg.png Graphic file (type png)
 
 <use images/birdcyborg.png>
 Package pdftex.def Info: images/birdcyborg.png used on input line 243.
 (pdftex.def)             Requested size: 224.03644pt x 286.18848pt.
 
-<images/squidcyborg.png, id=356, 222.5916pt x 284.7438pt>
+<images/squidcyborg.png, id=359, 222.5916pt x 284.7438pt>
 File: images/squidcyborg.png Graphic file (type png)
 
 <use images/squidcyborg.png>
 Package pdftex.def Info: images/squidcyborg.png used on input line 249.
 (pdftex.def)             Requested size: 222.59105pt x 284.7431pt.
- [93] [94 <./images/birdcyborg.png>] [95 <./images/squidcyborg.png>]
+ [94] [95 <./images/birdcyborg.png>] [96 <./images/squidcyborg.png>]
 Overfull \hbox (4.55112pt too wide) in paragraph at lines 283--285
 []\OT1/cmr/m/n/12 Start by build-ing and doc-u-ment-ing some ac-tual robots,
  []
 
-[96] <images/dirigible.png, id=372, 216.81pt x 349.7868pt>
+[97] <images/dirigible.png, id=375, 216.81pt x 349.7868pt>
 File: images/dirigible.png Graphic file (type png)
 
 <use images/dirigible.png>
 Package pdftex.def Info: images/dirigible.png used on input line 328.
 (pdftex.def)             Requested size: 216.80946pt x 349.78595pt.
- [97] [98] [99 <./images/dirigible.png>] [100]
+ [98] [99] [100 <./images/dirigible.png>] [101]
 Overfull \hbox (3.24557pt too wide) in paragraph at lines 398--414
 \OT1/cmr/m/n/12 pick their way across the land, work-ing with cy-borg worms
  []
 
-[101] [102] [103] [104] [105] [106]) [107] [108] (./slimeTechPolitical.tex
-[109
+[102] [103] [104] [105] [106] [107]) [108] [109] (./slimeTechPolitical.tex
+[110
 
 ]
 Overfull \hbox (2.65808pt too wide) in paragraph at lines 34--38
@@ -1310,35 +1325,32 @@ Overfull \hbox (2.65808pt too wide) in paragraph at lines 34--38
 -
  []
 
+[111]
 
 Class memoir Warning: The material used in the headers is too large
 (28.99998pt) for the given head height (14.5pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 48.
+(in both cases you will find help in the memoir manual). on input line 69.
 
 
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[110] [111]
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[112]
+[112] [113]
 Overfull \hbox (8.69414pt too wide) in paragraph at lines 112--123
 []\OT1/cmr/m/n/12 Just the wave or stream pow-ered de-sali-na-tor and burner
  []
 
-[113]
-Overfull \hbox (1.80948pt too wide) in paragraph at lines 124--138
-\OT1/cmr/m/n/12 gen, wa-ter can pro-vide many other use-ful chem-i-cals, many
- []
-
 
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[114] [115]
+[114]
+Overfull \hbox (1.80948pt too wide) in paragraph at lines 124--138
+\OT1/cmr/m/n/12 gen, wa-ter can pro-vide many other use-ful chem-i-cals, many
+ []
+
+[115]
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
@@ -1354,14 +1366,18 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[122] [123])
+[122] [123]
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[124] [125] (./value_circles_economics.tex
+[124]) [125]
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[126] (./value_circles_economics.tex
 Underfull \vbox (badness 3312) has occurred while \output is active []
 
- [126
+ [127
 
 ]
 Overfull \hbox (4.15945pt too wide) in paragraph at lines 26--31
@@ -1369,36 +1385,36 @@ Overfull \hbox (4.15945pt too wide) in paragraph at lines 26--31
 ly
  []
 
-[127] [128] [129] [130] [131] [132] [133] [134] [135] [136] [137] [138]
-[139] [140]
+[128] [129] [130] [131] [132] [133] [134] [135] [136] [137] [138] [139]
+[140] [141]
 Overfull \hbox (7.31786pt too wide) in paragraph at lines 385--390
 \OT1/cmr/m/n/12 But I should gen-er-al-ize the con-cept of ge-o-met-ric metapho
 rs
  []
 
-[141]
+[142]
 Underfull \hbox (badness 10000) in paragraph at lines 409--413
 
  []
 
-[142] [143]
+[143] [144]
 Overfull \hbox (9.96912pt too wide) in paragraph at lines 464--487
 []\OT1/cmr/m/n/12 Ok, so sup-pose that af-ter your leisurely drugs/industrial
  []
 
-[144] [145] [146] [147] [148] [149]) [150] (./JunkCars.tex [151
+[145] [146] [147] [148] [149] [150]) [151] (./JunkCars.tex [152
 
-] [152] [153]
-[154] [155]) [156] [157] (./means_of_production.tex [158
+] [153] [154]
+[155] [156]) [157] [158] (./means_of_production.tex [159
 
-] [159]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
+]
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [160]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [161]
 Overfull \hbox (0.3081pt too wide) in paragraph at lines 84--89
 \OT1/cmr/m/n/12 tried to erase lines be-tween protest, oc-cu-pa-tion and party.
 
@@ -1407,14 +1423,14 @@ Overfull \hbox (0.3081pt too wide) in paragraph at lines 84--89
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [161]
-Underfull \vbox (badness 1097) has occurred while \output is active []
-
 
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[162] [163]
+[162]
+Underfull \vbox (badness 1097) has occurred while \output is active []
+
+ [163]
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
@@ -1427,32 +1443,28 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
 [168] [169]
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[170]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
+ [171]
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[170] [171]
+[172] [173]
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[172] [173])
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+[174]) [175] (./visions.tex [176
 
-
-[174] (./visions.tex [175
-
-]
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[176]
+] [177]
 Overfull \hbox (0.73033pt too wide) in paragraph at lines 53--58
 []\OT1/cmr/m/n/12 Living in the deep ocean, on the sur-face, in the storms,
  []
 
-[177]
+
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
@@ -1460,30 +1472,30 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[180] [181])
+[180] [181]
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[182] (./problems.tex [183
+[182]) [183] (./problems.tex [184
 
-] [184]
+] [185]
 Overfull \hbox (5.59138pt too wide) in paragraph at lines 66--73
 \OT1/cmr/m/n/12 heal-ing tra-di-tions out-side con-ven-tional West-ern medicine
 ). 
  []
 
-[185] [186] [187] [188]
+[186] [187] [188] [189]
 Overfull \hbox (2.979pt too wide) in paragraph at lines 174--186
 \OT1/cmr/m/n/12 I have to dis-tin-guish be-tween this project and the ``maker''
 
  []
 
-[189] [190] [191] [192]
+[190] [191] [192] [193]
 Overfull \hbox (4.5076pt too wide) in paragraph at lines 274--278
 \OT1/cmr/m/n/12 oth-ers to make more art. The el-e-ments of this are through-
  []
 
-[193] [194]) [195] (./techniquesBook1.tex [196
+[194] [195]) [196] (./techniquesBook1.tex [197
 
 ]
 Overfull \hbox (1.41235pt too wide) in paragraph at lines 25--29
@@ -1491,7 +1503,7 @@ Overfull \hbox (1.41235pt too wide) in paragraph at lines 25--29
 
  []
 
-[197] [198] [199] [200] [201] [202] [203] [204]
+[198] [199] [200] [201] [202] [203] [204] [205]
 Overfull \hbox (3.50668pt too wide) in paragraph at lines 220--228
 \OT1/cmr/m/n/12 ter wheels made from sim-ple ar-range-ments of sticks should
  []
@@ -1499,21 +1511,21 @@ Overfull \hbox (3.50668pt too wide) in paragraph at lines 220--228
 
 Underfull \vbox (badness 2556) has occurred while \output is active []
 
- [205]
-[206] [207] [208] [209]) [210] (./lets_build.tex
+ [206]
+[207] [208] [209] [210]) [211] (./lets_build.tex
 Overfull \hbox (30.13011pt too wide) in paragraph at lines 22--23
 []\OT1/cmr/m/n/12 I will list the things I'll leave for other projects/publicat
 ions: 
  []
 
-[211
+[212
 
-] [212]
+] [213]
 Overfull \hbox (3.57196pt too wide) in paragraph at lines 89--91
 []\OT1/cmr/m/n/12 Other aca-demic work you can con-tribute as a scholar 
  []
 
-[213]
+[214]
 Overfull \hbox (0.69977pt too wide) in paragraph at lines 164--168
 []\OT1/cmr/m/n/12 stepper mo-tor driven by po-ten-tiome-ter so knob goes
  []
@@ -1523,7 +1535,7 @@ Overfull \hbox (0.82616pt too wide) in paragraph at lines 164--168
 \OT1/cmr/m/n/12 to wheel di-rectly with one Ar-duino per mo-tor+knob
  []
 
-[214] [215] [216] [217] [218]
+[215] [216] [217] [218] [219]
 Overfull \hbox (3.31085pt too wide) in paragraph at lines 292--299
 \OT1/cmr/m/n/12 mak-ing waves, which can be ob-served us-ing a strobe,
  []
@@ -1533,39 +1545,41 @@ Overfull \hbox (3.32845pt too wide) in paragraph at lines 292--299
 \OT1/cmr/m/n/12 am-pli-fied mag-netic pickup. With the mag-ni-fier built
  []
 
-[219]
+[220]
 Overfull \hbox (10.2955pt too wide) in paragraph at lines 312--314
 []\OT1/cmr/m/n/12 evaporative cool-ing re-frig-er-a-tor driven by wa-ter wheel 
 
  []
 
-[220])
+[221]) [222]
+runsystem(makeindex main.idx)...executed.
+
+ (./main.ind)
 
 Class memoir Warning: The material used in the headers is too large
 (28.99998pt) for the given head height (14.5pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 83.
+(in both cases you will find help in the memoir manual). on input line 85.
 
-[221]
-\tf@toc=\write4
-\openout4 = `main.toc'.
+\tf@toc=\write5
+\openout5 = `main.toc'.
 
-\tf@lof=\write5
-\openout5 = `main.lof'.
+\tf@lof=\write6
+\openout6 = `main.lof'.
 
- (./main.aux)
+(./main.aux)
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 12769 strings out of 493089
- 221784 string characters out of 6134842
- 303859 words of memory out of 5000000
- 16097 multiletter control sequences out of 15000+600000
+ 12779 strings out of 493089
+ 221909 string characters out of 6134842
+ 304895 words of memory out of 5000000
+ 16103 multiletter control sequences out of 15000+600000
  9976 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 50i,11n,41p,10430b,329s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 50i,11n,41p,10430b,368s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
 /usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></u
@@ -1573,10 +1587,10 @@ sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></us
 r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
 /local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/
 local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (229 pages, 943038 bytes).
+Output written on main.pdf (230 pages, 944751 bytes).
 PDF statistics:
- 806 PDF objects out of 1000 (max. 8388607)
- 530 compressed objects within 6 object streams
+ 809 PDF objects out of 1000 (max. 8388607)
+ 532 compressed objects within 6 object streams
  0 named destinations out of 1000 (max. 500000)
  81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
