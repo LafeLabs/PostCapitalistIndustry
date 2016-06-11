@@ -1,0 +1,55 @@
+## glossary terms
+
+- trash magic
+- trash
+- magic
+- capitalism
+- anarchism
+- number worship
+- wizard
+- witch
+- skeletron
+- kit
+- stick
+- slimezistor
+- ion
+- ion magic
+- monotheism
+- tale
+- lore
+- value circle
+- value tree
+- money
+- ambient energy
+- occupation
+- insurrection
+- alchemy
+- applied physics
+- theory
+- fluidics
+- HDPE
+- LDPE
+- Molecular Nanotechnology
+- fab
+- 3d printer
+- art
+- science
+- slime
+- transistor
+- arduino
+- microcontroller
+- microprocessor
+- micro fabrication
+- Silicon Valley
+- "tech"
+- technocratic Priesthood
+- complete technological set
+- rumble
+- plasma
+- fractal
+- electrochemical probe
+- noise
+- tripod
+- whirligig
+- neoliberal
+- reaganist

@@ -16,7 +16,7 @@
 \contentsline {subsection}{What about Open Source?}{30}
 \contentsline {subsection}{Free Everything!}{32}
 \contentsline {subsection}{A Technological Complete Set}{36}
-\contentsline {subsubsection}{Destroying the Economy}{36}
+\contentsline {subsection}{Destroy the Economy}{42}
 \contentsline {chapter}{\chapternumberline {3}Principles}{43}
 \contentsline {subsection}{Statement of Principles}{43}
 \contentsline {subsection}{Design Rules}{45}
@@ -26,99 +26,96 @@
 \contentsline {subsection}{What is a Trash Witch? What is a Trash Wizard?}{49}
 \contentsline {subsection}{Alchemy, Chemistry and Art}{54}
 \contentsline {subsection}{Symbology}{56}
-\contentsline {subsection}{Capitalisms Unwanted: a Human Treasure}{58}
-\contentsline {subsection}{What Does the Trash Wizard Stick do and have?}{60}
-\contentsline {subsection}{Trash wizard multi tool}{62}
-\contentsline {subsection}{Free Phones of the Future}{63}
-\contentsline {subsection}{How to Build the Team to build the Technology}{66}
-\contentsline {subsection}{Skeletron: The Wooden Bones of Art}{71}
-\contentsline {chapter}{\chapternumberline {5}Universities}{73}
-\contentsline {subsection}{Universities: Visions of Utopia}{73}
-\contentsline {subsection}{Brief History of the University}{74}
-\contentsline {subsection}{Undergraduate Education: Broken Promises}{74}
-\contentsline {subsection}{Science Grad School: The Ponzi Scheme}{76}
-\contentsline {subsection}{Hollowing Out of the Academy}{77}
-\contentsline {subsection}{Intellectual Property}{77}
-\contentsline {subsection}{Potential Paradises}{78}
-\contentsline {subsection}{University Occupations, Phase 2}{78}
-\contentsline {subsection}{Case Study: MIT and Harvard}{78}
-\contentsline {subsection}{Case Study: University of Paris(Sorbonne)}{80}
-\contentsline {subsection}{Case Study: Roosevelt Island}{81}
-\contentsline {subsubsection}{this chapter should have a section with a detailed example}{82}
-\contentsline {subsubsection}{The Universities are a Disaster}{82}
-\contentsline {subsubsection}{But they're really useful to us}{83}
-\contentsline {chapter}{\chapternumberline {6}Rumbles of Robots}{85}
-\contentsline {subsection}{Robots!}{85}
-\contentsline {subsection}{A Rumble of Robots}{86}
-\contentsline {subsection}{The Tripod and Multitool}{87}
-\contentsline {subsection}{Octahedral Ball Drone}{91}
-\contentsline {subsection}{Wind Desert Drift Robots}{92}
-\contentsline {subsection}{Cyborgs}{94}
-\contentsline {subsection}{Building an Ent}{94}
-\contentsline {subsection}{Flying Robots}{98}
-\contentsline {subsection}{How Robots Reproduce}{99}
-\contentsline {subsection}{Littoral Robots}{101}
-\contentsline {subsection}{Hopping, rolling, walking, running, jumping, driving}{102}
-\contentsline {subsection}{Robots with different times scales, centuries of work, or hours of lifetime}{102}
-\contentsline {subsection}{rumble jacks}{103}
-\contentsline {chapter}{\chapternumberline {7}Free Drugs, SlimeZistors, and Ion Magic}{110}
-\contentsline {subsection}{Technology Should be Slimy and Dirty}{110}
-\contentsline {subsection}{What is Fluidics and why do we care?}{112}
-\contentsline {subsection}{Light Magnification and Projection}{112}
-\contentsline {subsection}{clean water}{113}
-\contentsline {subsection}{Rants about free transistors vs.~Fascist Transistors}{113}
-\contentsline {subsection}{from the blog:}{113}
-\contentsline {subsection}{another blog post:}{118}
-\contentsline {subsection}{and another:}{121}
-\contentsline {chapter}{\chapternumberline {8}Magic Tales and Magic Lore}{127}
-\contentsline {subsubsection}{Magic Tales and Magic Lore}{127}
-\contentsline {subsubsection}{Currency Diagrams}{130}
-\contentsline {subsubsection}{Creation of Value}{131}
-\contentsline {subsubsection}{More on Value Circles}{133}
-\contentsline {subsubsection}{On Money and Additive Value}{135}
-\contentsline {subsubsection}{Free Feed of the Value Circles}{141}
-\contentsline {subsubsection}{Courier system}{142}
-\contentsline {subsubsection}{Also value trees}{142}
-\contentsline {subsubsection}{Trash Wizard Interaction with Capitalist Economics}{143}
-\contentsline {subsubsection}{Specifically The Post Capitalist Sex Industry}{144}
-\contentsline {chapter}{\chapternumberline {9}The Great Junk Car Feed}{152}
-\contentsline {subsection}{Cars are Death, Death to Cars}{152}
-\contentsline {subsection}{Magical Answers!}{155}
-\contentsline {subsection}{End Game: End All Cars}{156}
-\contentsline {subsection}{Free Lives Don't Need Cars}{157}
-\contentsline {chapter}{\chapternumberline {10}Factories Everywhere and Nowhere}{159}
-\contentsline {subsection}{Slipping Between the Cracks}{159}
-\contentsline {subsection}{Bring the Means of Production to the Action}{162}
-\contentsline {subsection}{Production in Autonomous zones}{163}
-\contentsline {subsection}{Life in the Delta}{169}
-\contentsline {subsection}{Guerrilla Fairy Art}{172}
-\contentsline {chapter}{\chapternumberline {11}Visions of a Better Tomorrow}{176}
-\contentsline {subsection}{Ent Moot}{176}
-\contentsline {subsection}{Memoirs from a Bathtub}{176}
-\contentsline {subsection}{Storm's a' commin'}{177}
-\contentsline {subsection}{wizards rolling in the valley}{177}
-\contentsline {subsection}{Ramblin' youth}{178}
-\contentsline {subsection}{Riding Against Thor: the story of warriors of the storm stealing clean water from the gods of Thunder}{178}
-\contentsline {subsection}{Poop Story}{179}
-\contentsline {chapter}{\chapternumberline {12}Free Everything}{184}
-\contentsline {chapter}{\chapternumberline {13}Techniques}{197}
-\contentsline {subsection}{Finding the Right Sticks}{198}
-\contentsline {subsection}{Processing Sticks Into Skeletron}{199}
-\contentsline {subsection}{Finding the Right Plastic}{201}
-\contentsline {subsection}{Plastic Welding}{202}
-\contentsline {subsection}{Salvage Components From Busted Electronics}{204}
-\contentsline {subsection}{How to Solder}{205}
-\contentsline {subsection}{Sticks for Hydraulic Machines}{206}
-\contentsline {subsection}{Sticks for Fluidics}{206}
-\contentsline {subsection}{Chipping Rocks}{207}
-\contentsline {subsection}{Measuring real time voltages and fluxes with an Arduino}{207}
-\contentsline {subsection}{Measuring Electrical Transport of Slime}{208}
-\contentsline {subsection}{Finding Creepy Crawlies}{208}
-\contentsline {subsection}{Design a new 3d Thing}{209}
-\contentsline {subsection}{How I Wrote This}{209}
-\contentsline {subsection}{How to Color Your Wood Stuff}{210}
-\contentsline {subsection}{Rope Work}{211}
-\contentsline {chapter}{\chapternumberline {14}Let's Build This!}{212}
-\contentsline {subsection}{let's build this!}{212}
-\contentsline {subsubsection}{circuits:}{215}
-\contentsline {subsection}{public guerilla art}{218}
+\contentsline {subsection}{Capitalisms Unwanted: a Human Treasure}{57}
+\contentsline {subsection}{Skeletron: The Wooden Bones of Art}{61}
+\contentsline {subsection}{Trash Magic Kit: The Stickening}{62}
+\contentsline {chapter}{\chapternumberline {5}Universities}{67}
+\contentsline {subsection}{Universities: Visions of Utopia}{67}
+\contentsline {subsection}{Brief History of the University}{68}
+\contentsline {subsection}{Undergraduate Education: Broken Promises}{68}
+\contentsline {subsection}{Science Grad School: The Ponzi Scheme}{70}
+\contentsline {subsection}{Hollowing Out of the Academy}{71}
+\contentsline {subsection}{Intellectual Property}{71}
+\contentsline {subsection}{Potential Paradises}{72}
+\contentsline {subsection}{University Occupations, Phase 2}{72}
+\contentsline {subsection}{Case Study: MIT and Harvard}{72}
+\contentsline {subsection}{Case Study: University of Paris(Sorbonne)}{74}
+\contentsline {subsection}{Case Study: Roosevelt Island}{75}
+\contentsline {subsubsection}{this chapter should have a section with a detailed example}{76}
+\contentsline {subsubsection}{The Universities are a Disaster}{76}
+\contentsline {subsubsection}{But they're really useful to us}{77}
+\contentsline {chapter}{\chapternumberline {6}Rumbles of Robots}{79}
+\contentsline {subsection}{Robots!}{79}
+\contentsline {subsection}{A Rumble of Robots}{80}
+\contentsline {subsection}{The Tripod and Multitool}{81}
+\contentsline {subsection}{Octahedral Ball Drone}{85}
+\contentsline {subsection}{Wind Desert Drift Robots}{86}
+\contentsline {subsection}{Cyborgs}{88}
+\contentsline {subsection}{Building an Ent}{88}
+\contentsline {subsection}{Flying Robots}{92}
+\contentsline {subsection}{How Robots Reproduce}{93}
+\contentsline {subsection}{Littoral Robots}{95}
+\contentsline {subsection}{Hopping, rolling, walking, running, jumping, driving}{96}
+\contentsline {subsection}{Robots with different times scales, centuries of work, or hours of lifetime}{96}
+\contentsline {subsection}{rumble jacks}{97}
+\contentsline {chapter}{\chapternumberline {7}Free Drugs, SlimeZistors, and Ion Magic}{104}
+\contentsline {subsection}{Technology Should be Slimy and Dirty}{104}
+\contentsline {subsection}{What is Fluidics and why do we care?}{106}
+\contentsline {subsection}{Light Magnification and Projection}{106}
+\contentsline {subsection}{clean water}{107}
+\contentsline {subsection}{Rants about free transistors vs.~Fascist Transistors}{107}
+\contentsline {subsection}{from the blog:}{107}
+\contentsline {subsection}{another blog post:}{112}
+\contentsline {subsection}{and another:}{115}
+\contentsline {chapter}{\chapternumberline {8}Magic Tales and Magic Lore}{121}
+\contentsline {subsubsection}{Magic Tales and Magic Lore}{121}
+\contentsline {subsubsection}{Currency Diagrams}{124}
+\contentsline {subsubsection}{Creation of Value}{125}
+\contentsline {subsubsection}{More on Value Circles}{127}
+\contentsline {subsubsection}{On Money and Additive Value}{129}
+\contentsline {subsubsection}{Free Feed of the Value Circles}{135}
+\contentsline {subsubsection}{Courier system}{136}
+\contentsline {subsubsection}{Also value trees}{136}
+\contentsline {subsubsection}{Trash Wizard Interaction with Capitalist Economics}{137}
+\contentsline {subsubsection}{Specifically The Post Capitalist Sex Industry}{138}
+\contentsline {chapter}{\chapternumberline {9}The Great Junk Car Feed}{146}
+\contentsline {subsection}{Cars are Death, Death to Cars}{146}
+\contentsline {subsection}{Magical Answers!}{149}
+\contentsline {subsection}{End Game: End All Cars}{150}
+\contentsline {subsection}{Free Lives Don't Need Cars}{151}
+\contentsline {chapter}{\chapternumberline {10}Factories Everywhere and Nowhere}{153}
+\contentsline {subsection}{Slipping Between the Cracks}{153}
+\contentsline {subsection}{Bring the Means of Production to the Action}{156}
+\contentsline {subsection}{Production in Autonomous zones}{157}
+\contentsline {subsection}{Life in the Delta}{163}
+\contentsline {subsection}{Guerrilla Fairy Art}{166}
+\contentsline {chapter}{\chapternumberline {11}Visions of a Better Tomorrow}{170}
+\contentsline {subsection}{Ent Moot}{170}
+\contentsline {subsection}{Memoirs from a Bathtub}{170}
+\contentsline {subsection}{Storm's a' commin'}{171}
+\contentsline {subsection}{wizards rolling in the valley}{171}
+\contentsline {subsection}{Ramblin' youth}{172}
+\contentsline {subsection}{Riding Against Thor: the story of warriors of the storm stealing clean water from the gods of Thunder}{172}
+\contentsline {subsection}{Poop Story}{173}
+\contentsline {chapter}{\chapternumberline {12}Free Everything}{178}
+\contentsline {chapter}{\chapternumberline {13}Techniques}{191}
+\contentsline {subsection}{Finding the Right Sticks}{192}
+\contentsline {subsection}{Processing Sticks Into Skeletron}{193}
+\contentsline {subsection}{Finding the Right Plastic}{195}
+\contentsline {subsection}{Plastic Welding}{196}
+\contentsline {subsection}{Salvage Components From Busted Electronics}{198}
+\contentsline {subsection}{How to Solder}{199}
+\contentsline {subsection}{Sticks for Hydraulic Machines}{200}
+\contentsline {subsection}{Sticks for Fluidics}{200}
+\contentsline {subsection}{Chipping Rocks}{201}
+\contentsline {subsection}{Measuring real time voltages and fluxes with an Arduino}{201}
+\contentsline {subsection}{Measuring Electrical Transport of Slime}{202}
+\contentsline {subsection}{Finding Creepy Crawlies}{202}
+\contentsline {subsection}{Design a new 3d Thing}{203}
+\contentsline {subsection}{How I Wrote This}{203}
+\contentsline {subsection}{How to Color Your Wood Stuff}{204}
+\contentsline {subsection}{Rope Work}{205}
+\contentsline {chapter}{\chapternumberline {14}Let's Build This!}{206}
+\contentsline {subsection}{let's build this!}{206}
+\contentsline {subsubsection}{circuits:}{209}
+\contentsline {subsection}{public guerilla art}{212}

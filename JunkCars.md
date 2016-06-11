@@ -15,7 +15,7 @@ _that turn junk cars into ROBOTS_
 
 ## Cars are Death, Death to Cars
 
-Cars are the enemy of humanity.  Every year in the US cars kill over 40,000 people, and maim countless more, similar to the *total* carnage of the entire Vietnam war which lasted many years.  Globally, the death toll is well over 1 million, or 10 million in a decade.  10 million dead.  
+Cars are the enemy of humanity.  Every year in the US cars kill over 40,000 people, and maim countless more, similar to the *total* carnage for America of the entire Vietnam war which lasted many years.  Globally, the death toll is well over 1 million, or 10 million in a decade.  10 million dead.  
 
 And that is just the beginning.  Cars are central to the industrial system which has crushed our humanity.   A huge amount of our oil based economy is used by the car system, adding to climate change massively, as well as bad urban air which kills millions worldwide.  Cars create a society in which anyone who cannot drive is disenfranchised, punishing anyone without perfect health and significant funds as well as the willingness to actively destroy the world and possibly kill living things just to get through their day.  Cars have filled up the USA with enough pavement to provide solar power to the entire nation(no small feat given our absurd energy consumption now).  Runoff of oil and other toxic chemicals leaks from cars into every water system in the world, poisoning every possible ecosystem.  
 

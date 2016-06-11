@@ -12,6 +12,8 @@
 
 [Demo List](demo_list.md)
 
+[Glossary List](glossary_terms.md)
+
 [Format Notes](format_notes.md)
 
 [Technical Roadmap](technical_roadmap.md)
