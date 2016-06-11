@@ -22,6 +22,8 @@
 
 [Illustrations for Book I](illustrations_for_book_i.md)
 
+[3d files for volume 1 ](3dfilesVolume1List.md)
+
 ### Book 1. Philosophy of Trash Magic: Ways of Witchery and Wizardry
 
 
@@ -58,18 +60,13 @@
 12. [Supply chain data structures, call to action](data_structures.md)
 
 
-### Other Media:
+## Other media, volume I only
 
-1. iPython notebooks with all the relevant calculations, with specific examples
-2. all the Arduino code required to run the motors
-3. all the Python code required to control the robots
-4. 3d files of all the various parts, fairly accurate
-5. 3d files of various artistic expressions of components, with 3d coloring book feature
-6. illustrations of all the major ideas in coloring book format
-7. Video content showing how to build the whole system up from scratch
-8. Video content of going out in The Field to deploy Trash Magic in different places
-9. video content of POV robot adventures of various kinds: hop, walk, run, roll, soar, float, swim, crawl
-9. Detailed instructions on how to build all the components
-10. physical goods distributed in various ways, both for free and for Fed debt
-11. polished stone cubes given away to people
-12. python code to build up 3d circuits
+1. 3d files for each chapter, with a VR fly thru, and 3d printer files and photos with paint, also made without 3d printers(mine are hand made)
+2. videos for each chapter
+3. all illustrations are coloring book images
+4. artifacts distributed with the book
+5. documentation for tale and lore for artifacts: noise stick, vibration stick, whirligig USB charger
+6. hard cover made from soft cover by hand using trash, with magic integrated into cover
+
+

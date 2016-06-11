@@ -46,7 +46,6 @@ I will list the things I'll leave for other projects/publications:
 - what you can do to spread the word and build community
 - Other academic work you can contribute as a scholar
 - Machines you could build outside this system which can start a new value circle
-- 
 
 
 This section should have some basic assembly plans and information to get started even without the second volume.  

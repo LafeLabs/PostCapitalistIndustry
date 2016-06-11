@@ -1,6 +1,6 @@
-This link is key:
-<http://undercommoning.org>
-There is already a whole movement.  They have the ideas and the people and the strategy and tactics, so all I need to do is cite them a lot and add the technical industrial components.  
+The university system is a disaster in just about every way possible.  However the *potential* of this system is too great to ignore.  The potential of all those excited young people ready to change the world who also happen to be on some of the nicest land in the world, in institutions which have a fair amount of independence can truly change the world if they change how they are run. 
+
+Much of this chapter should not be written by me but by the people who are scholars of the history of student insurrections.  Student insurrection has been a critical component of both university life and revolutionary practice for many centuries.  There are whole movements dedicated to this kind of work, some of which are documented in the Undercommons Project at <http://undercommoning.org>.  If you are on a university campus, study the links contained there and study university history and the history of student revolt globally.  Study this history and learn how to apply it to your own story and your own campus.  
 
 
 ## Universities: Visions of Utopia
@@ -8,20 +8,6 @@ There is already a whole movement.  They have the ideas and the people and the s
 If the university campus lived up to its potential it could be a true paradise: essentially a giant garden filled with buildings for studying and creating knowledge.  Amazing!  They are usually situated on some of the best land to be found anywhere, have great access to everything needed in life, and have dense urban style housing in a pastoral environment which allows for a simple, car free life.  
 
 University campuses are often physically spectacular.  They often have some of the greatest examples of art and architecture of available both used in their construction and lovingly maintained for in some cases hundreds of years.  It is typical for them to have wooded areas owned by the university, as well as often running water and in many cases access to very large bodies of water.  University campuses are often more self contained than most institutions, creating their own power and managing their own utilities, and having a fair amount of autonomy from local government.  
-
-
-## Brief History of the University
-
-Where did the universities come from?  
-
-University as a challenge to secular corporate rule.  
-
-Looking up sources at UAA library.  
-
-The universities of Europe, 1100-1914 : a history
-is at LA627.R82 1984
-
-This needs extensive library research.
 
 
 ## Undergraduate Education: Broken Promises
@@ -58,98 +44,39 @@ It is now standard practice for public tax money to be spent to create knowledge
 
 ## Potential Paradises
 
+How should a university work, after the fall of capitalism and the takeover of their administration?  They must be self-sufficient.  They must grow all their own food and produce all their own energy and industrial goods.  They must be able to maintain the core knowledge contained in the libraries with equal or superior care to the existing capitalist system, as that is the heart of the university.  
+
+The education of the incoming young people who are now called "undergraduates" must be joined with the construction of this new world.  That is, undergraduates will combine learning with labor to actually physically grow the food, build the robots, build the industrial production, build the energy infrastructure etc. The graduate education will combine more advanced and specialized practical work with more scholarship: writing and reading as it has been done by scholars for thousands of years.  What are now called "staff" must be integrated into this as well, both on the scholarship and on the work and the development of new methods of work. Bringing the staff into your insurrection early also creates powerful allies for later on as you fully take over the school.  
+
+
 ## University Occupations, Phase 2
 
-Any history of any radical movement will inevitably involve student occupations.  Students typically take over some space on campus, keep the land from the cops, and carry out various protest actions or teach ins over some number of days or maybe weeks.  In some cases they stand down after actually getting some demands met by the administration.  
+Any history of any radical movement will inevitably involve student occupations.  Students typically take over some space on campus, keep the land from the cops, and carry out various protest actions or teach ins over some number of days or maybe weeks.  In some cases they stand down after actually getting some demands met by the administration.   And then they end, and everyone moves on.  
+
+I suggest that as with all occupations one way they can continue is to create art that can be moved and lasts and is taken from one action to another, creating a whole narrative that passes along both the ideas and products of each action to the next, creating a snowball effect.  The purpose of this chapter is to gently nudge people in the direction of building this kind of infrastructure instead of just running a protest as long as possible until the inevitable crackdown.  
 
 
-## Case Study: MIT and Harvard
-
-MIT(Massachusetts Institute of Technology) and Harvard share a strategic position along a tidal waterway, the Charles River.   I will look at both of them here and point to how an insurrection in either institution could grow out into that river and have lasting impact after the initial event.  
-
-And what of the Charles River?  
-
-<https://www.worldcat.org/title/charles/oclc/990111> looks like a good reference, can be found in denver libraries and dc, but not anchorage.  
-
-- How much land owned?
-- How much is arable?
-- How much is already zoned for ag?
-- What water resrouces are there?
-- number of staff, students, alumni, faculty
-- How many people could Yale support?
-- Holdings outside New Haven
-- Yale Singapore
-- Repurposing the Endowment, total divestment from capitalism
-- political and legal process of re-writing the charter of the school, changing governance
-
-yale history:
-https://www.worldcat.org/title/yale-university/oclc/40331263&referer=brief_results
-
-yale land holdings:
-
-<http://sustainability.yale.edu/planning-progress/areas-focus/landscape>
-
-charter:
-<http://www.yale.edu/sites/default/files/files/University-Charter.pdf>
-
-
-## Case Study: University of Paris(Sorbonne)
+## Case Study: Your School
 
 ![The Sorbonne](images/Sorbonne.png)
 
-
-<https://en.wikipedia.org/wiki/University_of_Paris>
-
-<https://en.wikipedia.org/wiki/University_of_Paris_strike_of_1229>
-
-## Case Study: Roosevelt Island
-
-Need to go look up reports on this project, detailed maps of the island, go see it and investigate, take pictures.  
-
-
-<https://en.wikipedia.org/wiki/Cornell_Tech>
-
 ![Map showing location of Roosevelt Island in the East River, between Manhattan island and the Eastern boroughs of New York City.](images/roosevelt.png)
 
-### this chapter should have a section with a detailed example
-maps, tables, really dig in and figure out the strategy and tactics that could be used, maybe have multiple examples, small liberal arts, huge public school, elite private school, community college in a big city
+You have to write this section and integrate it into your version of the text, if you are connected with a university.  
 
-### The Universities are a Disaster
+How much land does the school own?  Map that, and go walk the land and figure out what is on it and how it flows.  What energy resources are connected to that land?  A creek or river or ocean is your first choice.  In many cases the local river is near but not directly adjoining the campus.  Figure out what a supply chain would look like that would connect infrastructure you build between the cracks of the property society on that river with the campus.  Can you charge batteries in large numbers and bring them to campus using courtiers?  Can you build hidden power lines to bring power in?  What about water, can you purify that, bottle it, and bring it in by courier?  Study the map you make of your campus and environs, and figure out what it would look like to get supply chains built up that will function under martial law, in all out war with the campus police.  
 
+Do not just plan for the short term! If you play chess with the campus police you will lose; you want to play go.  In go, territory is captured and lost in a dynamic way, and those gains and losses can oscillate forever in theory.  You want to build long term strategy that involves not just holding an administration building for as long as possible, but to become a force that flows around campus, rising and falling as you see opportunities, and fading away.  University insurrections have always suffered from a lack of strategic thought in terms of how land is taken and held.  Realize that as soon as you create any sort of resistance fixed in geography you are handing advantage to the campus authorities.  You are fighting a guerrilla war, act accordingly.  
 
-* Academia as pyramid scam
+Also, the long term plan must be partly legal in nature, to exist within the capitalist state without further military escalation by authorities.  This means you need to recruit from the law school, and have people studying the corporate governance of your school specifically to figure out how a legal coup d'etat in which full legal control of the university corporation is won by the insurrectionists.  University corporate charters can be very complex and strange and old.  Legal documents like this often have strange legal loopholes which are hard to find but which can be exploited at the right moment in such a way that those who believe in the so-called "rule of law" can be convinced to side with the insurrection.  
 
-* Academia as tool of the military industrial State
-
-* Academia as a marketing tool for the banking cartel
-
-* Academia: where ideas go to die
-
-* Academia: it was here before capitalism and it will be here after
-
-* Has traditionally been a part of various religions and patriarchal systems connected with them
-
-IP is key to how bad it is, academia after the re-occupation of the campus all property will be banned from campus.
-
-### But they're really useful to us
-
-Back to basics: knowledge, teaching, philosophy, technology, culture, books, land, food and energy
-
-Universities must be Occupied and declared independent
-
-This should be across disciplines and outside of the capitalist class system, bringing in workers, locals, students, teachers, researchers and everyone else involved.  Seize the legal control of the corporation that is the University, and you will have a power that States must respect.  
-
-Taking universities over can be a huge international beach head that goes around all national borders.  
+Note that this "war" should never be about violence.  While the goals are similar to violent insurrections for a more democratic and free campus, the methods should never involve competing in violence with those who have made it there life's work(the campus police and their backers). Rather, we must win on superior infrastructure.  Build better things: better technology, better classes, better scholarship, better classrooms, better food, better housing, better libraries.  Do that and you can really win the academy back for the scholars away from the business scam artists who now run all universities.  
 
 
-Important reference:
+## Universities: a Global Beachhead
 
-Universities, Inc.
-
-call number: 338.43378 WASHBURN
+Taking universities over can be a huge international beach head that goes around all national borders.  Every country has them.  And they all have very energetic young people who want to change the world and try new things.  They can be of huge global importance in the years to come as the current system falls apart.  Capitalism is killing the universities, and the faculty who love the schools will see eventually that they have to abandon capitalism if they are to see what is good in the system continue past this century.  
 
 
-DPL description:
 
-"Our federal and state tax dollars are going to fund higher education. If corporations kick in a little more, should they be able to dictate the research or own the discoveries?During the past two decades, commercial forces have quietly transformed virtually every aspect of academic life. Corporate funding of universities is growing and the money comes with strings attached. In return for this funding, universities and professors are acting more and more like for-profit patent factories: university funds are shifting from the humanities and the less profitable science departments into research labs, and the skill of teaching is valued less and less. Slowly but surely, universities are abandoning their traditional role as disinterested sources of education, alternative perspectives, and wisdom.This growing influence of corporations over universities affects more than just today's college students (and their parents); it compromises the future of all those whose careers depend on a university education, and all those who will be employed, governed, or taught by the products of American universities."
 

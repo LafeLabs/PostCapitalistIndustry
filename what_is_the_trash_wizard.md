@@ -94,33 +94,30 @@ We must develop technology/art/culture which naturally appeals to and is instant
 
 Part of practicing Trash Magic is having constant access to some basic technology kit, generally based on various sticks from the above system, which can be used to build up everything else.  
 
+What are some capabilities of Trash Magic kit?
 
-1. built in measuring stick in SI and English
-2. build in measure tool for AWG of wires
-3. LRC meter that reads out on phone
-4. conversion to robot mode where it drives itself around
-5. convenient single shoulder strap for comfortable wear like a bike messenger pack
-6. random flash sticks which store MP3's of music ripped from youtube on the pi, controlled by the smart phone, and then replayed later
-7. speaker built from our technology, reading flash drives out with the pi zero
-8. pi zero
-9. High voltage storage caps(detachable)
-10. medium voltage storage caps(detachable)
-11. super cap(detacheable)
-12. LiPo Battery(detacheable)
-13. direct wire connect silicone and copper switch board for power with fail safes of various kinds
-14. screen for pi zero to read out a special dumb ass bat phone
-15. measure nonlinear voltage response to impulse of various random blobs you find around
-16. can harvest energy using a built in magnet and coil setup
-17. water pump always available
-18. trash wizard app for phone is set up for physics, interfaces with existing physics packages
-19. audio high gain amp with speaker that can get high power sound to do feedback
-20. goggles that can interface with various imaging technology using analog displays with vibrating fluids 
-21. L R and C are all measured analog using the high gain audio stick
-22. measure NOISE of all things, including Johnson and shot noise
- One of the many idiotic things capitalists say to shut up their critics is to point out that capitalism is the source of the smart phones that anti capitalists inevitably use.These devices are indeed amazing, and are no longer luxury items by any means. On the contrary, they are very much a survival tool used by the oppressed classes now, and it’s very dangerous to ignore that role this technology plays. But what aspect of them is so great? The social networking. That’s always what you need: access to the web, various messaging systems, and various commercial things like Uber and Lyft.
-Does that really need to be a computer? A truly free phone would be a pure communication tool that communicates in a distributed way like fido net of old. the sole purpose of the hardware would be to communicate images, sounds, text, and to decide where those should go. That’s it. What the hell do you need a computer for? Mostly so that The Man can spy on you and figure out how to sell you shit you don’t need, and force you to constantly throw more federal reserve debt back into the machine for more advanced machines to get more indoctrination to continue the cycle.
+1. Measuring tools: distance, position, mass, volume, temperature, pressure, etc.
+2. Electrical to acoustic probes to measure the electrical properties of our environment in real time
+3. Optical microscopy
+4. Conversion to robot mode where it drives itself around
+5. Convenient single shoulder strap for comfortable wear like a bike messenger pack
+6. Music player
+7. High voltage storage capacitors
+8. Batteries for low voltage storage
+9. free space optical audio communication(analog)
+10. fractal fluid control 
+11. can harvest energy using a built in magnet and coil setup
+12. water pump always available
+13. goggles that can interface with various imaging technology using analog displays with vibrating fluids 
+14. 3d imaging at all scales with vibration of fluids and ion transport
+
+
+## Free Phones in Trash Magic
+ One of the many idiotic things capitalists say to shut up their critics is to point out that capitalism is the source of the smart phones that anti-capitalists inevitably use.These devices are indeed amazing, and are no longer luxury items by any means. On the contrary, they are very much a survival tool used by the oppressed classes now, and it’s very dangerous to ignore that role this technology plays. But what aspect of them is so great? The social networking. That’s always what you need: access to the web, various messaging systems, and various commercial things like Uber and Lyft.
+Does that really need to be a computer? A truly free phone would be a pure communication tool that communicates in a distributed way like fido net of old. the sole purpose of the hardware would be to communicate images, sounds, text, and to decide where those should go. That’s it. What the hell do you need a computer for? Mostly so that The Man can spy on you and figure out how to sell you things you don’t need, and force you to constantly throw more federal reserve debt back into the machine for more advanced machines to get more indoctrination to continue the cycle.
 
 Don’t be fooled by the dominance of the computer technology into believing that’s inevitable. It’s not. We can get orders of magnitude more benefit from peer to peer networks than we do today as slaves to the military industrial machine if these phones were all free like freedom, linked up on free hardware all the way. This can actually be the basic informational skeleton of the value circles.
  I believe that the hardware can be re worked from the ground up based on our approach to applied electromagnetism to get something with totally new fab. But in the mean time, given that that is a lengthy applied physics research project, what can we do? My answer is to watch closely everything that has anything to do with Raspberry Pi and other “internet of things” projects in the open hardware domain. I say “open hardware” here and not free hardware, because it’s not free according to my strict definition: it relies on mine- driven fab and capitalism, and there is IP in the supply chain(and some other problems). But it’s way better in terms of open and free than the whole android/apple ecosystem.
-as seen here:https://www.adafruit.com/products/2885 (https://www.adafruit.com/products/2885)The pi zero sells for 5 dollars! And it’s free like freedom as far as the software goes, as I understand it. The problem of course is that it’s not what you’d call a product still. You need to buy a screen separately, and a battery, and some other odds and ends, and then put a package together, get all the software working, etc. It’s not trivial. Not insanely hard, but not trivial and also not really as usable as a apple or android.But surely this could change? If people want to work within the system of existing “tech” a fantastic place to focus efforts would be making this technology closer to truly free. This will be a combination of figuring out sourcing logistics on the hardware, making the software closer to what a phone user expects, and writing new software to make more free infrastructure that runs on the free hardware. If a truly free platform were to allow for the kind of peer to peer labor and goods sharing that for profit platforms now have, capitalism might just collapse overnight as people spontaneously are able to work and do things by communicating freely.
-Don’t like the phone but like “tech”? make a free phone. It will happen one way or the other, but the more ways it happens the better for everyone.
+## ...And More
+This chapter is one that must be sparse in the first edition but which will expand in the future.  That is because I have a bit of a chicken and egg problem: I need a finished manifesto to inspire me into total commitment to the applied physics research, but need the fruits of that research to properly deploy this first edition manifesto.  So I'll attempt to split the difference here, just sketching out a crude shadow of the things I plan to build, with the understanding that it's probably wildly inaccurate based on how the research will create surprises.  
+
