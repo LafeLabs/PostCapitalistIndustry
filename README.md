@@ -24,6 +24,9 @@
 
 [3d files for volume 1 ](3dfilesVolume1List.md)
 
+[videos for volume 1 ](videos.md)
+
+
 ### Book 1. Philosophy of Trash Magic: Ways of Witchery and Wizardry
 
 
@@ -67,6 +70,6 @@
 3. all illustrations are coloring book images
 4. artifacts distributed with the book
 5. documentation for tale and lore for artifacts: noise stick, vibration stick, whirligig USB charger
-6. hard cover made from soft cover by hand using trash, with magic integrated into cover
+6. hard cover made from soft cover by hand using trash, with magic integrated into cover, fiction chapter and university chapter will have user submitted versions in different copies, there will be local variations in these. 
 
 

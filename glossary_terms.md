@@ -45,6 +45,7 @@
 - technocratic Priesthood
 - complete technological set
 - rumble
+- rumbler
 - plasma
 - fractal
 - electrochemical probe
@@ -53,3 +54,6 @@
 - whirligig
 - neoliberal
 - reaganist
+- robot
+- drone
+- littoral
