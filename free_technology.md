@@ -89,7 +89,7 @@ A complete technological set has the following needs met:
  - disposal of human waste
  - temperature control inside sheltered areas: heat and cooling of air in indoor environment of some kind, construction of those shelters such that this needs minimal  
  - energy(use natural heat and coolness from the environment)
- - communication/networking/controls/automation/audio/video/VR/AR these are the real reasons we need “computers”
+ - communication/networking/controls/ automation/audio/ video/VR/AR these are the real reasons we need “computers”
  - medicine and drugs
  - make any of the tools needed for the rest of this, and do what industry might be needed to adapt to changing conditions: more people, fewer people, new
  

@@ -57,3 +57,24 @@
 - robot
 - drone
 - littoral
+- bot
+- roninbot
+- electrochemical potential
+- chemical vapor deposition(CVD)
+- ion
+- charge
+- capacitor
+- IED
+- aerostat
+- hydrostatic pressure
+- fractal reactor
+- fractal
+- Electromotive Force(EMF)
+- RF(radio frequency)
+- free space optical
+- super ent
+- cephalopod 
+- edit
+- chaos
+- feed
+- 
