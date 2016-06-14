@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  13 JUN 2016 12:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  13 JUN 2016 22:59
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -908,33 +908,33 @@ Overfull \hbox (2.03766pt too wide) detected at line 65
  []
 
 
-Overfull \hbox (2.03766pt too wide) detected at line 79
- \OT1/cmr/bx/n/12 148
+Overfull \hbox (2.03766pt too wide) detected at line 73
+ \OT1/cmr/bx/n/12 137
+ []
+
+
+Overfull \hbox (2.03766pt too wide) detected at line 78
+ \OT1/cmr/bx/n/12 144
  []
 
 
 Overfull \hbox (2.03766pt too wide) detected at line 84
- \OT1/cmr/bx/n/12 155
+ \OT1/cmr/bx/n/12 161
  []
 
 
-Overfull \hbox (2.03766pt too wide) detected at line 90
- \OT1/cmr/bx/n/12 172
+Overfull \hbox (2.03766pt too wide) detected at line 92
+ \OT1/cmr/bx/n/12 169
  []
 
 
-Overfull \hbox (2.03766pt too wide) detected at line 98
- \OT1/cmr/bx/n/12 180
+Overfull \hbox (2.03766pt too wide) detected at line 93
+ \OT1/cmr/bx/n/12 182
  []
 
 
-Overfull \hbox (2.03766pt too wide) detected at line 99
- \OT1/cmr/bx/n/12 193
- []
-
-
-Overfull \hbox (2.03766pt too wide) detected at line 116
- \OT1/cmr/bx/n/12 208
+Overfull \hbox (2.03766pt too wide) detected at line 110
+ \OT1/cmr/bx/n/12 197
  []
 
 ) (./main.lof
@@ -1347,59 +1347,46 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 3646) has occurred while \output is active []
 
  [121]
-[122] [123]
-Overfull \hbox (7.7497pt too wide) in paragraph at lines 156--158
-[]\OT1/cmr/m/n/12 transmission of phys-i-cal ar-ti-facts: couri-ers and thing-
+[122] [123] [124]
+Overfull \hbox (6.76637pt too wide) in paragraph at lines 168--174
+[]\OT1/cmr/m/n/12 Unlike cap-i-tal-ism, which en-cour-ages hoard-ing, it's clea
+r
  []
 
+[125] [126]
+Overfull \hbox (4.29001pt too wide) in paragraph at lines 207--219
+\OT1/cmr/m/n/12 traded around as value-holding items out-side of the banker
+ []
 
+[127] [128]
+Overfull \hbox (6.3136pt too wide) in paragraph at lines 263--272
+\OT1/cmr/m/n/12 nu-mer-ous other types of use-ful and (po-ten-tially)interestin
+g
+ []
+
+[129] [130] [131] [132]
+Overfull \hbox (0.11227pt too wide) in paragraph at lines 359--382
+\OT1/cmr/m/n/12 land-scape pow-er-ing them-selves, get-ting fixed by passerby,
+ []
+
+[133] [134]
+Underfull \hbox (badness 10000) in paragraph at lines 416--420
+
+ []
+
+) [135] [136] (./JunkCars.tex [137
+
+] [138] [139] [140] [141]) [142] [143]
+(./means_of_production.tex [144
+
+] [145]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [124]
-Overfull \hbox (4.15945pt too wide) in paragraph at lines 185--190
-\OT1/cmr/m/n/12 could also then be ab-bre-vi-ated to ``tales'', which in-evitab
-ly
- []
 
-
-Underfull \vbox (badness 1097) has occurred while \output is active []
-
- [125]
-[126] [127] [128] [129] [130] [131] [132] [133] [134] [135] [136] [137]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [138]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [139]
-Overfull \hbox (7.31786pt too wide) in paragraph at lines 544--549
-\OT1/cmr/m/n/12 But I should gen-er-al-ize the con-cept of ge-o-met-ric metapho
-rs
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 568--572
-
- []
-
-[140] [141] [142]
-Overfull \hbox (9.96912pt too wide) in paragraph at lines 623--646
-[]\OT1/cmr/m/n/12 Ok, so sup-pose that af-ter your leisurely drugs/industrial
- []
-
-[143] [144] [145] [146] [147] [148]) [149] (./JunkCars.tex [150
-
-] [151] [152]
-[153] [154]) [155] [156] (./means_of_production.tex [157
-
-]
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[158]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [159]
+[146]
 Overfull \hbox (0.3081pt too wide) in paragraph at lines 84--89
 \OT1/cmr/m/n/12 tried to erase lines be-tween protest, oc-cu-pa-tion and party.
 
@@ -1408,18 +1395,52 @@ Overfull \hbox (0.3081pt too wide) in paragraph at lines 84--89
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[160]
+ [147]
 Underfull \vbox (badness 1097) has occurred while \output is active []
 
- [161]
+
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[162] [163]
+[148] [149]
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[150] [151]
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[152] [153]
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[154] [155]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[156] [157]
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[158] [159])
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[160] (./visions.tex [161
+
+]
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[162]
+Overfull \hbox (0.73033pt too wide) in paragraph at lines 53--58
+[]\OT1/cmr/m/n/12 Living in the deep ocean, on the sur-face, in the storms,
+ []
+
+[163]
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
@@ -1427,60 +1448,30 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[166] [167]
+[166] [167])
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[168]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[168] (./problems.tex [169
 
- [169]
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[170] [171]
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[172]) [173] (./visions.tex [174
-
-] [175]
-Overfull \hbox (0.73033pt too wide) in paragraph at lines 53--58
-[]\OT1/cmr/m/n/12 Living in the deep ocean, on the sur-face, in the storms,
- []
-
-
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[176] [177]
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[178] [179]
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[180]) [181] (./problems.tex [182
-
-] [183]
+] [170]
 Overfull \hbox (5.59138pt too wide) in paragraph at lines 66--73
 \OT1/cmr/m/n/12 heal-ing tra-di-tions out-side con-ven-tional West-ern medicine
 ). 
  []
 
-[184] [185] [186] [187]
+[171] [172] [173] [174]
 Overfull \hbox (2.979pt too wide) in paragraph at lines 174--186
 \OT1/cmr/m/n/12 I have to dis-tin-guish be-tween this project and the ``maker''
 
  []
 
-[188] [189] [190] [191]
+[175] [176] [177] [178]
 Overfull \hbox (4.5076pt too wide) in paragraph at lines 274--278
 \OT1/cmr/m/n/12 oth-ers to make more art. The el-e-ments of this are through-
  []
 
-[192] [193]) [194] (./techniquesBook1.tex [195
+[179] [180]) [181] (./techniquesBook1.tex [182
 
 ]
 Overfull \hbox (1.41235pt too wide) in paragraph at lines 25--29
@@ -1488,7 +1479,7 @@ Overfull \hbox (1.41235pt too wide) in paragraph at lines 25--29
 
  []
 
-[196] [197] [198] [199] [200] [201] [202] [203]
+[183] [184] [185] [186] [187] [188] [189] [190]
 Overfull \hbox (3.50668pt too wide) in paragraph at lines 220--228
 \OT1/cmr/m/n/12 ter wheels made from sim-ple ar-range-ments of sticks should
  []
@@ -1496,21 +1487,21 @@ Overfull \hbox (3.50668pt too wide) in paragraph at lines 220--228
 
 Underfull \vbox (badness 2556) has occurred while \output is active []
 
- [204]
-[205] [206] [207] [208]) [209] (./lets_build.tex
+ [191]
+[192] [193] [194] [195]) [196] (./lets_build.tex
 Overfull \hbox (30.13011pt too wide) in paragraph at lines 22--23
 []\OT1/cmr/m/n/12 I will list the things I'll leave for other projects/publicat
 ions: 
  []
 
-[210
+[197
 
-] [211]
+] [198]
 Overfull \hbox (3.57196pt too wide) in paragraph at lines 90--92
 []\OT1/cmr/m/n/12 Other aca-demic work you can con-tribute as a scholar 
  []
 
-[212]
+[199]
 Overfull \hbox (0.69977pt too wide) in paragraph at lines 164--168
 []\OT1/cmr/m/n/12 stepper mo-tor driven by po-ten-tiome-ter so knob goes
  []
@@ -1520,7 +1511,7 @@ Overfull \hbox (0.82616pt too wide) in paragraph at lines 164--168
 \OT1/cmr/m/n/12 to wheel di-rectly with one Ar-duino per mo-tor+knob
  []
 
-[213] [214] [215] [216] [217]
+[200] [201] [202] [203] [204]
 Overfull \hbox (3.31085pt too wide) in paragraph at lines 292--299
 \OT1/cmr/m/n/12 mak-ing waves, which can be ob-served us-ing a strobe,
  []
@@ -1536,7 +1527,7 @@ Overfull \hbox (10.2955pt too wide) in paragraph at lines 312--314
 
  []
 
-[218] [219]) [220]
+[205] [206]) [207]
 runsystem(makeindex main.idx)...executed.
 
  (./main.ind)
@@ -1552,30 +1543,27 @@ either increase the head height or redesign the header
 \tf@lof=\write6
 \openout6 = `main.lof'.
 
-(./main.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+(./main.aux) ) 
 Here is how much of TeX's memory you used:
- 12773 strings out of 493089
- 221554 string characters out of 6134842
- 304645 words of memory out of 5000000
- 16097 multiletter control sequences out of 15000+600000
+ 12767 strings out of 493089
+ 221381 string characters out of 6134842
+ 304393 words of memory out of 5000000
+ 16091 multiletter control sequences out of 15000+600000
  9976 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  50i,11n,41p,10430b,329s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
-/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></u
-sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></us
-r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
-/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/
-local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (228 pages, 938876 bytes).
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr17.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+l12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
+10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti1
+2.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12
+.pfb>
+Output written on main.pdf (215 pages, 916948 bytes).
 PDF statistics:
- 802 PDF objects out of 1000 (max. 8388607)
- 527 compressed objects within 6 object streams
+ 757 PDF objects out of 1000 (max. 8388607)
+ 496 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 500000)
  81 words of extra memory for PDF output out of 10000 (max. 10000000)
 

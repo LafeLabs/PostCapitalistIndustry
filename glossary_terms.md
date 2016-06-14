@@ -1,5 +1,9 @@
 ## glossary terms
 
+- lazy river
+- skyline
+- virtual reality(VR)
+- augmented reality(AR)
 - trash magic
 - trash
 - magic
