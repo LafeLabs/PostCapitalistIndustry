@@ -6,7 +6,7 @@ As with materials, those spaces are incredibly rich in every possible way, when 
 
 The foul waste filled waterways of suburban New Jersey are one example.  Often spaces under freeway bridges are ignored and abandoned yet centrally located in a city.  Abandoned factories are a fantastic place to re-start industry in the places abandoned and destroyed by organized capital.  The dark, unkempt corners of various parks have places where someone can vanish from sight and be centrally located with access to people and infrastructure.  
 
-In general, our first choice for location will be somewhere that has running water.  This could be either a flow of fresh water or a tidal flow, but it is important both for a source of unlimited energy and for a source of materials. Deep water is useful for being able to move very large freight such as salvaged trucks or airplanes found underwater into position to work on in the production zone.  
+In general, our first choice for location will be somewhere that has naturally flowing water.  This could be either a flow of fresh water or a tidal flow, but it is important both for a source of unlimited energy and for a source of materials. Deep water is useful for being able to move very large freight such as salvaged trucks or airplanes found underwater into position to work on in the production zone.  
 
 Water also serves as a source of coolness for protection against hot climates.  Evaporation can be used for added cooling power using water driven pumps.  plumbing which can be taken apart, moved, and put back together should purify and move the water around, making hot bath water and god drinking water, as well as building the input for the biological and chemical reactors which will process human waste.  
 
@@ -64,7 +64,7 @@ Also, if production happens in such coast waterways but materials come from else
 
 Trash Pirates.  Southeast Asia has marine sacrifice zones where ghost ships with slave crews fish for the grocery stores of the rich world.  If a guerrilla industrial movement were to appear in this environment with vastly superior technology to the capitalists, we'll see very rapid change with no physical opposition from the nation-states.  Why? Because they have built a system where they have a vested interest in these lawless zones existing.  They have to either impose the rule of law on these places and lose their slave-caught industrial fish slaughter or they have to accept that our pirates can operate outside their "laws" just as readily as our capitalist enemies.  
 
-What if Somali pirates could offer legitimately better employment than the European companies the crews of the hijacked boats work for?  it's hard to negotiate for "hostages" who don't want to return, and dangerous to negotiate for them if when they return they all just quit and disappear into some swamp.  Let's fill in all the spaces the capitalists have chosen to neglect with new industries that combine art and culture and science and technology as one thing!  
+What if Somali pirates could offer legitimately better employment than the European companies the crews of the hijacked boats work for?  It's hard to negotiate for "hostages" who don't want to return, and dangerous to negotiate for them if when they return they all just quit and disappear into some swamp.  Let's fill in all the spaces the capitalists have chosen to neglect with new industries that combine art and culture and science and technology as one thing!  
 
 
 ## Life in the Delta

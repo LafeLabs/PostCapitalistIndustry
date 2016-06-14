@@ -9,6 +9,44 @@ It will be these three things.
 2. Noise stick driven by USB battery
 3. USB charger guerrilla art whirligig, with LEDs and glowing rocks 
 
+Vibrator:
+ - water wave generator with simple light projector
+ - vibrate water waves and use strobe shined from bottom to project waves on screen
+ - massager
+ - drive a wheel that generates high voltage on spinning plastic soda bottles
+ - drive a nail in a vibrational motion to machine both wood and stone, optimized for under water use
+ - vibrate water with microscope integrated in stick with strobe so you can control position of light scan
+ - vibrate many random wood sticks
+ - vibrate metal things in the environment 
+ - bounce a float on water
+ - bounce a high Q thing with a sound pickup from noise stick as musical instrument
+ - smash glass with resonance
+ - violently shake a pedestrian bridge 
+ - make a dumb bouncing directional robot that just always hops forward 
+ - all of the above are driven by standard USB battery which can be charged from a computer or the wall with any standard USB wall wort 
+ - pendulum drive, JJ analog
+ 
+Noise Stick:
+
+- free space optical communication, audio
+- random number stream generation
+
+Whirligig and charger:
+ - all kinds of stick pendulums that just spin around for a long time
+ - just a simple whirligig that runs forever as an undershot water wheel
+ - small bucket overshot whirligig that does nothing but spin
+ - generator that charges 5 V capacitor with any magnetic induction with either sign
+ - magnet rotor with stick bearing and big iron core pickup connected to generator
+ - whirligig that runs a light and that's all
+ - whirligig that charges USB
+ - rooftop wind whirligig that charges USB
+ 
+ 
+
+
+Also the basic 14 sculptures
+
+
 
 build a thing, start the story, teach it on, and deploy, for the three things, with examples and pictures.
 

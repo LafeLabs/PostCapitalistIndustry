@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  13 JUN 2016 22:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  14 JUN 2016 11:15
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1488,46 +1488,46 @@ Overfull \hbox (3.50668pt too wide) in paragraph at lines 220--228
 Underfull \vbox (badness 2556) has occurred while \output is active []
 
  [191]
-[192] [193] [194] [195]) [196] (./lets_build.tex
-Overfull \hbox (30.13011pt too wide) in paragraph at lines 22--23
+[192] [193] [194] [195]) [196] (./lets_build.tex [197
+
+] [198]
+Overfull \hbox (30.13011pt too wide) in paragraph at lines 58--59
 []\OT1/cmr/m/n/12 I will list the things I'll leave for other projects/publicat
 ions: 
  []
 
-[197
-
-] [198]
-Overfull \hbox (3.57196pt too wide) in paragraph at lines 90--92
+[199]
+Overfull \hbox (3.57196pt too wide) in paragraph at lines 126--128
 []\OT1/cmr/m/n/12 Other aca-demic work you can con-tribute as a scholar 
  []
 
-[199]
-Overfull \hbox (0.69977pt too wide) in paragraph at lines 164--168
+[200]
+Overfull \hbox (0.69977pt too wide) in paragraph at lines 200--204
 []\OT1/cmr/m/n/12 stepper mo-tor driven by po-ten-tiome-ter so knob goes
  []
 
 
-Overfull \hbox (0.82616pt too wide) in paragraph at lines 164--168
+Overfull \hbox (0.82616pt too wide) in paragraph at lines 200--204
 \OT1/cmr/m/n/12 to wheel di-rectly with one Ar-duino per mo-tor+knob
  []
 
-[200] [201] [202] [203] [204]
-Overfull \hbox (3.31085pt too wide) in paragraph at lines 292--299
+[201] [202] [203] [204] [205]
+Overfull \hbox (3.31085pt too wide) in paragraph at lines 328--335
 \OT1/cmr/m/n/12 mak-ing waves, which can be ob-served us-ing a strobe,
  []
 
 
-Overfull \hbox (3.32845pt too wide) in paragraph at lines 292--299
+Overfull \hbox (3.32845pt too wide) in paragraph at lines 328--335
 \OT1/cmr/m/n/12 am-pli-fied mag-netic pickup. With the mag-ni-fier built
  []
 
-
-Overfull \hbox (10.2955pt too wide) in paragraph at lines 312--314
+[206]
+Overfull \hbox (10.2955pt too wide) in paragraph at lines 348--350
 []\OT1/cmr/m/n/12 evaporative cool-ing re-frig-er-a-tor driven by wa-ter wheel 
 
  []
 
-[205] [206]) [207]
+[207]) [208]
 runsystem(makeindex main.idx)...executed.
 
  (./main.ind)
@@ -1551,7 +1551,7 @@ Here is how much of TeX's memory you used:
  16091 multiletter control sequences out of 15000+600000
  9976 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 50i,11n,41p,10430b,329s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 50i,11n,41p,10430b,368s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/c
@@ -1560,10 +1560,10 @@ l12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
 10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti1
 2.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12
 .pfb>
-Output written on main.pdf (215 pages, 916948 bytes).
+Output written on main.pdf (216 pages, 918606 bytes).
 PDF statistics:
- 757 PDF objects out of 1000 (max. 8388607)
- 496 compressed objects within 5 object streams
+ 760 PDF objects out of 1000 (max. 8388607)
+ 498 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 500000)
  81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
