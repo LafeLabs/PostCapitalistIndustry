@@ -2,6 +2,7 @@
 
 - lazy river
 - skyline
+- metrology
 - virtual reality(VR)
 - augmented reality(AR)
 - trash magic

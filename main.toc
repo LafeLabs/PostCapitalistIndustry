@@ -83,11 +83,10 @@
 \contentsline {subsection}{Guerrilla Fairy Art}{157}
 \contentsline {chapter}{\chapternumberline {11}Visions of a Better Tomorrow}{161}
 \contentsline {subsection}{Ent Moot}{161}
-\contentsline {subsection}{Memoirs from a Bathtub}{161}
-\contentsline {subsection}{Storm's a' commin'}{162}
-\contentsline {subsection}{wizards rolling in the valley}{162}
-\contentsline {subsection}{Ramblin' youth}{163}
-\contentsline {subsection}{Riding Against Thor: the story of warriors of the storm stealing clean water from the gods of Thunder}{163}
+\contentsline {subsection}{Memoirs from a Bathtub}{162}
+\contentsline {subsection}{Storm's a' Commin'}{163}
+\contentsline {subsection}{Witches Rolling in the Valley}{163}
+\contentsline {subsection}{Riding Against Thor: the Story of Warriors of the Storm Stealing Clean Water from the Gods of Thunder}{163}
 \contentsline {subsection}{Poop Story}{164}
 \contentsline {chapter}{\chapternumberline {12}Free Everything}{169}
 \contentsline {chapter}{\chapternumberline {13}Techniques}{182}
