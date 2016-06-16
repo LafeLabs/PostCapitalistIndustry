@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  15 JUN 2016 21:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  15 JUN 2016 23:34
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -791,21 +791,25 @@ Package: multicol 2015/03/31 v1.8m multicolumn formatting (FMi)
 
 
 Writing index file main.idx
+
+LaTeX Warning: Unused global option(s):
+    [onesided].
+
 (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
@@ -865,10 +869,10 @@ e
 File: images/frontcover.png Graphic file (type png)
 
 <use images/frontcover.png>
-Package pdftex.def Info: images/frontcover.png used on input line 20.
+Package pdftex.def Info: images/frontcover.png used on input line 23.
 (pdftex.def)             Requested size: 315.81912pt x 357.73561pt.
 
-Overfull \hbox (26.81912pt too wide) in paragraph at lines 20--21
+Overfull \hbox (26.81912pt too wide) in paragraph at lines 23--24
  [][] 
  []
 
@@ -892,9 +896,9 @@ Overfull \hbox (0.5811pt too wide) in paragraph at lines 10--20
 
  <./images/jollyroger.png>]) [3]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 35.
+(Font)              <14.4> on input line 38.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 35.
+(Font)              <7> on input line 38.
  (./main.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 3.
@@ -1204,13 +1208,13 @@ es,
  []
 
 )
-Overfull \hbox (0.3081pt too wide) in paragraph at lines 242--56
+Overfull \hbox (0.3081pt too wide) in paragraph at lines 242--59
 \OT1/cmr/m/n/12 Taking uni-ver-si-ties over can be a huge in-ter-na-tional beac
 h
  []
 
 
-Overfull \hbox (6.9011pt too wide) in paragraph at lines 242--56
+Overfull \hbox (6.9011pt too wide) in paragraph at lines 242--59
 \OT1/cmr/m/n/12 killing the uni-ver-si-ties, and the fac-ulty who love the scho
 ols
  []
@@ -1593,7 +1597,7 @@ runsystem(makeindex main.idx)...executed.
 Class memoir Warning: The material used in the headers is too large
 (28.99998pt) for the given head height (14.5pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 87.
+(in both cases you will find help in the memoir manual). on input line 90.
 
 \tf@toc=\write5
 \openout5 = `main.toc'.
@@ -1601,27 +1605,24 @@ either increase the head height or redesign the header
 \tf@lof=\write6
 \openout6 = `main.lof'.
 
-(./main.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+(./main.aux) ) 
 Here is how much of TeX's memory you used:
- 12798 strings out of 493089
- 222125 string characters out of 6134842
- 304458 words of memory out of 5000000
- 16117 multiletter control sequences out of 15000+600000
+ 12797 strings out of 493089
+ 222096 string characters out of 6134842
+ 304569 words of memory out of 5000000
+ 16115 multiletter control sequences out of 15000+600000
  9976 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  50i,11n,41p,10430b,329s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
-/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></u
-sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></us
-r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
-/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/
-local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (224 pages, 1282731 bytes).
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr17.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+l12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
+10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti1
+2.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12
+.pfb>
+Output written on main.pdf (224 pages, 1282742 bytes).
 PDF statistics:
  800 PDF objects out of 1000 (max. 8388607)
  519 compressed objects within 6 object streams
