@@ -1,6 +1,17 @@
 ## glossary terms
 
 - lazy river
+- rotor
+- stator
+- bearing
+- USB(universal serial bus)
+- resonance
+- induction
+- inductor
+- capacitor
+- current
+- voltage
+- resistance
 - skyline
 - metrology
 - virtual reality(VR)
