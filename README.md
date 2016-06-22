@@ -48,6 +48,7 @@
 
 ### Book 2. The Practice of Trash Magic: the Stickening
 
+[book 2 summary](book2summary.md)
 
 1. [Post Capitalist Industry: Trash Magic](capitalism_technical.md)
 2. [Measuring the post capitalist world](Measures.md)

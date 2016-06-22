@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  15 JUN 2016 23:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  16 JUN 2016 22:11
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1546,46 +1546,35 @@ Overfull \hbox (10.87883pt too wide) in paragraph at lines 152--157
  []
 
 [204] [205]
-Overfull \hbox (7.55386pt too wide) in paragraph at lines 195--201
+Overfull \hbox (7.55386pt too wide) in paragraph at lines 197--203
 \OT1/cmr/m/n/12 should be our ears into a vast world of elec-tri-cal impedance,
 
  []
 
-[206]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [207]
-Underfull \vbox (badness 6268) has occurred while \output is active []
-
- [208]
-[209] [210]
-Overfull \hbox (3.31085pt too wide) in paragraph at lines 336--343
+[206] [207] [208] [209] [210]
+Overfull \hbox (3.31085pt too wide) in paragraph at lines 338--345
 \OT1/cmr/m/n/12 mak-ing waves, which can be ob-served us-ing a strobe,
  []
 
 
-Overfull \hbox (3.32845pt too wide) in paragraph at lines 336--343
+Overfull \hbox (3.32845pt too wide) in paragraph at lines 338--345
 \OT1/cmr/m/n/12 am-pli-fied mag-netic pickup. With the mag-ni-fier built
  []
 
 [211]
-Overfull \hbox (10.2955pt too wide) in paragraph at lines 356--358
+Overfull \hbox (10.2955pt too wide) in paragraph at lines 358--360
 []\OT1/cmr/m/n/12 evaporative cool-ing re-frig-er-a-tor driven by wa-ter wheel 
 
  []
 
-[212]
-Overfull \hbox (12.5053pt too wide) in paragraph at lines 399--400
+[212] [213]
+Overfull \hbox (12.5053pt too wide) in paragraph at lines 401--402
 \OT1/cmr/m/n/12 I will list the things I'll leave for other projects/publicatio
 ns: 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [213]
 [214]
-Overfull \hbox (3.57196pt too wide) in paragraph at lines 467--469
+Overfull \hbox (3.57196pt too wide) in paragraph at lines 469--471
 []\OT1/cmr/m/n/12 Other aca-demic work you can con-tribute as a scholar 
  []
 
@@ -1622,7 +1611,7 @@ l12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
 10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti1
 2.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12
 .pfb>
-Output written on main.pdf (224 pages, 1282742 bytes).
+Output written on main.pdf (224 pages, 1282824 bytes).
 PDF statistics:
  800 PDF objects out of 1000 (max. 8388607)
  519 compressed objects within 6 object streams

@@ -1,6 +1,7 @@
 ## glossary terms
 
 - lazy river
+- impedance
 - rotor
 - stator
 - bearing
