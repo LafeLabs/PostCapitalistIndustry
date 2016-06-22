@@ -30,9 +30,9 @@ overall shape for 14 chapters is the truncated octahedron which has 14 sides, th
 5. brass key made from brass with solder, work the solder technique 
 6. fishing line stone manipulator tool with multiple lines and stones and wood skeletron structure
 7. fractal tube system, one big tube to many tubes to one tube, plastic welded tubes from milk bottles
-8. mushroom carved from wood and colored with paint or colored pencils
+8. mushroom carved from wood and colored with paint or colored pencils, shelf fungus made from plastic and mounted in wood using plastic to wood joint technique
 9. car tire rubber shaped into a moebius band
-10. stone and wood gears that work 
+10. stone and wood gears that work, absolute minimal gear, not gear, gear bad, something else not sure what, maybe stone torus, STONE TORUS
 11. visions: the tub, perhaps carved from stone and/or built up from metal
 12. free everything: wooden octahedron with flat base/stand symbol of geometry
 13. techniques: trefoil wooden pentagram with decorative rope work
