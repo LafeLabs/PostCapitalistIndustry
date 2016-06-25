@@ -26,7 +26,6 @@
 
 [videos for volume 1 ](videos.md)
 
-
 ### Book 1. Philosophy of Trash Magic: Ways of Witchery and Wizardry
 
 
@@ -45,6 +44,7 @@
 13. [Techniques](techniquesBook1.md)
 14. [Let's Build This!](lets_build.md)
  
+[Appendix: The Fourteen Contemplations of Manifesto](contemplations.md)
 
 ### Book 2. The Practice of Trash Magic: the Stickening
 
