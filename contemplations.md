@@ -40,6 +40,8 @@ This is a chance to do some interesting and creative wood work.  The principles 
 
 ## Fourth Contemplation: Elements
 
+![](images/contemplations/contemplation4.png)
+
 Earth, air, fire, water, and the Sphere if the Ion Magic.
  
 Stare at them, contemplate, and interact with each of the five elements.
