@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  13 JUL 2016 16:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  13 JUL 2016 17:05
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -911,42 +911,42 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 3.
  [4]
 Overfull \hbox (2.03766pt too wide) detected at line 58
- \OT1/cmr/bx/n/12 105
+ \OT1/cmr/bx/n/12 104
  []
 
 
 Overfull \hbox (2.03766pt too wide) detected at line 67
- \OT1/cmr/bx/n/12 124
+ \OT1/cmr/bx/n/12 123
  []
 
 
 Overfull \hbox (2.03766pt too wide) detected at line 75
- \OT1/cmr/bx/n/12 143
+ \OT1/cmr/bx/n/12 142
  []
 
 
 Overfull \hbox (2.03766pt too wide) detected at line 80
- \OT1/cmr/bx/n/12 150
+ \OT1/cmr/bx/n/12 149
  []
 
 
 Overfull \hbox (2.03766pt too wide) detected at line 86
- \OT1/cmr/bx/n/12 167
+ \OT1/cmr/bx/n/12 166
  []
 
 
 Overfull \hbox (2.03766pt too wide) detected at line 93
- \OT1/cmr/bx/n/12 175
+ \OT1/cmr/bx/n/12 174
  []
 
 
 Overfull \hbox (2.03766pt too wide) detected at line 94
- \OT1/cmr/bx/n/12 188
+ \OT1/cmr/bx/n/12 187
  []
 
 
 Overfull \hbox (2.03766pt too wide) detected at line 111
- \OT1/cmr/bx/n/12 203
+ \OT1/cmr/bx/n/12 202
  []
 
 ) (./main.lof
@@ -1059,30 +1059,32 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 
 ] [31]
 [32]
-Overfull \hbox (4.15529pt too wide) in paragraph at lines 78--90
+Overfull \hbox (4.15529pt too wide) in paragraph at lines 79--91
 \OT1/cmr/m/n/12 What is the con-nec-tion be-tween free tech-nol-ogy and ``open
  []
 
 [33] [34] [35] [36] [37] [38]
-Overfull \hbox (2.45808pt too wide) in paragraph at lines 224--230
-[]\OT1/cmr/m/n/12 Anarchist tech-nol-ogy also breaks bar-ri-ers be-tween cus-
+Overfull \hbox (3.86363pt too wide) in paragraph at lines 226--231
+[]\OT1/cmr/m/n/12 Free tech-nol-ogy also breaks bar-ri-ers be-tween cus-tomer,
  []
 
 [39]
-Underfull \hbox (badness 10000) in paragraph at lines 262--266
+Underfull \hbox (badness 10000) in paragraph at lines 260--264
 
  []
 
 
-Overfull \hbox (33.86053pt too wide) in paragraph at lines 268--271
+Overfull \hbox (33.86053pt too wide) in paragraph at lines 266--269
 []\OT1/cmr/m/n/12 communication/networking/controls/ au-toma-tion/audio/
  []
 
-[40] [41] [42] [43])
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[40] [41]
+Overfull \hbox (1.35254pt too wide) in paragraph at lines 306--318
+\OT1/cmr/m/n/12 surgery, pros-thet-ics, and a lot of other mea-sure-ment tools,
 
- [44]
-[45] (./contemplation2.tex
+ []
+
+[42] [43] [44]) [45] (./contemplation2.tex
 <images/contemplations/contemplation2C.png, id=194, 183.8067pt x 216.3282pt>
 File: images/contemplations/contemplation2C.png Graphic file (type png)
 
@@ -1615,27 +1617,24 @@ either increase the head height or redesign the header
 \tf@lof=\write6
 \openout6 = `main.lof'.
 
-(./main.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+(./main.aux) ) 
 Here is how much of TeX's memory you used:
  12820 strings out of 493089
  222812 string characters out of 6134842
- 304744 words of memory out of 5000000
+ 303744 words of memory out of 5000000
  16129 multiletter control sequences out of 15000+600000
  9976 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  50i,11n,41p,10430b,327s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
-/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></u
-sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></us
-r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
-/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/
-local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (229 pages, 1342101 bytes).
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr17.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+l12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
+10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti1
+2.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12
+.pfb>
+Output written on main.pdf (229 pages, 1342139 bytes).
 PDF statistics:
  820 PDF objects out of 1000 (max. 8388607)
  530 compressed objects within 6 object streams
