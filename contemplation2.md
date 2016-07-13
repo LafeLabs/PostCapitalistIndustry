@@ -1,0 +1,9 @@
+![second Contemplation](images/contemplations/contemplation2C.png) 
+
+## Second Contemplation: Tetrahedral Fractal
+
+Here fabrication is part of the practice, we carve out a very simple tetrahedral depression in a stick, chop up bottle caps and apply heat to them to smash them into the mold, making a plastic tetrahedron.  This process is repeated several times, and then the individual units are built up into a larger structure by welding the corners.  This contemplation involves staring at the very limited porto-fractal shape and contemplating how it would scale up and down, and the limits of that process.  How big could you make this?  Or how small?  What is easy or hard? Try it.
+
+This is a very inward-looking contemplation, and it should involve some fairly meditative(more than the previous one) floor flopping movements.
+
+This is about anarchy-freedom.  So anarchist songs are what this Contemplation is themed to.  I will start with the Yiddish song Down with The Police.

@@ -1,0 +1,11 @@
+![First Contemplation](images/contemplations/contemplation1C.png) 
+
+## First Contemplation: Pyramid of Capitalism
+
+In this phase we contemplate the evils of capitalism through the lens of the pyramid, a universal symbol of that ideology.  The pyramid in this phase is not built in this phase, it is handed down from some earlier fabrication possibly by someone else who gave us the pyramid.  The harder to make that is, the more it symbolizes the capitalist separation between user and maker.  This is bad, and we will contemplate it.
+
+The pyramid can be taken out and around and put in line with various artifacts of the capitalist world for simultaneous contemplation.  In order to fully grasp this, it may be necessary to flop around on the ground to mover your head to just the right spot to *really* see the pyramid and also the capitalist artifact.  Artifacts will tend to be vast capitalist mounds of stone they use to symbolize their own power: skyscrapers, banks, huge stone pillars in parks, etc.  Also mines.  As you flop around on the ground getting different lines of sight you will eventually find the right perspective for this Contemplation, and then can make an art project out of this, in any medium: paint, ink, charcoal, pencil, pastel, plaster sculpture, stone sculpture, wood sculpture, video, photo, dance performance.  
+
+The Contemplation can also be carried out at home by placing the pyramid in front of a small capitalist artifact, playing the proper music, and vigorously flopping around on the floor in ALL DIRECTIONS while maintaining eye contact with the pyramid and evil artifact of capital.  
+
+Theme music for this Contemplation starts with City of Darkness by Funker Vogt, which I think captures some of the essence of capitalist evil.  Perhaps also Capitalists Suck by DRI should be part of the play list if it's more songs, and I'll add some more as time goes on.  Hopefully eventually people will compose their own free music for each Contemplation so that the culture exists outside copyright.
