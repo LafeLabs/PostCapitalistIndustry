@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  3 JUL 2016 00:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  13 JUL 2016 16:09
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -795,7 +795,7 @@ Writing index file main.idx
 LaTeX Warning: Unused global option(s):
     [onesided].
 
-No file main.aux.
+(./main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
@@ -810,7 +810,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
-(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/ucsencs.def
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
 (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
@@ -865,19 +865,22 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-<images/frontcover.png, id=1, 315.8199pt x 357.7365pt>
-File: images/frontcover.png Graphic file (type png)
+<images/frontcover2.png, id=1, 310.761pt x 428.5611pt>
+File: images/frontcover2.png Graphic file (type png)
 
-<use images/frontcover.png>
-Package pdftex.def Info: images/frontcover.png used on input line 23.
-(pdftex.def)             Requested size: 315.81912pt x 357.73561pt.
+<use images/frontcover2.png>
+Package pdftex.def Info: images/frontcover2.png used on input line 23.
+(pdftex.def)             Requested size: 310.76024pt x 428.56004pt.
 
-Overfull \hbox (26.81912pt too wide) in paragraph at lines 23--24
+Overfull \hbox (21.76024pt too wide) in paragraph at lines 23--24
  [][] 
  []
 
+
+LaTeX Warning: Float too large for page by 25.06004pt on input line 24.
+
 [1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./ima
-ges/frontcover.png>] (./intellectual_property_notice.tex
+ges/frontcover2.png>] (./intellectual_property_notice.tex
 <images/jollyroger.png, id=10, 114.1866pt x 115.632pt>
 File: images/jollyroger.png Graphic file (type png)
 
@@ -899,14 +902,65 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 38.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 38.
+ (./main.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 3.
+ [4]
+Overfull \hbox (2.03766pt too wide) detected at line 58
+ \OT1/cmr/bx/n/12 105
+ []
 
-No file main.toc.
-No file main.lof.
 
+Overfull \hbox (2.03766pt too wide) detected at line 67
+ \OT1/cmr/bx/n/12 124
+ []
+
+
+Overfull \hbox (2.03766pt too wide) detected at line 75
+ \OT1/cmr/bx/n/12 143
+ []
+
+
+Overfull \hbox (2.03766pt too wide) detected at line 80
+ \OT1/cmr/bx/n/12 150
+ []
+
+
+Overfull \hbox (2.03766pt too wide) detected at line 86
+ \OT1/cmr/bx/n/12 167
+ []
+
+
+Overfull \hbox (2.03766pt too wide) detected at line 93
+ \OT1/cmr/bx/n/12 175
+ []
+
+
+Overfull \hbox (2.03766pt too wide) detected at line 94
+ \OT1/cmr/bx/n/12 188
+ []
+
+
+Overfull \hbox (2.03766pt too wide) detected at line 111
+ \OT1/cmr/bx/n/12 203
+ []
+
+) (./main.lof
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [4]
-[5] [6
+ [5]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
+Overfull \hbox (1.73595pt too wide) in paragraph at lines 20--20
+ \OT1/cmr/m/n/12 the East River, be-tween Man-hat-tan is-land and 
+ []
+
+) [7] [8
 
 ] (./capitalism.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -914,13 +968,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1
 
 ]
-Overfull \hbox (9.57745pt too wide) in paragraph at lines 40--61
+Overfull \hbox (9.57745pt too wide) in paragraph at lines 41--62
 []\OT1/cmr/m/n/12 The ``means of pro-duc-tion'' is also a prob-lem-atic phrase.
 
  []
 
 
-Overfull \hbox (0.69977pt too wide) in paragraph at lines 40--61
+Overfull \hbox (0.69977pt too wide) in paragraph at lines 41--62
 \OT1/cmr/m/n/12 this ba-sic struc-ture of mil-i-tary power cre-at-ing a monopol
 y
  []
@@ -929,77 +983,71 @@ y
 Underfull \vbox (badness 3646) has occurred while \output is active []
 
  [2]
-[3] [4] <images/bigone.png, id=43, 205.2468pt x 272.4579pt>
+[3] [4] <images/bigone.png, id=49, 205.2468pt x 272.4579pt>
 File: images/bigone.png Graphic file (type png)
 
 <use images/bigone.png>
 Package pdftex.def Info: images/bigone.png used on input line 115.
 (pdftex.def)             Requested size: 205.24628pt x 272.45721pt.
  [5] [6 <./images/bigone.png>]
-<images/capitalpyramid.png, id=51, 198.7425pt x 274.626pt>
+<images/capitalpyramid.png, id=58, 198.7425pt x 274.626pt>
 File: images/capitalpyramid.png Graphic file (type png)
 
 <use images/capitalpyramid.png>
-Package pdftex.def Info: images/capitalpyramid.png used on input line 131.
+Package pdftex.def Info: images/capitalpyramid.png used on input line 132.
 (pdftex.def)             Requested size: 198.742pt x 274.62532pt.
 
-<images/digitup.png, id=52, 276.0714pt x 265.9536pt>
+<images/digitup.png, id=59, 276.0714pt x 265.9536pt>
 File: images/digitup.png Graphic file (type png)
  <use images/digitup.png>
-Package pdftex.def Info: images/digitup.png used on input line 150.
+Package pdftex.def Info: images/digitup.png used on input line 152.
 (pdftex.def)             Requested size: 276.07071pt x 265.95294pt.
 
 [7] [8 <./images/capitalpyramid.png>] [9 <./images/digitup.png>]
-Overfull \hbox (1.02199pt too wide) in paragraph at lines 168--175
+Overfull \hbox (1.02199pt too wide) in paragraph at lines 171--178
 []\OT1/cmr/m/n/12 Any pro-posal to re-form cap-i-tal-ism that main-tains con-
  []
 
 [10] [11] [12]
-Overfull \hbox (11.5492pt too wide) in paragraph at lines 258--269
+Overfull \hbox (11.5492pt too wide) in paragraph at lines 261--272
 []\OT1/cmr/m/n/12 I'm against en-gi-neer-ing and de-sign as pro-fes-sions. Whil
 e
  []
 
 [13] [14]
-Overfull \hbox (4.60677pt too wide) in paragraph at lines 308--323
+Overfull \hbox (4.60677pt too wide) in paragraph at lines 311--326
 []\OT1/cmr/m/n/12 All the el-e-ments I de-scribe in the ex-am-ple above should
  []
 
 [15] [16] [17] [18] [19]
-<images/banachtarski1.png, id=97, 265.2309pt x 221.1462pt>
+<images/banachtarski1.png, id=103, 265.2309pt x 221.1462pt>
 File: images/banachtarski1.png Graphic file (type png)
 
 <use images/banachtarski1.png>
-Package pdftex.def Info: images/banachtarski1.png used on input line 446.
+Package pdftex.def Info: images/banachtarski1.png used on input line 449.
 (pdftex.def)             Requested size: 265.23024pt x 221.14565pt.
  [20]
-<images/ecoli.png, id=101, 254.3904pt x 193.6836pt>
+<images/ecoli.png, id=107, 254.3904pt x 193.6836pt>
 File: images/ecoli.png Graphic file (type png)
  <use images/ecoli.png>
-Package pdftex.def Info: images/ecoli.png used on input line 457.
+Package pdftex.def Info: images/ecoli.png used on input line 460.
 (pdftex.def)             Requested size: 254.38977pt x 193.6831pt.
 
-[21 <./images/banachtarski1.png>] [22 <./images/ecoli.png>] [23] [24]
-Overfull \hbox (0.97847pt too wide) in paragraph at lines 544--553
+[21 <./images/banachtarski1.png>] [22 <./images/ecoli.png>] [23] [24] [25]
+Overfull \hbox (0.97847pt too wide) in paragraph at lines 572--581
 []\OT1/cmr/m/n/12 I'm against the ma-chine. That's what this is all about.
  []
 
-[25]) [26] (./contemplation1.tex
-<images/contemplations/contemplation1C.png, id=124, 268.8444pt x 205.2468pt>
+[26]) [27] (./contemplation1.tex
+<images/contemplations/contemplation1C.png, id=133, 268.8444pt x 205.2468pt>
 File: images/contemplations/contemplation1C.png Graphic file (type png)
 
 <use images/contemplations/contemplation1C.png>
 Package pdftex.def Info: images/contemplations/contemplation1C.png used on inpu
 t line 3.
 (pdftex.def)             Requested size: 268.84375pt x 205.24628pt.
-
-Overfull \hbox (9.89967pt too wide) in paragraph at lines 10--16
-\OT1/cmr/m/n/12 In this phase we con-tem-plate the evils of cap-i-tal-ism throu
-gh
- []
-
-[27 <./images/contemplations/contemplation1C.png>]) [28] [29]
-(./free_technology.tex
+ [28 <./images/contemplations/contemplation1C.png>]) [29] (./free_technology.te
+x
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 17.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
@@ -1035,7 +1083,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [44]
 [45] (./contemplation2.tex
-<images/contemplations/contemplation2C.png, id=188, 183.8067pt x 216.3282pt>
+<images/contemplations/contemplation2C.png, id=194, 183.8067pt x 216.3282pt>
 File: images/contemplations/contemplation2C.png Graphic file (type png)
 
 <use images/contemplations/contemplation2C.png>
@@ -1079,7 +1127,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [53
 
 ]
-[54] [55] [56] <images/wizardcartoon.png, id=225, 221.1462pt x 310.0383pt>
+[54] [55] [56] <images/wizardcartoon.png, id=231, 221.1462pt x 310.0383pt>
 File: images/wizardcartoon.png Graphic file (type png)
 
 <use images/wizardcartoon.png>
@@ -1090,19 +1138,19 @@ Overfull \hbox (4.14696pt too wide) in paragraph at lines 122--125
 []\OT1/cmr/m/n/12 In ad-di-tion to Trash Wiz-ardry and Witch-ery one might
  []
 
-[58] [59] [60] [61] <images/cat3.png, id=243, 226.2051pt x 203.0787pt>
+[58] [59] [60] [61] <images/cat3.png, id=249, 226.2051pt x 203.0787pt>
 File: images/cat3.png Graphic file (type png)
 
 <use images/cat3.png>
 Package pdftex.def Info: images/cat3.png used on input line 219.
 (pdftex.def)             Requested size: 226.20453pt x 203.0782pt.
- <images/elements.png, id=244, 217.5327pt x 198.7425pt>
+ <images/elements.png, id=250, 217.5327pt x 198.7425pt>
 File: images/elements.png Graphic file (type png)
 
 <use images/elements.png>
 Package pdftex.def Info: images/elements.png used on input line 225.
 (pdftex.def)             Requested size: 217.53215pt x 198.742pt.
- <images/squat.png, id=245, 213.1965pt x 215.3646pt>
+ <images/squat.png, id=251, 213.1965pt x 215.3646pt>
 File: images/squat.png Graphic file (type png)
 
 <use images/squat.png>
@@ -1148,14 +1196,7 @@ Overfull \hbox (2.00531pt too wide) in paragraph at lines 438--445
 []\OT1/cmr/m/n/12 Tripods can also sup-port roof and wall ma-te-ri-als, mak-
  []
 
-[71]) [72] (./universities.tex
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 13.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 13.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 13.
- [73
+[71]) [72] (./universities.tex [73
 
 ]
 Underfull \vbox (badness 4872) has occurred while \output is active []
@@ -1171,14 +1212,14 @@ Overfull \hbox (4.35529pt too wide) in paragraph at lines 119--124
 
  []
 
-[77] [78] [79] <images/Sorbonne.png, id=307, 281.853pt x 189.3474pt>
+[77] [78] [79] <images/Sorbonne.png, id=313, 281.853pt x 189.3474pt>
 File: images/Sorbonne.png Graphic file (type png)
 
 <use images/Sorbonne.png>
 Package pdftex.def Info: images/Sorbonne.png used on input line 177.
 (pdftex.def)             Requested size: 281.85231pt x 189.34692pt.
 
-<images/roosevelt.png, id=308, 265.9536pt x 251.4996pt>
+<images/roosevelt.png, id=314, 265.9536pt x 251.4996pt>
 File: images/roosevelt.png Graphic file (type png)
 
 <use images/roosevelt.png>
@@ -1218,7 +1259,7 @@ Overfull \hbox (6.63998pt too wide) in paragraph at lines 117--124
 \OT1/cmr/m/n/12 roots and berries from the coun-try-side in a quasi-cultivated
  []
 
-[90] [91] <images/dirigible.png, id=349, 216.81pt x 349.7868pt>
+[90] [91] <images/dirigible.png, id=355, 216.81pt x 349.7868pt>
 File: images/dirigible.png Graphic file (type png)
 
 <use images/dirigible.png>
@@ -1240,14 +1281,14 @@ Underfull \vbox (badness 3646) has occurred while \output is active []
 Underfull \vbox (badness 1097) has occurred while \output is active []
 
  [97]
-<images/squidcyborg.png, id=371, 222.5916pt x 284.7438pt>
+<images/squidcyborg.png, id=377, 222.5916pt x 284.7438pt>
 File: images/squidcyborg.png Graphic file (type png)
 
 <use images/squidcyborg.png>
 Package pdftex.def Info: images/squidcyborg.png used on input line 307.
 (pdftex.def)             Requested size: 222.59105pt x 284.7431pt.
 
-<images/birdcyborg.png, id=372, 224.037pt x 286.1892pt>
+<images/birdcyborg.png, id=378, 224.037pt x 286.1892pt>
 File: images/birdcyborg.png Graphic file (type png)
 
 <use images/birdcyborg.png>
@@ -1482,35 +1523,35 @@ Overfull \hbox (19.91579pt too wide) in paragraph at lines 41--47
 \OT1/cmr/m/n/12 am-e-ter with 200-500 turns of wire. This is 30 AWG(American
  []
 
-[203] <images/resonantStick1.png, id=712, 256.7994pt x 221.628pt>
+[203] <images/resonantStick1.png, id=719, 256.7994pt x 221.628pt>
 File: images/resonantStick1.png Graphic file (type png)
 
 <use images/resonantStick1.png>
 Package pdftex.def Info: images/resonantStick1.png used on input line 50.
 (pdftex.def)             Requested size: 256.79877pt x 221.62746pt.
  [204 <./images/resonantStick1.png>]
-<images/coilzoom.png, id=717, 258.7266pt x 219.9417pt>
+<images/coilzoom.png, id=724, 258.7266pt x 219.9417pt>
 File: images/coilzoom.png Graphic file (type png)
 
 <use images/coilzoom.png>
 Package pdftex.def Info: images/coilzoom.png used on input line 62.
 (pdftex.def)             Requested size: 258.72594pt x 219.94115pt.
 
-<images/bigoscillator.png, id=718, 266.4354pt x 66.7293pt>
+<images/bigoscillator.png, id=725, 266.4354pt x 66.7293pt>
 File: images/bigoscillator.png Graphic file (type png)
 
 <use images/bigoscillator.png>
 Package pdftex.def Info: images/bigoscillator.png used on input line 68.
 (pdftex.def)             Requested size: 266.43474pt x 66.72913pt.
 
-<images/transistorimage.png, id=719, 121.6545pt x 131.5314pt>
+<images/transistorimage.png, id=726, 121.6545pt x 131.5314pt>
 File: images/transistorimage.png Graphic file (type png)
 
 <use images/transistorimage.png>
 Package pdftex.def Info: images/transistorimage.png used on input line 74.
 (pdftex.def)             Requested size: 121.65419pt x 131.53107pt.
 
-<images/ampimage.png, id=720, 144.2991pt x 93.2283pt>
+<images/ampimage.png, id=727, 144.2991pt x 93.2283pt>
 File: images/ampimage.png Graphic file (type png)
 
 <use images/ampimage.png>
@@ -1580,13 +1621,13 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 12814 strings out of 493089
- 222753 string characters out of 6134842
- 300692 words of memory out of 5000000
+ 12820 strings out of 493089
+ 222812 string characters out of 6134842
+ 304744 words of memory out of 5000000
  16129 multiletter control sequences out of 15000+600000
  9976 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 50i,11n,41p,10430b,323s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 50i,11n,41p,10430b,327s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
 /usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></u
@@ -1594,10 +1635,10 @@ sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></us
 r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
 /local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/
 local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (227 pages, 1346302 bytes).
+Output written on main.pdf (229 pages, 1342101 bytes).
 PDF statistics:
- 813 PDF objects out of 1000 (max. 8388607)
- 525 compressed objects within 6 object streams
+ 820 PDF objects out of 1000 (max. 8388607)
+ 530 compressed objects within 6 object streams
  0 named destinations out of 1000 (max. 500000)
  116 words of extra memory for PDF output out of 10000 (max. 10000000)
 

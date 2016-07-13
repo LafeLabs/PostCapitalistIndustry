@@ -1,7 +1,7 @@
 \select@language {english}
 \contentsline {subsection}{INTELLECTUAL PROPERTY NOTICE}{ii}
-\contentsline {chapter}{Contents}{v}
-\contentsline {chapter}{List of Figures}{v}
+\contentsline {chapter}{Contents}{iv}
+\contentsline {chapter}{List of Figures}{vi}
 \contentsline {chapter}{\chapternumberline {1}Capitalism}{1}
 \contentsline {subsection}{What is Capitalism?}{2}
 \contentsline {subsection}{The Nature of Capitalist Money}{7}
@@ -11,7 +11,7 @@
 \contentsline {subsection}{Death to Capitalist Math!}{20}
 \contentsline {subsection}{Why Now?}{23}
 \contentsline {subsection}{Purpose of this Book}{24}
-\contentsline {subsection}{First Contemplation: Pyramid of Capitalism}{27}
+\contentsline {subsection}{First Contemplation: Pyramid of Capitalism}{28}
 \contentsline {chapter}{\chapternumberline {2}Free Technology}{30}
 \contentsline {subsection}{What Does it Mean for Technology to be Free?}{30}
 \contentsline {subsection}{What about Open Source?}{33}
