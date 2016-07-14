@@ -5,6 +5,7 @@ pandoc -f markdown -t latex contemplation1.md -o contemplation1.tex
 pandoc -f markdown -t latex free_technology.md -o free_technology.tex
 pandoc -f markdown -t latex contemplation2.md -o contemplation2.tex
 pandoc -f markdown -t latex Principles.md -o Principles.tex
+pandoc -f markdown -t latex contemplation3.md -o contemplation3.tex
 pandoc -f markdown -t latex what_is_the_trash_wizard.md -o what_is_the_trash_wizard.tex
 pandoc -f markdown -t latex universities.md -o universities.tex
 pandoc -f markdown -t latex RumblesRobots.md -o RumblesRobots.tex
