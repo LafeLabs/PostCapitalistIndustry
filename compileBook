@@ -11,6 +11,7 @@ pandoc -f markdown -t latex contemplation4.md -o contemplation4.tex
 pandoc -f markdown -t latex universities.md -o universities.tex
 pandoc -f markdown -t latex contemplation5.md -o contemplation5.tex
 pandoc -f markdown -t latex RumblesRobots.md -o RumblesRobots.tex
+pandoc -f markdown -t latex contemplation6.md -o contemplation6.tex
 pandoc -f markdown -t latex slimeTechPolitical.md -o slimeTechPolitical.tex
 pandoc -f markdown -t latex value_circles_economics.md -o value_circles_economics.tex
 pandoc -f markdown -t latex JunkCars.md -o JunkCars.tex
