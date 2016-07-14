@@ -1,5 +1,6 @@
 ## glossary terms
 
+- fido net
 - lazy river
 - impedance
 - rotor
