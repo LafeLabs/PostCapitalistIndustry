@@ -7,7 +7,7 @@ Much of this chapter should not be written by me but by the people who are schol
 
 If the university campus lived up to its potential it could be a true paradise: essentially a giant garden filled with buildings for studying and creating knowledge.  Amazing!  They are usually situated on some of the best land to be found anywhere, have great access to everything needed in life, and have dense urban style housing in a pastoral environment which allows for a simple, car free life.  
 
-University campuses are often physically spectacular.  They often have some of the greatest examples of art and architecture of available both used in their construction and lovingly maintained for in some cases hundreds of years.  It is typical for them to have wooded areas owned by the university, as well as often running water and in many cases access to very large bodies of water.  University campuses are often more self contained than most institutions, creating their own power and managing their own utilities, and having a fair amount of autonomy from local government.  
+University campuses are often physically spectacular.  They often have some of the greatest examples of art and architecture in their construction and are lovingly maintained for in some cases hundreds of years.  It is typical for them to have wooded areas owned by the university, as well as often water and in many cases access to very large bodies of water.  University campuses are often more self contained than most institutions, creating their own power and managing their own utilities, and having a fair amount of autonomy from local government.  
 
 
 ## Undergraduate Education: Broken Promises
@@ -18,7 +18,7 @@ College has become just another capitalist cartel, exploiting the hopes of young
 
 And what do we learn there?  Theory! Propaganda! How to write papers no one will read about stuff no one cares about.  100 year old science.  At this point defenders of the System start howling about "pure knowledge", by which they mean theory over "applied knowledge", by which they mean actual knowledge about how the world works.  Theory is a virus, a disease, and a religion, and it has no place here.
 
-What should we learn?  Same subjects, but useful.  Why can't biology majors make drugs?  Why can't physics majors build a flying drone?  Why can't chemistry majors build a water desalination plant?  Many subjects should, I think, be totally eliminated, as they have no real value, such as economics and computer "science".  
+What should we learn?  The same subjects, but taught usefully.  Why can't biology majors make drugs?  Why can't physics majors build a solar powered soaring drone?  Why can't chemistry majors build a water desalination plant?  Many subjects should, I think, be totally eliminated, as they have no real value, such as economics and computer "science".  
 
 ## Science Grad School: The Ponzi Scheme
 
@@ -58,9 +58,9 @@ I suggest that as with all occupations one way they can continue is to create ar
 
 ## Case Study: Your School
 
-![The Sorbonne](images/Sorbonne.png)
+![The Sorbonne. A location of many famous insurrections](images/Sorbonne.png)
 
-![Map showing location of Roosevelt Island in the East River, between Manhattan island and the Eastern boroughs of New York City.](images/roosevelt.png)
+![Map showing location of Roosevelt Island in the East River, between Manhattan island and the Eastern boroughs of New York City, now owned by Cornell University.](images/roosevelt.png)
 
 You have to write this section and integrate it into your version of the text, if you are connected with a university.  
 

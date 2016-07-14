@@ -46,76 +46,77 @@
 \contentsline {subsection}{University Occupations, Phase 2}{83}
 \contentsline {subsection}{Case Study: Your School}{84}
 \contentsline {subsection}{Universities: a Global Beachhead}{88}
-\contentsline {chapter}{\chapternumberline {6}Rumbles of Robots}{89}
-\contentsline {subsection}{Robots!}{89}
-\contentsline {subsection}{A Rumble of Robots}{90}
-\contentsline {subsection}{Robots with different times scales, centuries of work, or hours of lifetime}{91}
-\contentsline {subsection}{Earth Robots}{92}
-\contentsline {subsection}{Air Robots}{95}
-\contentsline {subsection}{Water Robots}{98}
-\contentsline {subsection}{How Robots Reproduce}{100}
-\contentsline {subsection}{Cyborgs}{101}
-\contentsline {subsection}{Super Ents}{102}
-\contentsline {subsection}{\dots {}And a World To Win!}{106}
-\contentsline {chapter}{\chapternumberline {7}Free Drugs, SlimeZistors, and Ion Magic}{108}
-\contentsline {subsection}{Technology Should be Slimy and Dirty}{108}
-\contentsline {subsection}{Moving Fluids Around}{110}
-\contentsline {subsection}{Brew Everything}{113}
-\contentsline {subsection}{Ion Magic}{115}
-\contentsline {subsection}{The SlimeZistor}{120}
-\contentsline {subsection}{Editing Capitalist Electronics}{122}
-\contentsline {subsection}{Plasma and Plasma}{123}
-\contentsline {subsection}{The Future: Free Nanotechnology}{125}
-\contentsline {chapter}{\chapternumberline {8}Magic Tales and Magic Lore}{127}
-\contentsline {subsection}{Moving Beyond Money}{127}
-\contentsline {subsection}{Infinite and Infinitesimal Value}{130}
-\contentsline {subsection}{Tales and Lore}{133}
-\contentsline {subsection}{The Feed}{138}
-\contentsline {subsection}{Geometry of Value}{139}
-\contentsline {subsection}{Trash Magic Conveyor}{141}
-\contentsline {subsection}{Trash Wizard Interaction with Capitalist Economics}{144}
-\contentsline {chapter}{\chapternumberline {9}The Great Junk Car Feed}{146}
-\contentsline {subsection}{Cars are Death, Death to Cars}{146}
-\contentsline {subsection}{Magical Answers!}{149}
-\contentsline {subsection}{End Game: End All Cars}{150}
-\contentsline {subsection}{Free Lives Don't Need Cars}{151}
-\contentsline {chapter}{\chapternumberline {10}Factories Everywhere and Nowhere}{153}
-\contentsline {subsection}{Slipping Between the Cracks}{153}
-\contentsline {subsection}{Bring the Means of Production to the Action}{156}
-\contentsline {subsection}{Production in Autonomous zones}{157}
-\contentsline {subsection}{Life in the Delta}{163}
-\contentsline {subsection}{Guerrilla Fairy Art}{166}
-\contentsline {chapter}{\chapternumberline {11}Visions of a Better Tomorrow}{170}
-\contentsline {subsection}{Ent Moot}{170}
-\contentsline {subsection}{Memoirs from a Bathtub}{171}
-\contentsline {subsection}{Storm's a' Commin'}{172}
-\contentsline {subsection}{Witches Rolling in the Valley}{172}
-\contentsline {subsection}{Riding Against Thor: the Story of Warriors of the Storm Stealing Clean Water from the Gods of Thunder}{172}
-\contentsline {subsection}{Poop Story}{173}
-\contentsline {chapter}{\chapternumberline {12}Free Everything}{178}
-\contentsline {chapter}{\chapternumberline {13}Techniques}{191}
-\contentsline {subsection}{Finding the Right Sticks}{192}
-\contentsline {subsection}{Processing Sticks Into Skeletron}{193}
-\contentsline {subsection}{Finding the Right Plastic}{195}
-\contentsline {subsection}{Plastic Welding}{196}
-\contentsline {subsection}{Salvage Components From Busted Electronics}{198}
-\contentsline {subsection}{How to Solder}{199}
-\contentsline {subsection}{Sticks for Hydraulic Machines}{200}
-\contentsline {subsection}{Sticks for Fluidics}{200}
-\contentsline {subsection}{Chipping Rocks}{201}
-\contentsline {subsection}{Measuring real time voltages and fluxes with an Arduino}{201}
-\contentsline {subsection}{Measuring Electrical Transport of Slime}{202}
-\contentsline {subsection}{Finding Creepy Crawlies}{202}
-\contentsline {subsection}{Design a new 3d Thing}{203}
-\contentsline {subsection}{How I Wrote This}{203}
-\contentsline {subsection}{How to Color Your Wood Stuff}{204}
-\contentsline {subsection}{Rope Work}{205}
-\contentsline {chapter}{\chapternumberline {14}Let's Build This!}{206}
-\contentsline {subsection}{Resonance Magic Stick}{206}
-\contentsline {subsection}{Noise Magic Stick}{213}
-\contentsline {subsection}{Whirligig}{217}
-\contentsline {subsection}{Lesson Gifts}{217}
-\contentsline {subsection}{Courrier Gifts}{218}
-\contentsline {subsection}{Version 1 of Tale and Lore}{218}
-\contentsline {subsection}{Deploy Guerrilla Faery Art}{218}
-\contentsline {subsection}{Future Work}{223}
+\contentsline {subsection}{Fifth Contemplation: Key of Knowledge}{89}
+\contentsline {chapter}{\chapternumberline {6}Rumbles of Robots}{90}
+\contentsline {subsection}{Robots!}{90}
+\contentsline {subsection}{A Rumble of Robots}{91}
+\contentsline {subsection}{Robots with different times scales, centuries of work, or hours of lifetime}{92}
+\contentsline {subsection}{Earth Robots}{93}
+\contentsline {subsection}{Air Robots}{96}
+\contentsline {subsection}{Water Robots}{99}
+\contentsline {subsection}{How Robots Reproduce}{101}
+\contentsline {subsection}{Cyborgs}{102}
+\contentsline {subsection}{Super Ents}{103}
+\contentsline {subsection}{\dots {}And a World To Win!}{107}
+\contentsline {chapter}{\chapternumberline {7}Free Drugs, SlimeZistors, and Ion Magic}{109}
+\contentsline {subsection}{Technology Should be Slimy and Dirty}{109}
+\contentsline {subsection}{Moving Fluids Around}{111}
+\contentsline {subsection}{Brew Everything}{114}
+\contentsline {subsection}{Ion Magic}{116}
+\contentsline {subsection}{The SlimeZistor}{121}
+\contentsline {subsection}{Editing Capitalist Electronics}{123}
+\contentsline {subsection}{Plasma and Plasma}{124}
+\contentsline {subsection}{The Future: Free Nanotechnology}{126}
+\contentsline {chapter}{\chapternumberline {8}Magic Tales and Magic Lore}{128}
+\contentsline {subsection}{Moving Beyond Money}{128}
+\contentsline {subsection}{Infinite and Infinitesimal Value}{131}
+\contentsline {subsection}{Tales and Lore}{134}
+\contentsline {subsection}{The Feed}{139}
+\contentsline {subsection}{Geometry of Value}{140}
+\contentsline {subsection}{Trash Magic Conveyor}{142}
+\contentsline {subsection}{Trash Wizard Interaction with Capitalist Economics}{145}
+\contentsline {chapter}{\chapternumberline {9}The Great Junk Car Feed}{147}
+\contentsline {subsection}{Cars are Death, Death to Cars}{147}
+\contentsline {subsection}{Magical Answers!}{150}
+\contentsline {subsection}{End Game: End All Cars}{151}
+\contentsline {subsection}{Free Lives Don't Need Cars}{152}
+\contentsline {chapter}{\chapternumberline {10}Factories Everywhere and Nowhere}{154}
+\contentsline {subsection}{Slipping Between the Cracks}{154}
+\contentsline {subsection}{Bring the Means of Production to the Action}{157}
+\contentsline {subsection}{Production in Autonomous zones}{158}
+\contentsline {subsection}{Life in the Delta}{164}
+\contentsline {subsection}{Guerrilla Fairy Art}{167}
+\contentsline {chapter}{\chapternumberline {11}Visions of a Better Tomorrow}{171}
+\contentsline {subsection}{Ent Moot}{171}
+\contentsline {subsection}{Memoirs from a Bathtub}{172}
+\contentsline {subsection}{Storm's a' Commin'}{173}
+\contentsline {subsection}{Witches Rolling in the Valley}{173}
+\contentsline {subsection}{Riding Against Thor: the Story of Warriors of the Storm Stealing Clean Water from the Gods of Thunder}{173}
+\contentsline {subsection}{Poop Story}{174}
+\contentsline {chapter}{\chapternumberline {12}Free Everything}{179}
+\contentsline {chapter}{\chapternumberline {13}Techniques}{192}
+\contentsline {subsection}{Finding the Right Sticks}{193}
+\contentsline {subsection}{Processing Sticks Into Skeletron}{194}
+\contentsline {subsection}{Finding the Right Plastic}{196}
+\contentsline {subsection}{Plastic Welding}{197}
+\contentsline {subsection}{Salvage Components From Busted Electronics}{199}
+\contentsline {subsection}{How to Solder}{200}
+\contentsline {subsection}{Sticks for Hydraulic Machines}{201}
+\contentsline {subsection}{Sticks for Fluidics}{201}
+\contentsline {subsection}{Chipping Rocks}{202}
+\contentsline {subsection}{Measuring real time voltages and fluxes with an Arduino}{202}
+\contentsline {subsection}{Measuring Electrical Transport of Slime}{203}
+\contentsline {subsection}{Finding Creepy Crawlies}{203}
+\contentsline {subsection}{Design a new 3d Thing}{204}
+\contentsline {subsection}{How I Wrote This}{204}
+\contentsline {subsection}{How to Color Your Wood Stuff}{205}
+\contentsline {subsection}{Rope Work}{206}
+\contentsline {chapter}{\chapternumberline {14}Let's Build This!}{207}
+\contentsline {subsection}{Resonance Magic Stick}{207}
+\contentsline {subsection}{Noise Magic Stick}{214}
+\contentsline {subsection}{Whirligig}{218}
+\contentsline {subsection}{Lesson Gifts}{218}
+\contentsline {subsection}{Courrier Gifts}{219}
+\contentsline {subsection}{Version 1 of Tale and Lore}{219}
+\contentsline {subsection}{Deploy Guerrilla Faery Art}{219}
+\contentsline {subsection}{Future Work}{224}
