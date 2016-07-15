@@ -15,7 +15,7 @@ One more thing to mention about pine is that aside from being easy and fun to wo
 
 ## Processing Sticks Into Skeletron
 
-After locating the sticks, you'll want to saw the ends off flat so that they're not jagged.  I often find that it's easiest to gather sticks by hand without carrying a saw with you when you go out.  You can often rip the branch off by leaning on it with your whole body, be careful you don't hit yourself in the face! 
+After locating the sticks, you'll want to saw the ends off flat so that they're not jagged.  I often find that it's easiest to gather sticks by hand without carrying a saw with you when you go out.  You can often rip the branch off by leaning on it with your whole body, but be careful you don't hit yourself in the face! 
 
 I also find that for this stage it's good to have two hand saws: one is a big rip saw with huge teeth that very quickly will cut through wood but is specifically not intended for metal.  The other is a much smaller screwdriver-like saw with a more hacksaw like blade for easy carry and use on random materials including plastic and metal.  This tool is also useful for removing knots and branches from your main stick branch.  
 

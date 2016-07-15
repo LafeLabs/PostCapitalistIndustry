@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  14 JUL 2016 22:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  15 JUL 2016 16:38
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -921,28 +921,28 @@ Overfull \hbox (2.03766pt too wide) detected at line 81
  []
 
 
-Overfull \hbox (2.03766pt too wide) detected at line 86
- \OT1/cmr/bx/n/12 159
+Overfull \hbox (2.03766pt too wide) detected at line 87
+ \OT1/cmr/bx/n/12 161
  []
 
 
-Overfull \hbox (2.03766pt too wide) detected at line 92
- \OT1/cmr/bx/n/12 176
+Overfull \hbox (2.03766pt too wide) detected at line 94
+ \OT1/cmr/bx/n/12 175
  []
 
 
-Overfull \hbox (2.03766pt too wide) detected at line 99
- \OT1/cmr/bx/n/12 184
+Overfull \hbox (2.03766pt too wide) detected at line 103
+ \OT1/cmr/bx/n/12 186
  []
 
 
-Overfull \hbox (2.03766pt too wide) detected at line 100
- \OT1/cmr/bx/n/12 197
+Overfull \hbox (2.03766pt too wide) detected at line 105
+ \OT1/cmr/bx/n/12 201
  []
 
 
-Overfull \hbox (2.03766pt too wide) detected at line 117
- \OT1/cmr/bx/n/12 212
+Overfull \hbox (2.03766pt too wide) detected at line 122
+ \OT1/cmr/bx/n/12 216
  []
 
 ) (./main.lof
@@ -956,12 +956,15 @@ Overfull \hbox (1.73595pt too wide) in paragraph at lines 22--22
  \OT1/cmr/m/n/12 the East River, be-tween Man-hat-tan is-land and 
  []
 
-) [7] [8
 
-] (./capitalism.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7])
+[8] (./capitalism.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1
+
 
 ]
 Overfull \hbox (9.57745pt too wide) in paragraph at lines 41--62
@@ -1475,32 +1478,31 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [150 <./images/contemplations/contemplation8C.png>] [151] (./JunkCars.tex [152
 
 ] [153]
-[154] [155] [156]) [157] [158] (./means_of_production.tex [159
+[154] [155] [156]) [157] [158] (./contemplation9.tex
+<images/contemplations/contemplation9C.png, id=587, 180.675pt x 339.4281pt>
+File: images/contemplations/contemplation9C.png Graphic file (type png)
+
+<use images/contemplations/contemplation9C.png>
+Package pdftex.def Info: images/contemplations/contemplation9C.png used on inpu
+t line 3.
+(pdftex.def)             Requested size: 180.67455pt x 339.42728pt.
+) [159] [160 <./images/contemplations/contemplation9C.png>] (./means_of_product
+ion.tex [161
 
 ]
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[160]
+[162]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [161]
-Overfull \hbox (0.3081pt too wide) in paragraph at lines 84--89
+ [163]
+Overfull \hbox (0.3081pt too wide) in paragraph at lines 81--86
 \OT1/cmr/m/n/12 tried to erase lines be-tween protest, oc-cu-pa-tion and party.
 
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[162]
-Underfull \vbox (badness 1097) has occurred while \output is active []
-
- [163]
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
@@ -1516,21 +1518,36 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[170]
+[170]) [171]
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[172] (./contemplation10.tex
+<images/contemplations/contemplation10C.png, id=633, 265.4718pt x 183.8067pt>
+File: images/contemplations/contemplation10C.png Graphic file (type png)
+
+<use images/contemplations/contemplation10C.png>
+Package pdftex.def Info: images/contemplations/contemplation10C.png used on inp
+ut line 3.
+(pdftex.def)             Requested size: 265.47115pt x 183.80624pt.
+) [173 <./images/contemplations/contemplation10C.png>]
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[174] (./visions.tex
+Underfull \vbox (badness 2894) has occurred while \output is active []
+
+ [175
+
+]
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[176]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [171]
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[172] [173]
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[174]) [175] (./visions.tex [176
-
-] [177]
-Overfull \hbox (0.73033pt too wide) in paragraph at lines 64--69
+ [177]
+Overfull \hbox (0.73033pt too wide) in paragraph at lines 79--83
 []\OT1/cmr/m/n/12 Living in the deep ocean, on the sur-face, in the storms,
  []
 
@@ -1546,26 +1563,48 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[182]) [183] (./problems.tex [184
+[182]) [183] (./contemplation11.tex
+<images/contemplations/contemplation11C.png, id=670, 258.9675pt x 255.354pt>
+File: images/contemplations/contemplation11C.png Graphic file (type png)
 
-] [185]
+<use images/contemplations/contemplation11C.png>
+Package pdftex.def Info: images/contemplations/contemplation11C.png used on inp
+ut line 3.
+(pdftex.def)             Requested size: 258.96684pt x 255.35338pt.
+)
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[184 <./images/contemplations/contemplation11C.png>] [185] (./problems.tex
+[186
+
+] [187]
 Overfull \hbox (5.59138pt too wide) in paragraph at lines 66--73
 \OT1/cmr/m/n/12 heal-ing tra-di-tions out-side con-ven-tional West-ern medicine
 ). 
  []
 
-[186] [187] [188] [189]
+[188] [189] [190] [191]
 Overfull \hbox (2.979pt too wide) in paragraph at lines 174--186
 \OT1/cmr/m/n/12 I have to dis-tin-guish be-tween this project and the ``maker''
 
  []
 
-[190] [191] [192] [193]
+[192] [193] [194] [195]
 Overfull \hbox (4.5076pt too wide) in paragraph at lines 274--278
 \OT1/cmr/m/n/12 oth-ers to make more art. The el-e-ments of this are through-
  []
 
-[194] [195]) [196] (./techniquesBook1.tex [197
+[196] [197]) [198] (./contemplation12.tex
+<images/contemplations/contemplation12C.png, id=721, 242.1045pt x 251.9814pt>
+File: images/contemplations/contemplation12C.png Graphic file (type png)
+
+<use images/contemplations/contemplation12C.png>
+Package pdftex.def Info: images/contemplations/contemplation12C.png used on inp
+ut line 3.
+(pdftex.def)             Requested size: 242.10391pt x 251.98077pt.
+) [199 <./images/contemplations/contemplation12C.png>] [200] (./techniquesBook1
+.tex [201
 
 ]
 Overfull \hbox (1.41235pt too wide) in paragraph at lines 25--29
@@ -1573,7 +1612,7 @@ Overfull \hbox (1.41235pt too wide) in paragraph at lines 25--29
 
  []
 
-[198] [199] [200] [201] [202] [203] [204] [205]
+[202] [203] [204] [205] [206] [207] [208] [209]
 Overfull \hbox (3.50668pt too wide) in paragraph at lines 220--228
 \OT1/cmr/m/n/12 ter wheels made from sim-ple ar-range-ments of sticks should
  []
@@ -1581,67 +1620,67 @@ Overfull \hbox (3.50668pt too wide) in paragraph at lines 220--228
 
 Underfull \vbox (badness 2556) has occurred while \output is active []
 
- [206]
-[207] [208] [209] [210]) [211] (./lets_build.tex
+ [210]
+[211] [212] [213] [214]) [215] (./lets_build.tex
 Underfull \vbox (badness 1360) has occurred while \output is active []
 
- [212
+ [216
 
 ]
 Overfull \hbox (19.91579pt too wide) in paragraph at lines 41--47
 \OT1/cmr/m/n/12 am-e-ter with 200-500 turns of wire. This is 30 AWG(American
  []
 
-[213] <images/resonantStick1.png, id=762, 256.7994pt x 221.628pt>
+[217] <images/resonantStick1.png, id=783, 256.7994pt x 221.628pt>
 File: images/resonantStick1.png Graphic file (type png)
 
 <use images/resonantStick1.png>
 Package pdftex.def Info: images/resonantStick1.png used on input line 50.
 (pdftex.def)             Requested size: 256.79877pt x 221.62746pt.
- [214 <./images/resonantStick1.png>]
-<images/coilzoom.png, id=767, 258.7266pt x 219.9417pt>
+ [218 <./images/resonantStick1.png>]
+<images/coilzoom.png, id=788, 258.7266pt x 219.9417pt>
 File: images/coilzoom.png Graphic file (type png)
 
 <use images/coilzoom.png>
 Package pdftex.def Info: images/coilzoom.png used on input line 62.
 (pdftex.def)             Requested size: 258.72594pt x 219.94115pt.
 
-<images/bigoscillator.png, id=768, 266.4354pt x 66.7293pt>
+<images/bigoscillator.png, id=789, 266.4354pt x 66.7293pt>
 File: images/bigoscillator.png Graphic file (type png)
 
 <use images/bigoscillator.png>
 Package pdftex.def Info: images/bigoscillator.png used on input line 68.
 (pdftex.def)             Requested size: 266.43474pt x 66.72913pt.
 
-<images/transistorimage.png, id=769, 121.6545pt x 131.5314pt>
+<images/transistorimage.png, id=790, 121.6545pt x 131.5314pt>
 File: images/transistorimage.png Graphic file (type png)
 
 <use images/transistorimage.png>
 Package pdftex.def Info: images/transistorimage.png used on input line 74.
 (pdftex.def)             Requested size: 121.65419pt x 131.53107pt.
 
-<images/ampimage.png, id=770, 144.2991pt x 93.2283pt>
+<images/ampimage.png, id=791, 144.2991pt x 93.2283pt>
 File: images/ampimage.png Graphic file (type png)
 
 <use images/ampimage.png>
 Package pdftex.def Info: images/ampimage.png used on input line 80.
 (pdftex.def)             Requested size: 144.29874pt x 93.22807pt.
- [215 <./images/coilzoom.png>]
+ [219 <./images/coilzoom.png>]
 Underfull \vbox (badness 2418) has occurred while \output is active []
 
- [216 <./images/bigoscillator.png> <./images/transistorimage.png>] [217 <./imag
-es/ampimage.png>] [218]
+ [220 <./images/bigoscillator.png> <./images/transistorimage.png>] [221 <./imag
+es/ampimage.png>] [222]
 Overfull \hbox (10.87883pt too wide) in paragraph at lines 152--157
 []\OT1/cmr/m/n/12 Vibrational ma-chines can also be used for sim-ple propul-
  []
 
-[219] [220]
+[223] [224]
 Overfull \hbox (7.55386pt too wide) in paragraph at lines 197--203
 \OT1/cmr/m/n/12 should be our ears into a vast world of elec-tri-cal impedance,
 
  []
 
-[221] [222] [223] [224] [225]
+[225] [226] [227] [228] [229]
 Overfull \hbox (3.31085pt too wide) in paragraph at lines 338--345
 \OT1/cmr/m/n/12 mak-ing waves, which can be ob-served us-ing a strobe,
  []
@@ -1651,24 +1690,24 @@ Overfull \hbox (3.32845pt too wide) in paragraph at lines 338--345
 \OT1/cmr/m/n/12 am-pli-fied mag-netic pickup. With the mag-ni-fier built
  []
 
-[226]
+[230]
 Overfull \hbox (10.2955pt too wide) in paragraph at lines 358--360
 []\OT1/cmr/m/n/12 evaporative cool-ing re-frig-er-a-tor driven by wa-ter wheel 
 
  []
 
-[227] [228]
+[231] [232]
 Overfull \hbox (12.5053pt too wide) in paragraph at lines 401--402
 \OT1/cmr/m/n/12 I will list the things I'll leave for other projects/publicatio
 ns: 
  []
 
-[229]
+[233]
 Overfull \hbox (3.57196pt too wide) in paragraph at lines 469--471
 []\OT1/cmr/m/n/12 Other aca-demic work you can con-tribute as a scholar 
  []
 
-[230]) [231]
+[234]) [235]
 runsystem(makeindex main.idx)...executed.
 
  (./main.ind)
@@ -1676,7 +1715,7 @@ runsystem(makeindex main.idx)...executed.
 Class memoir Warning: The material used in the headers is too large
 (28.99998pt) for the given head height (14.5pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 108.
+(in both cases you will find help in the memoir manual). on input line 117.
 
 \tf@toc=\write5
 \openout5 = `main.toc'.
@@ -1686,10 +1725,10 @@ either increase the head height or redesign the header
 
 (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 12886 strings out of 493089
- 224847 string characters out of 6134842
- 304019 words of memory out of 5000000
- 16171 multiletter control sequences out of 15000+600000
+ 12931 strings out of 493089
+ 226243 string characters out of 6134842
+ 304251 words of memory out of 5000000
+ 16200 multiletter control sequences out of 15000+600000
  9976 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  50i,11n,41p,10430b,325s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1701,10 +1740,10 @@ l12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
 10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti1
 2.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12
 .pfb>
-Output written on main.pdf (239 pages, 1497593 bytes).
+Output written on main.pdf (243 pages, 1682644 bytes).
 PDF statistics:
- 863 PDF objects out of 1000 (max. 8388607)
- 551 compressed objects within 6 object streams
+ 884 PDF objects out of 1000 (max. 8388607)
+ 560 compressed objects within 6 object streams
  0 named destinations out of 1000 (max. 500000)
- 146 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 166 words of extra memory for PDF output out of 10000 (max. 10000000)
 

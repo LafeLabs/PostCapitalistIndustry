@@ -1,4 +1,6 @@
+## Cloudy Visions
 
+When I close my eyes I can actually see the future I am trying to describe in this work.  Many people beset by such visions would try to turn that into fiction.  I am and always have been terrible at fiction.  However due to the highly speculative nature of this work I'm dedicating this chapter to my very poorly written fiction.  One reason this book is all the way in the public domain with no restrictions whatsoever is that other people can publish their own editions with parts changed and added over time.  It is my intent that should this book ever attract significant readership this chapter be re-written again and again in different editions by different people.  What follows are a series of poorly written and disjointed fragments of what might one day become fiction.  
 
 ## Ent Moot
 
@@ -29,15 +31,13 @@ Rolling robots going up and down the water, littoral robot ideas, using the cree
  
 Like the other storm story but more epic and a smaller group of more risk tolerant people, the warriors of the future, riding to glory by harnessing the storm
 
-Living in the deep ocean, on the surface, in the storms, giant systems of mechanical oscillators that absorb the incoming energy of the storms and turns it into useful work, processing sea water and trash at the same time, storing energy, moving around, and making head, having a fucking party.  
+Living in the deep ocean, on the surface, in the storms, giant systems of mechanical oscillators that absorb the incoming energy of the storms and turns it into useful work, processing sea water and trash at the same time, storing energy, moving around, having a party.  
 
 Lazy river should be the main form of transportation in the future. Humans should live in the river deltas of the world, in clean water channels, in a civilization based on trash magic industry.  
 
 Bathtubs, where we are all The Dude in his bath with his joint and his whale song music.  THAT is  the FUTURE.  
 
 The inundated cities of the future can be a paradise, with storms making an ultimate comfort environment, light, sound, heat, air conditioning, breezes, smells, vibrations, motions, lazy rivers, free drugs, all made as the storms churn through, free energy free trash magic tools, free food, free space and time.  
-
-Must build electric kayak ASAP.  
 
 Really huge diamondoid matrix going for a mile on each side around the eye of a pacific storm, all made from trash, giant artificial mushrooms float around inside the matrix, hookah smoking caterpillars.  
 
@@ -53,7 +53,7 @@ Down on the far end I can see where the open pissers are peeing around in a ston
 
 I choose a particularly awesome looking stone throne, head into the chamber, close the door, and now have a well lit one person sealed stone room  all to myself.  I sit on the heated stone throne, kept at exactly 88 degrees F using temperature controlled oil flowing through holes carved into the living rock by various cyborgs built from genetically modified rock eating fungus and some constructor drones.  I now brandish my stick around in an easily recognizable way, alerting the local music machine to play sounds that correlate with the booms and shreds above, but with my own spin: stream and rain noises, with some German industrial noise music mixed in.
 
-More brandishments of the stick call up a math paper I’ve been working on in the cloud on the shit paper unit, which I stare at for a while while nature takes its course.  Having dropped an epic deuce, I again brandish the trash magic stick, summoning the turd courier drone, which grabs the turd for further study and use.  I now clean myself up with the paper which was a math treatise a minute ago, throw it into the toilet, and have it get dragged off by another drone to the compost chamber where it will be turned into food for fungi which will be food for the hemp plants which will make the next generation of toilet paper for future users(watered by the water extracted from the urine).
+More brandishments of the stick call up a math paper I’ve been working on in the cloud on the poop paper unit, which I stare at for a while while nature takes its course.  Having dropped an epic deuce, I again brandish the trash magic stick, summoning the turd courier drone, which grabs the turd for further study and use.  I now clean myself up with the paper which was a math treatise a minute ago, throw it into the toilet, and have it get dragged off by another drone to the compost chamber where it will be turned into food for fungi which will be food for the hemp plants which will make the next generation of toilet paper for future users(watered by the water extracted from the urine).
 
 Now I wash up in the sink, indicate to the chamber that the cleaning robots can flush the space clean and remake it for the next user, and move on through the exit door which leads to the opposite side of the berm that the toilet room is in. I stroll out the door, which closes behind me and locks, ready for the next user from the other side.  From there a short path leads down to the Science Swamp.  Here I see a bunch of nerds in goggles, some with surgically added gills, wallowing around in the muck, hair covered in duck weed.
 
@@ -61,22 +61,22 @@ Now I wash up in the sink, indicate to the chamber that the cleaning robots can 
 
 “Hail E Coli!” they shout back.
 
-I tell them I just came down from the Lemmy Pod up in the severe end of the shithouse, just now, and point to the one I came from.  Oh yeah, they say, we just saw yours roll in.  An image appears in phosphorescent swamp muck across the surface showing a turd being carried by a spider-like droid through a underground tunnel and dropping it into the fluid pool of an analysis pit with a plop.  I see the closest turdNerd who answered before reach out and grab a pair of stones hanging suspended under the water from some nearby steaks pounded into the swamp.  I can suddenly see the screen on the surface of the swamp come alive with the images that the coli witch sees in their goggles.  What do they see?  Both what the probe “sees” and what the infrared camera sees, as well as another screen that shows genetic information, with some strong artistic liberties taken by the local group here as usual.
+I tell them I just came down from the Lemmy Pod up in the severe end of the poophouse, just now, and point to the one I came from.  Oh yeah, they say, we just saw yours roll in.  An image appears in phosphorescent swamp muck across the surface showing a turd being carried by a spider-like droid through a underground tunnel and dropping it into the fluid pool of an analysis pit with a plop.  I see the closest turdNerd who answered before reach out and grab a pair of stones hanging suspended under the water from some nearby steaks pounded into the swamp.  I can suddenly see the screen on the surface of the swamp come alive with the images that the coli witch sees in their goggles.  What do they see?  Both what the probe “sees” and what the infrared camera sees, as well as another screen that shows genetic information, with some strong artistic liberties taken by the local group here as usual.
 
 “Oh yeah.  Good stuff, good stuff.”
 
 “What?”  I ask
 
-“I don’t know yet, but I see something in the genome here.   Something metal as fuck.  Something that should help with The Project, which we’ve been working on here.  And my sensors are picking up some sweet metal here in the  turd which should work for building nanoelectronics.  Here, since you used our toilet, I’d like you to take this, and make some more, does that sound cool?”
+“I don’t know yet, but I see something in the genome here.   Something very metal.  Something that should help with The Project, which we’ve been working on here.  And my sensors are picking up some sweet metal here in the  turd which should work for building nanoelectronics.  Here, since you used our toilet, I’d like you to take this, and make some more, does that sound cool?”
 
 “ummmmmmmm…..”
 
-“It’s cool.  It’s a methane and hydrogen dirigible drone designed to go spot trash for you. Pretty standard, but with more metal shit and turd iconography than usual.”
+“It’s cool.  It’s a methane and hydrogen dirigible drone designed to go spot trash for you. Pretty standard, but with more metal and turd iconography than usual.”
 
-Well, fuck yeah metal is why i shit here.  “yeah, i’m in, hell yeah, i’ll spread the word, I can show some of those cliff diver people how to make this version when I head down there for the Big Storm.”
+Well, yeah metal is why i poop here.  “yeah, i’m in, hell yeah, i’ll spread the word, I can show some of those cliff diver people how to make this version when I head down there for the Big Storm.”
 
 When they hear I’m heading down there, they get excited, and start laughing.  What, I ask?    What is your deal?
 
-Well, they’ve used their methane fire tools to build yet another invention: a human cannon.  they offer to fire me in their cannon down to where the cliff divers chill, and I agree, and off I go, folded up Heavy Metal Shit Drone safely in my backpack.
+Well, they’ve used their methane fire tools to build yet another invention: a human cannon.  they offer to fire me in their cannon down to where the cliff divers chill, and I agree, and off I go, folded up Heavy Metal Poop Drone safely in my backpack.
 
 When I reach the peak of the trajectory, I hail a skyhook from one of the aerostats with my magic stick, grab onto the cable, and start riding down over the trees toward the Cliffs.

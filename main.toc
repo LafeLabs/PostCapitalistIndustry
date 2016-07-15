@@ -83,43 +83,48 @@
 \contentsline {subsection}{Magical Answers!}{155}
 \contentsline {subsection}{End Game: End All Cars}{156}
 \contentsline {subsection}{Free Lives Don't Need Cars}{157}
-\contentsline {chapter}{\chapternumberline {10}Factories Everywhere and Nowhere}{159}
-\contentsline {subsection}{Slipping Between the Cracks}{159}
-\contentsline {subsection}{Bring the Means of Production to the Action}{162}
-\contentsline {subsection}{Production in Autonomous zones}{163}
+\contentsline {subsection}{Ninth Contemplation: Moebius Tire}{159}
+\contentsline {chapter}{\chapternumberline {10}Factories Everywhere and Nowhere}{161}
+\contentsline {subsection}{Slipping Between the Cracks}{161}
+\contentsline {subsection}{Bring the Means of Production to the Action}{164}
+\contentsline {subsection}{Production in Autonomous zones}{164}
 \contentsline {subsection}{Life in the Delta}{169}
-\contentsline {subsection}{Guerrilla Fairy Art}{172}
-\contentsline {chapter}{\chapternumberline {11}Visions of a Better Tomorrow}{176}
+\contentsline {subsection}{Guerrilla Fairy Art}{171}
+\contentsline {subsection}{Tenth Contemplation: Torus, the four circles}{173}
+\contentsline {chapter}{\chapternumberline {11}Visions of a Better Tomorrow}{175}
+\contentsline {subsection}{Cloudy Visions}{175}
 \contentsline {subsection}{Ent Moot}{176}
-\contentsline {subsection}{Memoirs from a Bathtub}{177}
-\contentsline {subsection}{Storm's a' Commin'}{178}
+\contentsline {subsection}{Memoirs from a Bathtub}{176}
+\contentsline {subsection}{Storm's a' Commin'}{177}
 \contentsline {subsection}{Witches Rolling in the Valley}{178}
 \contentsline {subsection}{Riding Against Thor: the Story of Warriors of the Storm Stealing Clean Water from the Gods of Thunder}{178}
 \contentsline {subsection}{Poop Story}{179}
-\contentsline {chapter}{\chapternumberline {12}Free Everything}{184}
-\contentsline {chapter}{\chapternumberline {13}Techniques}{197}
-\contentsline {subsection}{Finding the Right Sticks}{198}
-\contentsline {subsection}{Processing Sticks Into Skeletron}{199}
-\contentsline {subsection}{Finding the Right Plastic}{201}
-\contentsline {subsection}{Plastic Welding}{202}
-\contentsline {subsection}{Salvage Components From Busted Electronics}{204}
-\contentsline {subsection}{How to Solder}{205}
-\contentsline {subsection}{Sticks for Hydraulic Machines}{206}
-\contentsline {subsection}{Sticks for Fluidics}{206}
-\contentsline {subsection}{Chipping Rocks}{207}
-\contentsline {subsection}{Measuring real time voltages and fluxes with an Arduino}{207}
-\contentsline {subsection}{Measuring Electrical Transport of Slime}{208}
-\contentsline {subsection}{Finding Creepy Crawlies}{208}
-\contentsline {subsection}{Design a new 3d Thing}{209}
-\contentsline {subsection}{How I Wrote This}{209}
-\contentsline {subsection}{How to Color Your Wood Stuff}{210}
-\contentsline {subsection}{Rope Work}{211}
-\contentsline {chapter}{\chapternumberline {14}Let's Build This!}{212}
-\contentsline {subsection}{Resonance Magic Stick}{212}
-\contentsline {subsection}{Noise Magic Stick}{219}
-\contentsline {subsection}{Whirligig}{223}
-\contentsline {subsection}{Lesson Gifts}{223}
-\contentsline {subsection}{Courrier Gifts}{224}
-\contentsline {subsection}{Version 1 of Tale and Lore}{224}
-\contentsline {subsection}{Deploy Guerrilla Faery Art}{224}
-\contentsline {subsection}{Future Work}{229}
+\contentsline {subsection}{Eleventh Contemplation: Bathtub Life}{184}
+\contentsline {chapter}{\chapternumberline {12}Free Everything}{186}
+\contentsline {subsection}{Twelfth Contemplation: Air}{199}
+\contentsline {chapter}{\chapternumberline {13}Techniques}{201}
+\contentsline {subsection}{Finding the Right Sticks}{202}
+\contentsline {subsection}{Processing Sticks Into Skeletron}{203}
+\contentsline {subsection}{Finding the Right Plastic}{205}
+\contentsline {subsection}{Plastic Welding}{206}
+\contentsline {subsection}{Salvage Components From Busted Electronics}{208}
+\contentsline {subsection}{How to Solder}{209}
+\contentsline {subsection}{Sticks for Hydraulic Machines}{210}
+\contentsline {subsection}{Sticks for Fluidics}{210}
+\contentsline {subsection}{Chipping Rocks}{211}
+\contentsline {subsection}{Measuring real time voltages and fluxes with an Arduino}{211}
+\contentsline {subsection}{Measuring Electrical Transport of Slime}{212}
+\contentsline {subsection}{Finding Creepy Crawlies}{212}
+\contentsline {subsection}{Design a new 3d Thing}{213}
+\contentsline {subsection}{How I Wrote This}{213}
+\contentsline {subsection}{How to Color Your Wood Stuff}{214}
+\contentsline {subsection}{Rope Work}{215}
+\contentsline {chapter}{\chapternumberline {14}Let's Build This!}{216}
+\contentsline {subsection}{Resonance Magic Stick}{216}
+\contentsline {subsection}{Noise Magic Stick}{223}
+\contentsline {subsection}{Whirligig}{227}
+\contentsline {subsection}{Lesson Gifts}{227}
+\contentsline {subsection}{Courrier Gifts}{228}
+\contentsline {subsection}{Version 1 of Tale and Lore}{228}
+\contentsline {subsection}{Deploy Guerrilla Faery Art}{228}
+\contentsline {subsection}{Future Work}{233}
