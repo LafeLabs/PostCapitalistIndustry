@@ -119,12 +119,9 @@
 \contentsline {subsection}{How I Wrote This}{213}
 \contentsline {subsection}{How to Color Your Wood Stuff}{214}
 \contentsline {subsection}{Rope Work}{215}
-\contentsline {chapter}{\chapternumberline {14}Let's Build This!}{216}
-\contentsline {subsection}{Resonance Magic Stick}{216}
-\contentsline {subsection}{Noise Magic Stick}{223}
-\contentsline {subsection}{Whirligig}{227}
-\contentsline {subsection}{Lesson Gifts}{227}
-\contentsline {subsection}{Courrier Gifts}{228}
-\contentsline {subsection}{Version 1 of Tale and Lore}{228}
-\contentsline {subsection}{Deploy Guerrilla Faery Art}{228}
-\contentsline {subsection}{Future Work}{233}
+\contentsline {subsection}{Thirteenth Contemplation: 3d Pentagram}{216}
+\contentsline {chapter}{\chapternumberline {14}Let's Build This!}{217}
+\contentsline {subsection}{Resonance Magic Stick}{218}
+\contentsline {subsection}{Noise Magic Stick}{225}
+\contentsline {subsection}{Guerrilla Geometry}{229}
+\contentsline {subsection}{Fourteenth Contemplation: Ion from Earth}{230}

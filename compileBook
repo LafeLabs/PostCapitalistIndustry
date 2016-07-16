@@ -25,6 +25,9 @@ pandoc -f markdown -t latex contemplation11.md -o contemplation11.tex
 pandoc -f markdown -t latex problems.md -o problems.tex
 pandoc -f markdown -t latex contemplation12.md -o contemplation12.tex
 pandoc -f markdown -t latex lets_build.md -o lets_build.tex
+pandoc -f markdown -t latex contemplation13.md -o contemplation13.tex
+pandoc -f markdown -t latex contemplation14.md -o contemplation14.tex
+
 pandoc -f markdown -t latex techniquesBook1.md -o techniquesBook1.tex
 pandoc -f markdown -t latex intellectual_property_notice.md -o intellectual_property_notice.tex
 
